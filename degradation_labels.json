@@ -1,0 +1,5002 @@
+[
+  {
+    "cycle": 0,
+    "stage": 2,
+    "stage_name": "Early Degradation",
+    "sei_thickness_um": 1.0,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 0.0,
+    "ohmic_resistance_mOhm": 10.0,
+    "ct_resistance_mOhm": 50.0
+  },
+  {
+    "cycle": 1,
+    "stage": 2,
+    "stage_name": "Early Degradation",
+    "sei_thickness_um": 1.005,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 0.14999999999998348,
+    "ohmic_resistance_mOhm": 10.1,
+    "ct_resistance_mOhm": 50.300000000000004
+  },
+  {
+    "cycle": 2,
+    "stage": 2,
+    "stage_name": "Early Degradation",
+    "sei_thickness_um": 1.0099999999999998,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 0.29999999999998916,
+    "ohmic_resistance_mOhm": 10.200000000000001,
+    "ct_resistance_mOhm": 50.60000000000001
+  },
+  {
+    "cycle": 3,
+    "stage": 2,
+    "stage_name": "Early Degradation",
+    "sei_thickness_um": 1.0150000000000001,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 0.44999999999999485,
+    "ohmic_resistance_mOhm": 10.3,
+    "ct_resistance_mOhm": 50.9
+  },
+  {
+    "cycle": 4,
+    "stage": 2,
+    "stage_name": "Early Degradation",
+    "sei_thickness_um": 1.02,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 0.6000000000000005,
+    "ohmic_resistance_mOhm": 10.4,
+    "ct_resistance_mOhm": 51.2
+  },
+  {
+    "cycle": 5,
+    "stage": 2,
+    "stage_name": "Early Degradation",
+    "sei_thickness_um": 1.025,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 0.7499999999999951,
+    "ohmic_resistance_mOhm": 10.5,
+    "ct_resistance_mOhm": 51.50000000000001
+  },
+  {
+    "cycle": 6,
+    "stage": 2,
+    "stage_name": "Early Degradation",
+    "sei_thickness_um": 1.0299999999999998,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 0.9000000000000008,
+    "ohmic_resistance_mOhm": 10.6,
+    "ct_resistance_mOhm": 51.800000000000004
+  },
+  {
+    "cycle": 7,
+    "stage": 2,
+    "stage_name": "Early Degradation",
+    "sei_thickness_um": 1.0350000000000001,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 1.0500000000000065,
+    "ohmic_resistance_mOhm": 10.7,
+    "ct_resistance_mOhm": 52.1
+  },
+  {
+    "cycle": 8,
+    "stage": 2,
+    "stage_name": "Early Degradation",
+    "sei_thickness_um": 1.04,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 1.2000000000000122,
+    "ohmic_resistance_mOhm": 10.8,
+    "ct_resistance_mOhm": 52.400000000000006
+  },
+  {
+    "cycle": 9,
+    "stage": 2,
+    "stage_name": "Early Degradation",
+    "sei_thickness_um": 1.045,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 1.3499999999999956,
+    "ohmic_resistance_mOhm": 10.9,
+    "ct_resistance_mOhm": 52.7
+  },
+  {
+    "cycle": 10,
+    "stage": 2,
+    "stage_name": "Early Degradation",
+    "sei_thickness_um": 1.0499999999999998,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 1.5000000000000013,
+    "ohmic_resistance_mOhm": 11.0,
+    "ct_resistance_mOhm": 53.00000000000001
+  },
+  {
+    "cycle": 11,
+    "stage": 2,
+    "stage_name": "Early Degradation",
+    "sei_thickness_um": 1.0550000000000002,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 1.649999999999996,
+    "ohmic_resistance_mOhm": 11.1,
+    "ct_resistance_mOhm": 53.3
+  },
+  {
+    "cycle": 12,
+    "stage": 2,
+    "stage_name": "Early Degradation",
+    "sei_thickness_um": 1.06,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 1.8000000000000016,
+    "ohmic_resistance_mOhm": 11.2,
+    "ct_resistance_mOhm": 53.6
+  },
+  {
+    "cycle": 13,
+    "stage": 2,
+    "stage_name": "Early Degradation",
+    "sei_thickness_um": 1.065,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 1.9500000000000073,
+    "ohmic_resistance_mOhm": 11.3,
+    "ct_resistance_mOhm": 53.900000000000006
+  },
+  {
+    "cycle": 14,
+    "stage": 2,
+    "stage_name": "Early Degradation",
+    "sei_thickness_um": 1.0699999999999998,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 2.100000000000013,
+    "ohmic_resistance_mOhm": 11.4,
+    "ct_resistance_mOhm": 54.2
+  },
+  {
+    "cycle": 15,
+    "stage": 2,
+    "stage_name": "Early Degradation",
+    "sei_thickness_um": 1.075,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 2.2499999999999964,
+    "ohmic_resistance_mOhm": 11.5,
+    "ct_resistance_mOhm": 54.5
+  },
+  {
+    "cycle": 16,
+    "stage": 2,
+    "stage_name": "Early Degradation",
+    "sei_thickness_um": 1.08,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 2.400000000000002,
+    "ohmic_resistance_mOhm": 11.600000000000001,
+    "ct_resistance_mOhm": 54.800000000000004
+  },
+  {
+    "cycle": 17,
+    "stage": 2,
+    "stage_name": "Early Degradation",
+    "sei_thickness_um": 1.085,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 2.5499999999999856,
+    "ohmic_resistance_mOhm": 11.700000000000001,
+    "ct_resistance_mOhm": 55.1
+  },
+  {
+    "cycle": 18,
+    "stage": 2,
+    "stage_name": "Early Degradation",
+    "sei_thickness_um": 1.0899999999999999,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 2.6999999999999913,
+    "ohmic_resistance_mOhm": 11.799999999999999,
+    "ct_resistance_mOhm": 55.400000000000006
+  },
+  {
+    "cycle": 19,
+    "stage": 2,
+    "stage_name": "Early Degradation",
+    "sei_thickness_um": 1.095,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 2.849999999999997,
+    "ohmic_resistance_mOhm": 11.9,
+    "ct_resistance_mOhm": 55.7
+  },
+  {
+    "cycle": 20,
+    "stage": 2,
+    "stage_name": "Early Degradation",
+    "sei_thickness_um": 1.1,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 3.0000000000000027,
+    "ohmic_resistance_mOhm": 12.0,
+    "ct_resistance_mOhm": 56.0
+  },
+  {
+    "cycle": 21,
+    "stage": 2,
+    "stage_name": "Early Degradation",
+    "sei_thickness_um": 1.105,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 3.1499999999999972,
+    "ohmic_resistance_mOhm": 12.1,
+    "ct_resistance_mOhm": 56.300000000000004
+  },
+  {
+    "cycle": 22,
+    "stage": 2,
+    "stage_name": "Early Degradation",
+    "sei_thickness_um": 1.1099999999999999,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 3.300000000000003,
+    "ohmic_resistance_mOhm": 12.200000000000001,
+    "ct_resistance_mOhm": 56.6
+  },
+  {
+    "cycle": 23,
+    "stage": 2,
+    "stage_name": "Early Degradation",
+    "sei_thickness_um": 1.115,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 3.4499999999999864,
+    "ohmic_resistance_mOhm": 12.3,
+    "ct_resistance_mOhm": 56.9
+  },
+  {
+    "cycle": 24,
+    "stage": 2,
+    "stage_name": "Early Degradation",
+    "sei_thickness_um": 1.1199999999999999,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 3.599999999999992,
+    "ohmic_resistance_mOhm": 12.400000000000002,
+    "ct_resistance_mOhm": 57.2
+  },
+  {
+    "cycle": 25,
+    "stage": 2,
+    "stage_name": "Early Degradation",
+    "sei_thickness_um": 1.125,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 3.749999999999998,
+    "ohmic_resistance_mOhm": 12.5,
+    "ct_resistance_mOhm": 57.5
+  },
+  {
+    "cycle": 26,
+    "stage": 2,
+    "stage_name": "Early Degradation",
+    "sei_thickness_um": 1.13,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 3.9000000000000035,
+    "ohmic_resistance_mOhm": 12.6,
+    "ct_resistance_mOhm": 57.800000000000004
+  },
+  {
+    "cycle": 27,
+    "stage": 2,
+    "stage_name": "Early Degradation",
+    "sei_thickness_um": 1.135,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 4.049999999999998,
+    "ohmic_resistance_mOhm": 12.7,
+    "ct_resistance_mOhm": 58.1
+  },
+  {
+    "cycle": 28,
+    "stage": 2,
+    "stage_name": "Early Degradation",
+    "sei_thickness_um": 1.14,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 4.200000000000004,
+    "ohmic_resistance_mOhm": 12.8,
+    "ct_resistance_mOhm": 58.4
+  },
+  {
+    "cycle": 29,
+    "stage": 2,
+    "stage_name": "Early Degradation",
+    "sei_thickness_um": 1.145,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 4.350000000000009,
+    "ohmic_resistance_mOhm": 12.9,
+    "ct_resistance_mOhm": 58.7
+  },
+  {
+    "cycle": 30,
+    "stage": 2,
+    "stage_name": "Early Degradation",
+    "sei_thickness_um": 1.15,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 4.500000000000015,
+    "ohmic_resistance_mOhm": 13.000000000000002,
+    "ct_resistance_mOhm": 59.00000000000001
+  },
+  {
+    "cycle": 31,
+    "stage": 2,
+    "stage_name": "Early Degradation",
+    "sei_thickness_um": 1.155,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 4.649999999999999,
+    "ohmic_resistance_mOhm": 13.100000000000001,
+    "ct_resistance_mOhm": 59.300000000000004
+  },
+  {
+    "cycle": 32,
+    "stage": 2,
+    "stage_name": "Early Degradation",
+    "sei_thickness_um": 1.16,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 4.800000000000004,
+    "ohmic_resistance_mOhm": 13.2,
+    "ct_resistance_mOhm": 59.6
+  },
+  {
+    "cycle": 33,
+    "stage": 2,
+    "stage_name": "Early Degradation",
+    "sei_thickness_um": 1.1649999999999998,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 4.949999999999988,
+    "ohmic_resistance_mOhm": 13.299999999999999,
+    "ct_resistance_mOhm": 59.9
+  },
+  {
+    "cycle": 34,
+    "stage": 3,
+    "stage_name": "Moderate Degradation",
+    "sei_thickness_um": 1.17,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 5.099999999999993,
+    "ohmic_resistance_mOhm": 13.4,
+    "ct_resistance_mOhm": 60.2
+  },
+  {
+    "cycle": 35,
+    "stage": 3,
+    "stage_name": "Moderate Degradation",
+    "sei_thickness_um": 1.175,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 5.249999999999999,
+    "ohmic_resistance_mOhm": 13.5,
+    "ct_resistance_mOhm": 60.5
+  },
+  {
+    "cycle": 36,
+    "stage": 3,
+    "stage_name": "Moderate Degradation",
+    "sei_thickness_um": 1.18,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 5.400000000000005,
+    "ohmic_resistance_mOhm": 13.600000000000001,
+    "ct_resistance_mOhm": 60.8
+  },
+  {
+    "cycle": 37,
+    "stage": 3,
+    "stage_name": "Moderate Degradation",
+    "sei_thickness_um": 1.1849999999999998,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 5.549999999999999,
+    "ohmic_resistance_mOhm": 13.700000000000001,
+    "ct_resistance_mOhm": 61.1
+  },
+  {
+    "cycle": 38,
+    "stage": 3,
+    "stage_name": "Moderate Degradation",
+    "sei_thickness_um": 1.19,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 5.700000000000005,
+    "ohmic_resistance_mOhm": 13.799999999999999,
+    "ct_resistance_mOhm": 61.400000000000006
+  },
+  {
+    "cycle": 39,
+    "stage": 3,
+    "stage_name": "Moderate Degradation",
+    "sei_thickness_um": 1.195,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 5.85000000000001,
+    "ohmic_resistance_mOhm": 13.9,
+    "ct_resistance_mOhm": 61.7
+  },
+  {
+    "cycle": 40,
+    "stage": 3,
+    "stage_name": "Moderate Degradation",
+    "sei_thickness_um": 1.2,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 6.000000000000016,
+    "ohmic_resistance_mOhm": 14.0,
+    "ct_resistance_mOhm": 62.0
+  },
+  {
+    "cycle": 41,
+    "stage": 3,
+    "stage_name": "Moderate Degradation",
+    "sei_thickness_um": 1.2049999999999998,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 6.15,
+    "ohmic_resistance_mOhm": 14.100000000000001,
+    "ct_resistance_mOhm": 62.300000000000004
+  },
+  {
+    "cycle": 42,
+    "stage": 3,
+    "stage_name": "Moderate Degradation",
+    "sei_thickness_um": 1.2099999999999997,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 6.2999999999999945,
+    "ohmic_resistance_mOhm": 14.200000000000001,
+    "ct_resistance_mOhm": 62.6
+  },
+  {
+    "cycle": 43,
+    "stage": 3,
+    "stage_name": "Moderate Degradation",
+    "sei_thickness_um": 1.215,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 6.45,
+    "ohmic_resistance_mOhm": 14.3,
+    "ct_resistance_mOhm": 62.9
+  },
+  {
+    "cycle": 44,
+    "stage": 3,
+    "stage_name": "Moderate Degradation",
+    "sei_thickness_um": 1.22,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 6.600000000000006,
+    "ohmic_resistance_mOhm": 14.4,
+    "ct_resistance_mOhm": 63.2
+  },
+  {
+    "cycle": 45,
+    "stage": 3,
+    "stage_name": "Moderate Degradation",
+    "sei_thickness_um": 1.2249999999999999,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 6.7500000000000115,
+    "ohmic_resistance_mOhm": 14.5,
+    "ct_resistance_mOhm": 63.5
+  },
+  {
+    "cycle": 46,
+    "stage": 3,
+    "stage_name": "Moderate Degradation",
+    "sei_thickness_um": 1.2299999999999998,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 6.899999999999995,
+    "ohmic_resistance_mOhm": 14.6,
+    "ct_resistance_mOhm": 63.8
+  },
+  {
+    "cycle": 47,
+    "stage": 3,
+    "stage_name": "Moderate Degradation",
+    "sei_thickness_um": 1.235,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 7.050000000000001,
+    "ohmic_resistance_mOhm": 14.700000000000001,
+    "ct_resistance_mOhm": 64.10000000000001
+  },
+  {
+    "cycle": 48,
+    "stage": 3,
+    "stage_name": "Moderate Degradation",
+    "sei_thickness_um": 1.24,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 7.200000000000006,
+    "ohmic_resistance_mOhm": 14.8,
+    "ct_resistance_mOhm": 64.4
+  },
+  {
+    "cycle": 49,
+    "stage": 3,
+    "stage_name": "Moderate Degradation",
+    "sei_thickness_um": 1.2449999999999999,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 7.34999999999999,
+    "ohmic_resistance_mOhm": 14.9,
+    "ct_resistance_mOhm": 64.7
+  },
+  {
+    "cycle": 50,
+    "stage": 3,
+    "stage_name": "Moderate Degradation",
+    "sei_thickness_um": 1.25,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 7.499999999999996,
+    "ohmic_resistance_mOhm": 15.0,
+    "ct_resistance_mOhm": 65.0
+  },
+  {
+    "cycle": 51,
+    "stage": 3,
+    "stage_name": "Moderate Degradation",
+    "sei_thickness_um": 1.255,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 7.650000000000001,
+    "ohmic_resistance_mOhm": 15.100000000000001,
+    "ct_resistance_mOhm": 65.3
+  },
+  {
+    "cycle": 52,
+    "stage": 3,
+    "stage_name": "Moderate Degradation",
+    "sei_thickness_um": 1.26,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 7.799999999999995,
+    "ohmic_resistance_mOhm": 15.200000000000001,
+    "ct_resistance_mOhm": 65.60000000000001
+  },
+  {
+    "cycle": 53,
+    "stage": 3,
+    "stage_name": "Moderate Degradation",
+    "sei_thickness_um": 1.265,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 7.950000000000001,
+    "ohmic_resistance_mOhm": 15.3,
+    "ct_resistance_mOhm": 65.9
+  },
+  {
+    "cycle": 54,
+    "stage": 3,
+    "stage_name": "Moderate Degradation",
+    "sei_thickness_um": 1.27,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 8.099999999999985,
+    "ohmic_resistance_mOhm": 15.4,
+    "ct_resistance_mOhm": 66.2
+  },
+  {
+    "cycle": 55,
+    "stage": 3,
+    "stage_name": "Moderate Degradation",
+    "sei_thickness_um": 1.2750000000000001,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 8.249999999999991,
+    "ohmic_resistance_mOhm": 15.5,
+    "ct_resistance_mOhm": 66.5
+  },
+  {
+    "cycle": 56,
+    "stage": 3,
+    "stage_name": "Moderate Degradation",
+    "sei_thickness_um": 1.28,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 8.399999999999997,
+    "ohmic_resistance_mOhm": 15.6,
+    "ct_resistance_mOhm": 66.8
+  },
+  {
+    "cycle": 57,
+    "stage": 3,
+    "stage_name": "Moderate Degradation",
+    "sei_thickness_um": 1.285,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 8.550000000000002,
+    "ohmic_resistance_mOhm": 15.7,
+    "ct_resistance_mOhm": 67.1
+  },
+  {
+    "cycle": 58,
+    "stage": 3,
+    "stage_name": "Moderate Degradation",
+    "sei_thickness_um": 1.29,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 8.699999999999996,
+    "ohmic_resistance_mOhm": 15.8,
+    "ct_resistance_mOhm": 67.4
+  },
+  {
+    "cycle": 59,
+    "stage": 3,
+    "stage_name": "Moderate Degradation",
+    "sei_thickness_um": 1.295,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 8.850000000000001,
+    "ohmic_resistance_mOhm": 15.9,
+    "ct_resistance_mOhm": 67.7
+  },
+  {
+    "cycle": 60,
+    "stage": 3,
+    "stage_name": "Moderate Degradation",
+    "sei_thickness_um": 1.2999999999999998,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 9.000000000000007,
+    "ohmic_resistance_mOhm": 16.0,
+    "ct_resistance_mOhm": 68.0
+  },
+  {
+    "cycle": 61,
+    "stage": 3,
+    "stage_name": "Moderate Degradation",
+    "sei_thickness_um": 1.305,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 9.150000000000013,
+    "ohmic_resistance_mOhm": 16.1,
+    "ct_resistance_mOhm": 68.3
+  },
+  {
+    "cycle": 62,
+    "stage": 3,
+    "stage_name": "Moderate Degradation",
+    "sei_thickness_um": 1.31,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 9.299999999999997,
+    "ohmic_resistance_mOhm": 16.2,
+    "ct_resistance_mOhm": 68.6
+  },
+  {
+    "cycle": 63,
+    "stage": 3,
+    "stage_name": "Moderate Degradation",
+    "sei_thickness_um": 1.315,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 9.450000000000003,
+    "ohmic_resistance_mOhm": 16.3,
+    "ct_resistance_mOhm": 68.9
+  },
+  {
+    "cycle": 64,
+    "stage": 3,
+    "stage_name": "Moderate Degradation",
+    "sei_thickness_um": 1.32,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 9.599999999999987,
+    "ohmic_resistance_mOhm": 16.400000000000002,
+    "ct_resistance_mOhm": 69.2
+  },
+  {
+    "cycle": 65,
+    "stage": 3,
+    "stage_name": "Moderate Degradation",
+    "sei_thickness_um": 1.325,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 9.749999999999993,
+    "ohmic_resistance_mOhm": 16.5,
+    "ct_resistance_mOhm": 69.5
+  },
+  {
+    "cycle": 66,
+    "stage": 3,
+    "stage_name": "Moderate Degradation",
+    "sei_thickness_um": 1.33,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 9.899999999999999,
+    "ohmic_resistance_mOhm": 16.6,
+    "ct_resistance_mOhm": 69.8
+  },
+  {
+    "cycle": 67,
+    "stage": 4,
+    "stage_name": "Advanced Degradation",
+    "sei_thickness_um": 1.335,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 10.050000000000004,
+    "ohmic_resistance_mOhm": 16.7,
+    "ct_resistance_mOhm": 70.1
+  },
+  {
+    "cycle": 68,
+    "stage": 4,
+    "stage_name": "Advanced Degradation",
+    "sei_thickness_um": 1.3399999999999999,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 10.199999999999998,
+    "ohmic_resistance_mOhm": 16.8,
+    "ct_resistance_mOhm": 70.4
+  },
+  {
+    "cycle": 69,
+    "stage": 4,
+    "stage_name": "Advanced Degradation",
+    "sei_thickness_um": 1.345,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 10.350000000000003,
+    "ohmic_resistance_mOhm": 16.900000000000002,
+    "ct_resistance_mOhm": 70.7
+  },
+  {
+    "cycle": 70,
+    "stage": 4,
+    "stage_name": "Advanced Degradation",
+    "sei_thickness_um": 1.35,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 10.500000000000009,
+    "ohmic_resistance_mOhm": 17.0,
+    "ct_resistance_mOhm": 71.00000000000001
+  },
+  {
+    "cycle": 71,
+    "stage": 4,
+    "stage_name": "Advanced Degradation",
+    "sei_thickness_um": 1.355,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 10.650000000000015,
+    "ohmic_resistance_mOhm": 17.1,
+    "ct_resistance_mOhm": 71.3
+  },
+  {
+    "cycle": 72,
+    "stage": 4,
+    "stage_name": "Advanced Degradation",
+    "sei_thickness_um": 1.3599999999999999,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 10.799999999999999,
+    "ohmic_resistance_mOhm": 17.2,
+    "ct_resistance_mOhm": 71.6
+  },
+  {
+    "cycle": 73,
+    "stage": 4,
+    "stage_name": "Advanced Degradation",
+    "sei_thickness_um": 1.365,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 10.950000000000005,
+    "ohmic_resistance_mOhm": 17.3,
+    "ct_resistance_mOhm": 71.9
+  },
+  {
+    "cycle": 74,
+    "stage": 4,
+    "stage_name": "Advanced Degradation",
+    "sei_thickness_um": 1.37,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 11.099999999999998,
+    "ohmic_resistance_mOhm": 17.4,
+    "ct_resistance_mOhm": 72.2
+  },
+  {
+    "cycle": 75,
+    "stage": 4,
+    "stage_name": "Advanced Degradation",
+    "sei_thickness_um": 1.375,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 11.250000000000004,
+    "ohmic_resistance_mOhm": 17.5,
+    "ct_resistance_mOhm": 72.50000000000001
+  },
+  {
+    "cycle": 76,
+    "stage": 4,
+    "stage_name": "Advanced Degradation",
+    "sei_thickness_um": 1.38,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 11.40000000000001,
+    "ohmic_resistance_mOhm": 17.6,
+    "ct_resistance_mOhm": 72.8
+  },
+  {
+    "cycle": 77,
+    "stage": 4,
+    "stage_name": "Advanced Degradation",
+    "sei_thickness_um": 1.3849999999999998,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 11.550000000000015,
+    "ohmic_resistance_mOhm": 17.7,
+    "ct_resistance_mOhm": 73.1
+  },
+  {
+    "cycle": 78,
+    "stage": 4,
+    "stage_name": "Advanced Degradation",
+    "sei_thickness_um": 1.3900000000000001,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 11.7,
+    "ohmic_resistance_mOhm": 17.8,
+    "ct_resistance_mOhm": 73.39999999999999
+  },
+  {
+    "cycle": 79,
+    "stage": 4,
+    "stage_name": "Advanced Degradation",
+    "sei_thickness_um": 1.395,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 11.850000000000005,
+    "ohmic_resistance_mOhm": 17.9,
+    "ct_resistance_mOhm": 73.7
+  },
+  {
+    "cycle": 80,
+    "stage": 4,
+    "stage_name": "Advanced Degradation",
+    "sei_thickness_um": 1.4,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 11.99999999999999,
+    "ohmic_resistance_mOhm": 18.000000000000004,
+    "ct_resistance_mOhm": 74.0
+  },
+  {
+    "cycle": 81,
+    "stage": 4,
+    "stage_name": "Advanced Degradation",
+    "sei_thickness_um": 1.4049999999999998,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 12.149999999999995,
+    "ohmic_resistance_mOhm": 18.099999999999998,
+    "ct_resistance_mOhm": 74.30000000000001
+  },
+  {
+    "cycle": 82,
+    "stage": 4,
+    "stage_name": "Advanced Degradation",
+    "sei_thickness_um": 1.4100000000000001,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 12.3,
+    "ohmic_resistance_mOhm": 18.2,
+    "ct_resistance_mOhm": 74.6
+  },
+  {
+    "cycle": 83,
+    "stage": 4,
+    "stage_name": "Advanced Degradation",
+    "sei_thickness_um": 1.415,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 12.450000000000006,
+    "ohmic_resistance_mOhm": 18.3,
+    "ct_resistance_mOhm": 74.89999999999999
+  },
+  {
+    "cycle": 84,
+    "stage": 4,
+    "stage_name": "Advanced Degradation",
+    "sei_thickness_um": 1.42,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 12.6,
+    "ohmic_resistance_mOhm": 18.4,
+    "ct_resistance_mOhm": 75.2
+  },
+  {
+    "cycle": 85,
+    "stage": 4,
+    "stage_name": "Advanced Degradation",
+    "sei_thickness_um": 1.4249999999999998,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 12.749999999999984,
+    "ohmic_resistance_mOhm": 18.500000000000004,
+    "ct_resistance_mOhm": 75.5
+  },
+  {
+    "cycle": 86,
+    "stage": 4,
+    "stage_name": "Advanced Degradation",
+    "sei_thickness_um": 1.43,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 12.89999999999999,
+    "ohmic_resistance_mOhm": 18.599999999999998,
+    "ct_resistance_mOhm": 75.80000000000001
+  },
+  {
+    "cycle": 87,
+    "stage": 4,
+    "stage_name": "Advanced Degradation",
+    "sei_thickness_um": 1.435,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 13.049999999999995,
+    "ohmic_resistance_mOhm": 18.700000000000003,
+    "ct_resistance_mOhm": 76.1
+  },
+  {
+    "cycle": 88,
+    "stage": 4,
+    "stage_name": "Advanced Degradation",
+    "sei_thickness_um": 1.44,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 13.200000000000001,
+    "ohmic_resistance_mOhm": 18.8,
+    "ct_resistance_mOhm": 76.39999999999999
+  },
+  {
+    "cycle": 89,
+    "stage": 4,
+    "stage_name": "Advanced Degradation",
+    "sei_thickness_um": 1.4449999999999998,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 13.349999999999994,
+    "ohmic_resistance_mOhm": 18.9,
+    "ct_resistance_mOhm": 76.7
+  },
+  {
+    "cycle": 90,
+    "stage": 4,
+    "stage_name": "Advanced Degradation",
+    "sei_thickness_um": 1.4500000000000002,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 13.5,
+    "ohmic_resistance_mOhm": 19.000000000000004,
+    "ct_resistance_mOhm": 77.0
+  },
+  {
+    "cycle": 91,
+    "stage": 4,
+    "stage_name": "Advanced Degradation",
+    "sei_thickness_um": 1.455,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 13.650000000000006,
+    "ohmic_resistance_mOhm": 19.099999999999998,
+    "ct_resistance_mOhm": 77.30000000000001
+  },
+  {
+    "cycle": 92,
+    "stage": 4,
+    "stage_name": "Advanced Degradation",
+    "sei_thickness_um": 1.46,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 13.800000000000011,
+    "ohmic_resistance_mOhm": 19.200000000000003,
+    "ct_resistance_mOhm": 77.60000000000001
+  },
+  {
+    "cycle": 93,
+    "stage": 4,
+    "stage_name": "Advanced Degradation",
+    "sei_thickness_um": 1.4649999999999999,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 13.949999999999996,
+    "ohmic_resistance_mOhm": 19.3,
+    "ct_resistance_mOhm": 77.89999999999999
+  },
+  {
+    "cycle": 94,
+    "stage": 4,
+    "stage_name": "Advanced Degradation",
+    "sei_thickness_um": 1.47,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 14.100000000000001,
+    "ohmic_resistance_mOhm": 19.400000000000002,
+    "ct_resistance_mOhm": 78.19999999999999
+  },
+  {
+    "cycle": 95,
+    "stage": 4,
+    "stage_name": "Advanced Degradation",
+    "sei_thickness_um": 1.4749999999999999,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 14.250000000000007,
+    "ohmic_resistance_mOhm": 19.5,
+    "ct_resistance_mOhm": 78.5
+  },
+  {
+    "cycle": 96,
+    "stage": 4,
+    "stage_name": "Advanced Degradation",
+    "sei_thickness_um": 1.48,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 14.399999999999991,
+    "ohmic_resistance_mOhm": 19.599999999999998,
+    "ct_resistance_mOhm": 78.80000000000001
+  },
+  {
+    "cycle": 97,
+    "stage": 4,
+    "stage_name": "Advanced Degradation",
+    "sei_thickness_um": 1.4849999999999999,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 14.549999999999997,
+    "ohmic_resistance_mOhm": 19.700000000000003,
+    "ct_resistance_mOhm": 79.10000000000001
+  },
+  {
+    "cycle": 98,
+    "stage": 4,
+    "stage_name": "Advanced Degradation",
+    "sei_thickness_um": 1.49,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 14.700000000000003,
+    "ohmic_resistance_mOhm": 19.799999999999997,
+    "ct_resistance_mOhm": 79.39999999999999
+  },
+  {
+    "cycle": 99,
+    "stage": 4,
+    "stage_name": "Advanced Degradation",
+    "sei_thickness_um": 1.495,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 14.849999999999996,
+    "ohmic_resistance_mOhm": 19.900000000000002,
+    "ct_resistance_mOhm": 79.69999999999999
+  },
+  {
+    "cycle": 100,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.5,
+    "li_plating_um": 0.0,
+    "capacity_fade_pct": 15.000000000000002,
+    "ohmic_resistance_mOhm": 20.0,
+    "ct_resistance_mOhm": 80.0
+  },
+  {
+    "cycle": 101,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.505,
+    "li_plating_um": 1.01,
+    "capacity_fade_pct": 15.150000000000007,
+    "ohmic_resistance_mOhm": 20.1,
+    "ct_resistance_mOhm": 80.3
+  },
+  {
+    "cycle": 102,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.51,
+    "li_plating_um": 1.02,
+    "capacity_fade_pct": 15.300000000000013,
+    "ohmic_resistance_mOhm": 20.200000000000003,
+    "ct_resistance_mOhm": 80.60000000000001
+  },
+  {
+    "cycle": 103,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.515,
+    "li_plating_um": 1.03,
+    "capacity_fade_pct": 15.449999999999998,
+    "ohmic_resistance_mOhm": 20.299999999999997,
+    "ct_resistance_mOhm": 80.9
+  },
+  {
+    "cycle": 104,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.5199999999999998,
+    "li_plating_um": 1.04,
+    "capacity_fade_pct": 15.600000000000003,
+    "ohmic_resistance_mOhm": 20.400000000000002,
+    "ct_resistance_mOhm": 81.19999999999999
+  },
+  {
+    "cycle": 105,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.525,
+    "li_plating_um": 1.05,
+    "capacity_fade_pct": 15.749999999999996,
+    "ohmic_resistance_mOhm": 20.5,
+    "ct_resistance_mOhm": 81.5
+  },
+  {
+    "cycle": 106,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.53,
+    "li_plating_um": 1.06,
+    "capacity_fade_pct": 15.900000000000002,
+    "ohmic_resistance_mOhm": 20.6,
+    "ct_resistance_mOhm": 81.8
+  },
+  {
+    "cycle": 107,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.535,
+    "li_plating_um": 1.0699999999999998,
+    "capacity_fade_pct": 16.050000000000008,
+    "ohmic_resistance_mOhm": 20.700000000000003,
+    "ct_resistance_mOhm": 82.10000000000001
+  },
+  {
+    "cycle": 108,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.54,
+    "li_plating_um": 1.08,
+    "capacity_fade_pct": 16.200000000000014,
+    "ohmic_resistance_mOhm": 20.8,
+    "ct_resistance_mOhm": 82.4
+  },
+  {
+    "cycle": 109,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.545,
+    "li_plating_um": 1.0899999999999999,
+    "capacity_fade_pct": 16.349999999999998,
+    "ohmic_resistance_mOhm": 20.900000000000002,
+    "ct_resistance_mOhm": 82.69999999999999
+  },
+  {
+    "cycle": 110,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.55,
+    "li_plating_um": 1.1,
+    "capacity_fade_pct": 16.500000000000004,
+    "ohmic_resistance_mOhm": 21.0,
+    "ct_resistance_mOhm": 82.99999999999999
+  },
+  {
+    "cycle": 111,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.555,
+    "li_plating_um": 1.1099999999999999,
+    "capacity_fade_pct": 16.649999999999988,
+    "ohmic_resistance_mOhm": 21.1,
+    "ct_resistance_mOhm": 83.3
+  },
+  {
+    "cycle": 112,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.5599999999999998,
+    "li_plating_um": 1.12,
+    "capacity_fade_pct": 16.799999999999994,
+    "ohmic_resistance_mOhm": 21.2,
+    "ct_resistance_mOhm": 83.60000000000001
+  },
+  {
+    "cycle": 113,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.565,
+    "li_plating_um": 1.13,
+    "capacity_fade_pct": 16.95,
+    "ohmic_resistance_mOhm": 21.3,
+    "ct_resistance_mOhm": 83.9
+  },
+  {
+    "cycle": 114,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.57,
+    "li_plating_um": 1.1400000000000001,
+    "capacity_fade_pct": 17.100000000000005,
+    "ohmic_resistance_mOhm": 21.400000000000002,
+    "ct_resistance_mOhm": 84.2
+  },
+  {
+    "cycle": 115,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.575,
+    "li_plating_um": 1.15,
+    "capacity_fade_pct": 17.25,
+    "ohmic_resistance_mOhm": 21.5,
+    "ct_resistance_mOhm": 84.49999999999999
+  },
+  {
+    "cycle": 116,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.58,
+    "li_plating_um": 1.1600000000000001,
+    "capacity_fade_pct": 17.400000000000006,
+    "ohmic_resistance_mOhm": 21.6,
+    "ct_resistance_mOhm": 84.8
+  },
+  {
+    "cycle": 117,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.585,
+    "li_plating_um": 1.17,
+    "capacity_fade_pct": 17.549999999999986,
+    "ohmic_resistance_mOhm": 21.7,
+    "ct_resistance_mOhm": 85.10000000000001
+  },
+  {
+    "cycle": 118,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.59,
+    "li_plating_um": 1.18,
+    "capacity_fade_pct": 17.699999999999992,
+    "ohmic_resistance_mOhm": 21.8,
+    "ct_resistance_mOhm": 85.4
+  },
+  {
+    "cycle": 119,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.595,
+    "li_plating_um": 1.19,
+    "capacity_fade_pct": 17.849999999999998,
+    "ohmic_resistance_mOhm": 21.900000000000002,
+    "ct_resistance_mOhm": 85.7
+  },
+  {
+    "cycle": 120,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.5999999999999999,
+    "li_plating_um": 1.2,
+    "capacity_fade_pct": 17.999999999999993,
+    "ohmic_resistance_mOhm": 22.0,
+    "ct_resistance_mOhm": 86.0
+  },
+  {
+    "cycle": 121,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.605,
+    "li_plating_um": 1.21,
+    "capacity_fade_pct": 18.15,
+    "ohmic_resistance_mOhm": 22.1,
+    "ct_resistance_mOhm": 86.3
+  },
+  {
+    "cycle": 122,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.6099999999999999,
+    "li_plating_um": 1.22,
+    "capacity_fade_pct": 18.300000000000004,
+    "ohmic_resistance_mOhm": 22.2,
+    "ct_resistance_mOhm": 86.6
+  },
+  {
+    "cycle": 123,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.615,
+    "li_plating_um": 1.23,
+    "capacity_fade_pct": 18.45000000000001,
+    "ohmic_resistance_mOhm": 22.3,
+    "ct_resistance_mOhm": 86.9
+  },
+  {
+    "cycle": 124,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.6199999999999999,
+    "li_plating_um": 1.24,
+    "capacity_fade_pct": 18.599999999999994,
+    "ohmic_resistance_mOhm": 22.400000000000002,
+    "ct_resistance_mOhm": 87.2
+  },
+  {
+    "cycle": 125,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.6250000000000002,
+    "li_plating_um": 1.25,
+    "capacity_fade_pct": 18.75,
+    "ohmic_resistance_mOhm": 22.5,
+    "ct_resistance_mOhm": 87.5
+  },
+  {
+    "cycle": 126,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.6300000000000001,
+    "li_plating_um": 1.26,
+    "capacity_fade_pct": 18.900000000000006,
+    "ohmic_resistance_mOhm": 22.6,
+    "ct_resistance_mOhm": 87.79999999999998
+  },
+  {
+    "cycle": 127,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.635,
+    "li_plating_um": 1.27,
+    "capacity_fade_pct": 19.04999999999999,
+    "ohmic_resistance_mOhm": 22.700000000000003,
+    "ct_resistance_mOhm": 88.1
+  },
+  {
+    "cycle": 128,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.64,
+    "li_plating_um": 1.28,
+    "capacity_fade_pct": 19.199999999999996,
+    "ohmic_resistance_mOhm": 22.8,
+    "ct_resistance_mOhm": 88.4
+  },
+  {
+    "cycle": 129,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.645,
+    "li_plating_um": 1.29,
+    "capacity_fade_pct": 19.35,
+    "ohmic_resistance_mOhm": 22.9,
+    "ct_resistance_mOhm": 88.7
+  },
+  {
+    "cycle": 130,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.65,
+    "li_plating_um": 1.3,
+    "capacity_fade_pct": 19.500000000000007,
+    "ohmic_resistance_mOhm": 23.0,
+    "ct_resistance_mOhm": 89.0
+  },
+  {
+    "cycle": 131,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.6549999999999998,
+    "li_plating_um": 1.31,
+    "capacity_fade_pct": 19.650000000000002,
+    "ohmic_resistance_mOhm": 23.1,
+    "ct_resistance_mOhm": 89.3
+  },
+  {
+    "cycle": 132,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.66,
+    "li_plating_um": 1.32,
+    "capacity_fade_pct": 19.800000000000008,
+    "ohmic_resistance_mOhm": 23.2,
+    "ct_resistance_mOhm": 89.6
+  },
+  {
+    "cycle": 133,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.665,
+    "li_plating_um": 1.33,
+    "capacity_fade_pct": 19.950000000000014,
+    "ohmic_resistance_mOhm": 23.3,
+    "ct_resistance_mOhm": 89.9
+  },
+  {
+    "cycle": 134,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.6700000000000002,
+    "li_plating_um": 1.34,
+    "capacity_fade_pct": 20.10000000000001,
+    "ohmic_resistance_mOhm": 23.400000000000002,
+    "ct_resistance_mOhm": 90.2
+  },
+  {
+    "cycle": 135,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.675,
+    "li_plating_um": 1.35,
+    "capacity_fade_pct": 20.25,
+    "ohmic_resistance_mOhm": 23.5,
+    "ct_resistance_mOhm": 90.5
+  },
+  {
+    "cycle": 136,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.68,
+    "li_plating_um": 1.36,
+    "capacity_fade_pct": 20.399999999999995,
+    "ohmic_resistance_mOhm": 23.6,
+    "ct_resistance_mOhm": 90.8
+  },
+  {
+    "cycle": 137,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.685,
+    "li_plating_um": 1.37,
+    "capacity_fade_pct": 20.55,
+    "ohmic_resistance_mOhm": 23.7,
+    "ct_resistance_mOhm": 91.1
+  },
+  {
+    "cycle": 138,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.69,
+    "li_plating_um": 1.3800000000000001,
+    "capacity_fade_pct": 20.700000000000006,
+    "ohmic_resistance_mOhm": 23.8,
+    "ct_resistance_mOhm": 91.4
+  },
+  {
+    "cycle": 139,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.6949999999999998,
+    "li_plating_um": 1.3900000000000001,
+    "capacity_fade_pct": 20.85,
+    "ohmic_resistance_mOhm": 23.900000000000002,
+    "ct_resistance_mOhm": 91.7
+  },
+  {
+    "cycle": 140,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.6999999999999997,
+    "li_plating_um": 1.4,
+    "capacity_fade_pct": 20.999999999999996,
+    "ohmic_resistance_mOhm": 24.0,
+    "ct_resistance_mOhm": 92.0
+  },
+  {
+    "cycle": 141,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.705,
+    "li_plating_um": 1.4100000000000001,
+    "capacity_fade_pct": 21.150000000000002,
+    "ohmic_resistance_mOhm": 24.100000000000005,
+    "ct_resistance_mOhm": 92.3
+  },
+  {
+    "cycle": 142,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.71,
+    "li_plating_um": 1.42,
+    "capacity_fade_pct": 21.299999999999997,
+    "ohmic_resistance_mOhm": 24.2,
+    "ct_resistance_mOhm": 92.60000000000001
+  },
+  {
+    "cycle": 143,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.715,
+    "li_plating_um": 1.4300000000000002,
+    "capacity_fade_pct": 21.450000000000003,
+    "ohmic_resistance_mOhm": 24.3,
+    "ct_resistance_mOhm": 92.89999999999999
+  },
+  {
+    "cycle": 144,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.72,
+    "li_plating_um": 1.44,
+    "capacity_fade_pct": 21.599999999999998,
+    "ohmic_resistance_mOhm": 24.400000000000002,
+    "ct_resistance_mOhm": 93.2
+  },
+  {
+    "cycle": 145,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.725,
+    "li_plating_um": 1.4500000000000002,
+    "capacity_fade_pct": 21.750000000000004,
+    "ohmic_resistance_mOhm": 24.5,
+    "ct_resistance_mOhm": 93.5
+  },
+  {
+    "cycle": 146,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.73,
+    "li_plating_um": 1.46,
+    "capacity_fade_pct": 21.9,
+    "ohmic_resistance_mOhm": 24.6,
+    "ct_resistance_mOhm": 93.8
+  },
+  {
+    "cycle": 147,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.7349999999999999,
+    "li_plating_um": 1.4700000000000002,
+    "capacity_fade_pct": 22.050000000000004,
+    "ohmic_resistance_mOhm": 24.7,
+    "ct_resistance_mOhm": 94.1
+  },
+  {
+    "cycle": 148,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.7399999999999998,
+    "li_plating_um": 1.48,
+    "capacity_fade_pct": 22.199999999999996,
+    "ohmic_resistance_mOhm": 24.800000000000004,
+    "ct_resistance_mOhm": 94.39999999999999
+  },
+  {
+    "cycle": 149,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.745,
+    "li_plating_um": 1.4900000000000002,
+    "capacity_fade_pct": 22.35,
+    "ohmic_resistance_mOhm": 24.9,
+    "ct_resistance_mOhm": 94.7
+  },
+  {
+    "cycle": 150,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.75,
+    "li_plating_um": 1.5,
+    "capacity_fade_pct": 22.499999999999996,
+    "ohmic_resistance_mOhm": 25.0,
+    "ct_resistance_mOhm": 95.0
+  },
+  {
+    "cycle": 151,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.755,
+    "li_plating_um": 1.51,
+    "capacity_fade_pct": 22.650000000000002,
+    "ohmic_resistance_mOhm": 25.1,
+    "ct_resistance_mOhm": 95.3
+  },
+  {
+    "cycle": 152,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.76,
+    "li_plating_um": 1.52,
+    "capacity_fade_pct": 22.799999999999997,
+    "ohmic_resistance_mOhm": 25.2,
+    "ct_resistance_mOhm": 95.6
+  },
+  {
+    "cycle": 153,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.7650000000000001,
+    "li_plating_um": 1.53,
+    "capacity_fade_pct": 22.950000000000003,
+    "ohmic_resistance_mOhm": 25.300000000000004,
+    "ct_resistance_mOhm": 95.9
+  },
+  {
+    "cycle": 154,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.77,
+    "li_plating_um": 1.54,
+    "capacity_fade_pct": 23.099999999999998,
+    "ohmic_resistance_mOhm": 25.4,
+    "ct_resistance_mOhm": 96.2
+  },
+  {
+    "cycle": 155,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.775,
+    "li_plating_um": 1.55,
+    "capacity_fade_pct": 23.250000000000004,
+    "ohmic_resistance_mOhm": 25.500000000000004,
+    "ct_resistance_mOhm": 96.5
+  },
+  {
+    "cycle": 156,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.7799999999999998,
+    "li_plating_um": 1.56,
+    "capacity_fade_pct": 23.4,
+    "ohmic_resistance_mOhm": 25.6,
+    "ct_resistance_mOhm": 96.8
+  },
+  {
+    "cycle": 157,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.785,
+    "li_plating_um": 1.57,
+    "capacity_fade_pct": 23.550000000000004,
+    "ohmic_resistance_mOhm": 25.7,
+    "ct_resistance_mOhm": 97.1
+  },
+  {
+    "cycle": 158,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.79,
+    "li_plating_um": 1.58,
+    "capacity_fade_pct": 23.7,
+    "ohmic_resistance_mOhm": 25.800000000000004,
+    "ct_resistance_mOhm": 97.4
+  },
+  {
+    "cycle": 159,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.795,
+    "li_plating_um": 1.59,
+    "capacity_fade_pct": 23.850000000000005,
+    "ohmic_resistance_mOhm": 25.9,
+    "ct_resistance_mOhm": 97.69999999999999
+  },
+  {
+    "cycle": 160,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.7999999999999998,
+    "li_plating_um": 1.5999999999999999,
+    "capacity_fade_pct": 24.0,
+    "ohmic_resistance_mOhm": 26.000000000000004,
+    "ct_resistance_mOhm": 98.0
+  },
+  {
+    "cycle": 161,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.8050000000000002,
+    "li_plating_um": 1.61,
+    "capacity_fade_pct": 24.150000000000006,
+    "ohmic_resistance_mOhm": 26.099999999999998,
+    "ct_resistance_mOhm": 98.3
+  },
+  {
+    "cycle": 162,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.81,
+    "li_plating_um": 1.6199999999999999,
+    "capacity_fade_pct": 24.3,
+    "ohmic_resistance_mOhm": 26.200000000000003,
+    "ct_resistance_mOhm": 98.6
+  },
+  {
+    "cycle": 163,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.815,
+    "li_plating_um": 1.6300000000000001,
+    "capacity_fade_pct": 24.449999999999996,
+    "ohmic_resistance_mOhm": 26.300000000000004,
+    "ct_resistance_mOhm": 98.9
+  },
+  {
+    "cycle": 164,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.8199999999999998,
+    "li_plating_um": 1.64,
+    "capacity_fade_pct": 24.6,
+    "ohmic_resistance_mOhm": 26.4,
+    "ct_resistance_mOhm": 99.2
+  },
+  {
+    "cycle": 165,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.825,
+    "li_plating_um": 1.6500000000000001,
+    "capacity_fade_pct": 24.750000000000007,
+    "ohmic_resistance_mOhm": 26.500000000000004,
+    "ct_resistance_mOhm": 99.5
+  },
+  {
+    "cycle": 166,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.8299999999999998,
+    "li_plating_um": 1.66,
+    "capacity_fade_pct": 24.9,
+    "ohmic_resistance_mOhm": 26.599999999999998,
+    "ct_resistance_mOhm": 99.8
+  },
+  {
+    "cycle": 167,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.835,
+    "li_plating_um": 1.6700000000000002,
+    "capacity_fade_pct": 25.049999999999994,
+    "ohmic_resistance_mOhm": 26.700000000000003,
+    "ct_resistance_mOhm": 100.1
+  },
+  {
+    "cycle": 168,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.8399999999999999,
+    "li_plating_um": 1.68,
+    "capacity_fade_pct": 25.2,
+    "ohmic_resistance_mOhm": 26.800000000000004,
+    "ct_resistance_mOhm": 100.39999999999999
+  },
+  {
+    "cycle": 169,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.8450000000000002,
+    "li_plating_um": 1.6900000000000002,
+    "capacity_fade_pct": 25.350000000000005,
+    "ohmic_resistance_mOhm": 26.9,
+    "ct_resistance_mOhm": 100.7
+  },
+  {
+    "cycle": 170,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.85,
+    "li_plating_um": 1.7,
+    "capacity_fade_pct": 25.5,
+    "ohmic_resistance_mOhm": 27.000000000000004,
+    "ct_resistance_mOhm": 101.0
+  },
+  {
+    "cycle": 171,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.855,
+    "li_plating_um": 1.71,
+    "capacity_fade_pct": 25.649999999999995,
+    "ohmic_resistance_mOhm": 27.099999999999998,
+    "ct_resistance_mOhm": 101.3
+  },
+  {
+    "cycle": 172,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.8599999999999999,
+    "li_plating_um": 1.72,
+    "capacity_fade_pct": 25.8,
+    "ohmic_resistance_mOhm": 27.200000000000003,
+    "ct_resistance_mOhm": 101.6
+  },
+  {
+    "cycle": 173,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.865,
+    "li_plating_um": 1.73,
+    "capacity_fade_pct": 25.950000000000006,
+    "ohmic_resistance_mOhm": 27.299999999999997,
+    "ct_resistance_mOhm": 101.89999999999999
+  },
+  {
+    "cycle": 174,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.8699999999999999,
+    "li_plating_um": 1.74,
+    "capacity_fade_pct": 26.1,
+    "ohmic_resistance_mOhm": 27.400000000000002,
+    "ct_resistance_mOhm": 102.2
+  },
+  {
+    "cycle": 175,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.8749999999999998,
+    "li_plating_um": 1.75,
+    "capacity_fade_pct": 26.249999999999996,
+    "ohmic_resistance_mOhm": 27.500000000000004,
+    "ct_resistance_mOhm": 102.50000000000001
+  },
+  {
+    "cycle": 176,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.88,
+    "li_plating_um": 1.76,
+    "capacity_fade_pct": 26.400000000000002,
+    "ohmic_resistance_mOhm": 27.599999999999998,
+    "ct_resistance_mOhm": 102.8
+  },
+  {
+    "cycle": 177,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.885,
+    "li_plating_um": 1.77,
+    "capacity_fade_pct": 26.550000000000008,
+    "ohmic_resistance_mOhm": 27.700000000000003,
+    "ct_resistance_mOhm": 103.1
+  },
+  {
+    "cycle": 178,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.8900000000000001,
+    "li_plating_um": 1.78,
+    "capacity_fade_pct": 26.700000000000003,
+    "ohmic_resistance_mOhm": 27.799999999999997,
+    "ct_resistance_mOhm": 103.39999999999999
+  },
+  {
+    "cycle": 179,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.895,
+    "li_plating_um": 1.79,
+    "capacity_fade_pct": 26.849999999999994,
+    "ohmic_resistance_mOhm": 27.900000000000002,
+    "ct_resistance_mOhm": 103.7
+  },
+  {
+    "cycle": 180,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.9,
+    "li_plating_um": 1.8,
+    "capacity_fade_pct": 27.0,
+    "ohmic_resistance_mOhm": 28.000000000000004,
+    "ct_resistance_mOhm": 104.0
+  },
+  {
+    "cycle": 181,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.905,
+    "li_plating_um": 1.81,
+    "capacity_fade_pct": 27.150000000000006,
+    "ohmic_resistance_mOhm": 28.1,
+    "ct_resistance_mOhm": 104.3
+  },
+  {
+    "cycle": 182,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.91,
+    "li_plating_um": 1.8199999999999998,
+    "capacity_fade_pct": 27.3,
+    "ohmic_resistance_mOhm": 28.200000000000003,
+    "ct_resistance_mOhm": 104.6
+  },
+  {
+    "cycle": 183,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.9149999999999998,
+    "li_plating_um": 1.83,
+    "capacity_fade_pct": 27.449999999999996,
+    "ohmic_resistance_mOhm": 28.299999999999997,
+    "ct_resistance_mOhm": 104.89999999999999
+  },
+  {
+    "cycle": 184,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.92,
+    "li_plating_um": 1.8399999999999999,
+    "capacity_fade_pct": 27.6,
+    "ohmic_resistance_mOhm": 28.400000000000002,
+    "ct_resistance_mOhm": 105.19999999999999
+  },
+  {
+    "cycle": 185,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.9250000000000003,
+    "li_plating_um": 1.85,
+    "capacity_fade_pct": 27.750000000000007,
+    "ohmic_resistance_mOhm": 28.500000000000004,
+    "ct_resistance_mOhm": 105.5
+  },
+  {
+    "cycle": 186,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.9300000000000002,
+    "li_plating_um": 1.8599999999999999,
+    "capacity_fade_pct": 27.900000000000002,
+    "ohmic_resistance_mOhm": 28.6,
+    "ct_resistance_mOhm": 105.80000000000001
+  },
+  {
+    "cycle": 187,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.935,
+    "li_plating_um": 1.87,
+    "capacity_fade_pct": 28.049999999999997,
+    "ohmic_resistance_mOhm": 28.700000000000003,
+    "ct_resistance_mOhm": 106.1
+  },
+  {
+    "cycle": 188,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.9400000000000002,
+    "li_plating_um": 1.88,
+    "capacity_fade_pct": 28.200000000000003,
+    "ohmic_resistance_mOhm": 28.8,
+    "ct_resistance_mOhm": 106.39999999999999
+  },
+  {
+    "cycle": 189,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.945,
+    "li_plating_um": 1.8900000000000001,
+    "capacity_fade_pct": 28.35000000000001,
+    "ohmic_resistance_mOhm": 28.900000000000002,
+    "ct_resistance_mOhm": 106.69999999999999
+  },
+  {
+    "cycle": 190,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.95,
+    "li_plating_um": 1.9,
+    "capacity_fade_pct": 28.500000000000004,
+    "ohmic_resistance_mOhm": 28.999999999999996,
+    "ct_resistance_mOhm": 107.0
+  },
+  {
+    "cycle": 191,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.9549999999999998,
+    "li_plating_um": 1.91,
+    "capacity_fade_pct": 28.65,
+    "ohmic_resistance_mOhm": 29.1,
+    "ct_resistance_mOhm": 107.30000000000001
+  },
+  {
+    "cycle": 192,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.96,
+    "li_plating_um": 1.9200000000000002,
+    "capacity_fade_pct": 28.800000000000004,
+    "ohmic_resistance_mOhm": 29.200000000000003,
+    "ct_resistance_mOhm": 107.6
+  },
+  {
+    "cycle": 193,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.9649999999999999,
+    "li_plating_um": 1.9300000000000002,
+    "capacity_fade_pct": 28.95,
+    "ohmic_resistance_mOhm": 29.3,
+    "ct_resistance_mOhm": 107.89999999999999
+  },
+  {
+    "cycle": 194,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.9699999999999998,
+    "li_plating_um": 1.9400000000000002,
+    "capacity_fade_pct": 29.099999999999994,
+    "ohmic_resistance_mOhm": 29.400000000000002,
+    "ct_resistance_mOhm": 108.19999999999999
+  },
+  {
+    "cycle": 195,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.9749999999999996,
+    "li_plating_um": 1.95,
+    "capacity_fade_pct": 29.25,
+    "ohmic_resistance_mOhm": 29.5,
+    "ct_resistance_mOhm": 108.5
+  },
+  {
+    "cycle": 196,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.9799999999999998,
+    "li_plating_um": 1.96,
+    "capacity_fade_pct": 29.400000000000006,
+    "ohmic_resistance_mOhm": 29.6,
+    "ct_resistance_mOhm": 108.80000000000001
+  },
+  {
+    "cycle": 197,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.985,
+    "li_plating_um": 1.9700000000000002,
+    "capacity_fade_pct": 29.549999999999997,
+    "ohmic_resistance_mOhm": 29.700000000000003,
+    "ct_resistance_mOhm": 109.10000000000001
+  },
+  {
+    "cycle": 198,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.99,
+    "li_plating_um": 1.9800000000000002,
+    "capacity_fade_pct": 29.699999999999992,
+    "ohmic_resistance_mOhm": 29.8,
+    "ct_resistance_mOhm": 109.39999999999999
+  },
+  {
+    "cycle": 199,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 1.9949999999999999,
+    "li_plating_um": 1.99,
+    "capacity_fade_pct": 29.849999999999998,
+    "ohmic_resistance_mOhm": 29.900000000000002,
+    "ct_resistance_mOhm": 109.69999999999999
+  },
+  {
+    "cycle": 200,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.0,
+    "li_plating_um": 2.0,
+    "capacity_fade_pct": 30.000000000000004,
+    "ohmic_resistance_mOhm": 30.0,
+    "ct_resistance_mOhm": 110.0
+  },
+  {
+    "cycle": 201,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.0050000000000003,
+    "li_plating_um": 2.0100000000000002,
+    "capacity_fade_pct": 30.15,
+    "ohmic_resistance_mOhm": 30.1,
+    "ct_resistance_mOhm": 110.3
+  },
+  {
+    "cycle": 202,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.0100000000000002,
+    "li_plating_um": 2.02,
+    "capacity_fade_pct": 30.299999999999994,
+    "ohmic_resistance_mOhm": 30.200000000000003,
+    "ct_resistance_mOhm": 110.60000000000001
+  },
+  {
+    "cycle": 203,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.015,
+    "li_plating_um": 2.0300000000000002,
+    "capacity_fade_pct": 30.45,
+    "ohmic_resistance_mOhm": 30.3,
+    "ct_resistance_mOhm": 110.9
+  },
+  {
+    "cycle": 204,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.02,
+    "li_plating_um": 2.04,
+    "capacity_fade_pct": 30.600000000000005,
+    "ohmic_resistance_mOhm": 30.400000000000002,
+    "ct_resistance_mOhm": 111.19999999999999
+  },
+  {
+    "cycle": 205,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.025,
+    "li_plating_um": 2.05,
+    "capacity_fade_pct": 30.75,
+    "ohmic_resistance_mOhm": 30.5,
+    "ct_resistance_mOhm": 111.49999999999999
+  },
+  {
+    "cycle": 206,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.0300000000000002,
+    "li_plating_um": 2.06,
+    "capacity_fade_pct": 30.899999999999995,
+    "ohmic_resistance_mOhm": 30.6,
+    "ct_resistance_mOhm": 111.8
+  },
+  {
+    "cycle": 207,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.035,
+    "li_plating_um": 2.0700000000000003,
+    "capacity_fade_pct": 31.05,
+    "ohmic_resistance_mOhm": 30.7,
+    "ct_resistance_mOhm": 112.10000000000001
+  },
+  {
+    "cycle": 208,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.04,
+    "li_plating_um": 2.08,
+    "capacity_fade_pct": 31.200000000000006,
+    "ohmic_resistance_mOhm": 30.8,
+    "ct_resistance_mOhm": 112.4
+  },
+  {
+    "cycle": 209,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.045,
+    "li_plating_um": 2.09,
+    "capacity_fade_pct": 31.35,
+    "ohmic_resistance_mOhm": 30.900000000000002,
+    "ct_resistance_mOhm": 112.69999999999999
+  },
+  {
+    "cycle": 210,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.05,
+    "li_plating_um": 2.1,
+    "capacity_fade_pct": 31.499999999999993,
+    "ohmic_resistance_mOhm": 31.0,
+    "ct_resistance_mOhm": 113.0
+  },
+  {
+    "cycle": 211,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.0549999999999997,
+    "li_plating_um": 2.1100000000000003,
+    "capacity_fade_pct": 31.65,
+    "ohmic_resistance_mOhm": 31.1,
+    "ct_resistance_mOhm": 113.3
+  },
+  {
+    "cycle": 212,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.0599999999999996,
+    "li_plating_um": 2.12,
+    "capacity_fade_pct": 31.800000000000004,
+    "ohmic_resistance_mOhm": 31.2,
+    "ct_resistance_mOhm": 113.6
+  },
+  {
+    "cycle": 213,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.0649999999999995,
+    "li_plating_um": 2.13,
+    "capacity_fade_pct": 31.95,
+    "ohmic_resistance_mOhm": 31.3,
+    "ct_resistance_mOhm": 113.9
+  },
+  {
+    "cycle": 214,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.07,
+    "li_plating_um": 2.1399999999999997,
+    "capacity_fade_pct": 32.099999999999994,
+    "ohmic_resistance_mOhm": 31.400000000000006,
+    "ct_resistance_mOhm": 114.2
+  },
+  {
+    "cycle": 215,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.075,
+    "li_plating_um": 2.1500000000000004,
+    "capacity_fade_pct": 32.25,
+    "ohmic_resistance_mOhm": 31.5,
+    "ct_resistance_mOhm": 114.49999999999999
+  },
+  {
+    "cycle": 216,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.08,
+    "li_plating_um": 2.16,
+    "capacity_fade_pct": 32.400000000000006,
+    "ohmic_resistance_mOhm": 31.6,
+    "ct_resistance_mOhm": 114.8
+  },
+  {
+    "cycle": 217,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.085,
+    "li_plating_um": 2.17,
+    "capacity_fade_pct": 32.550000000000004,
+    "ohmic_resistance_mOhm": 31.7,
+    "ct_resistance_mOhm": 115.1
+  },
+  {
+    "cycle": 218,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.09,
+    "li_plating_um": 2.1799999999999997,
+    "capacity_fade_pct": 32.699999999999996,
+    "ohmic_resistance_mOhm": 31.8,
+    "ct_resistance_mOhm": 115.4
+  },
+  {
+    "cycle": 219,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.095,
+    "li_plating_um": 2.1900000000000004,
+    "capacity_fade_pct": 32.85,
+    "ohmic_resistance_mOhm": 31.9,
+    "ct_resistance_mOhm": 115.7
+  },
+  {
+    "cycle": 220,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.1,
+    "li_plating_um": 2.2,
+    "capacity_fade_pct": 33.00000000000001,
+    "ohmic_resistance_mOhm": 32.0,
+    "ct_resistance_mOhm": 115.99999999999999
+  },
+  {
+    "cycle": 221,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.105,
+    "li_plating_um": 2.21,
+    "capacity_fade_pct": 33.15,
+    "ohmic_resistance_mOhm": 32.1,
+    "ct_resistance_mOhm": 116.3
+  },
+  {
+    "cycle": 222,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.1100000000000003,
+    "li_plating_um": 2.2199999999999998,
+    "capacity_fade_pct": 33.3,
+    "ohmic_resistance_mOhm": 32.2,
+    "ct_resistance_mOhm": 116.6
+  },
+  {
+    "cycle": 223,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.115,
+    "li_plating_um": 2.2300000000000004,
+    "capacity_fade_pct": 33.45,
+    "ohmic_resistance_mOhm": 32.300000000000004,
+    "ct_resistance_mOhm": 116.89999999999999
+  },
+  {
+    "cycle": 224,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.12,
+    "li_plating_um": 2.24,
+    "capacity_fade_pct": 33.60000000000001,
+    "ohmic_resistance_mOhm": 32.4,
+    "ct_resistance_mOhm": 117.2
+  },
+  {
+    "cycle": 225,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.125,
+    "li_plating_um": 2.25,
+    "capacity_fade_pct": 33.75,
+    "ohmic_resistance_mOhm": 32.5,
+    "ct_resistance_mOhm": 117.5
+  },
+  {
+    "cycle": 226,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.13,
+    "li_plating_um": 2.26,
+    "capacity_fade_pct": 33.9,
+    "ohmic_resistance_mOhm": 32.6,
+    "ct_resistance_mOhm": 117.8
+  },
+  {
+    "cycle": 227,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.135,
+    "li_plating_um": 2.27,
+    "capacity_fade_pct": 34.050000000000004,
+    "ohmic_resistance_mOhm": 32.7,
+    "ct_resistance_mOhm": 118.1
+  },
+  {
+    "cycle": 228,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.1399999999999997,
+    "li_plating_um": 2.2800000000000002,
+    "capacity_fade_pct": 34.20000000000001,
+    "ohmic_resistance_mOhm": 32.800000000000004,
+    "ct_resistance_mOhm": 118.39999999999999
+  },
+  {
+    "cycle": 229,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.1449999999999996,
+    "li_plating_um": 2.29,
+    "capacity_fade_pct": 34.35,
+    "ohmic_resistance_mOhm": 32.9,
+    "ct_resistance_mOhm": 118.7
+  },
+  {
+    "cycle": 230,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.15,
+    "li_plating_um": 2.3,
+    "capacity_fade_pct": 34.5,
+    "ohmic_resistance_mOhm": 33.0,
+    "ct_resistance_mOhm": 119.0
+  },
+  {
+    "cycle": 231,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.155,
+    "li_plating_um": 2.31,
+    "capacity_fade_pct": 34.650000000000006,
+    "ohmic_resistance_mOhm": 33.1,
+    "ct_resistance_mOhm": 119.3
+  },
+  {
+    "cycle": 232,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.16,
+    "li_plating_um": 2.3200000000000003,
+    "capacity_fade_pct": 34.80000000000001,
+    "ohmic_resistance_mOhm": 33.2,
+    "ct_resistance_mOhm": 119.6
+  },
+  {
+    "cycle": 233,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.165,
+    "li_plating_um": 2.33,
+    "capacity_fade_pct": 34.95,
+    "ohmic_resistance_mOhm": 33.300000000000004,
+    "ct_resistance_mOhm": 119.89999999999999
+  },
+  {
+    "cycle": 234,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.17,
+    "li_plating_um": 2.34,
+    "capacity_fade_pct": 35.099999999999994,
+    "ohmic_resistance_mOhm": 33.4,
+    "ct_resistance_mOhm": 120.2
+  },
+  {
+    "cycle": 235,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.175,
+    "li_plating_um": 2.35,
+    "capacity_fade_pct": 35.25,
+    "ohmic_resistance_mOhm": 33.5,
+    "ct_resistance_mOhm": 120.5
+  },
+  {
+    "cycle": 236,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.1799999999999997,
+    "li_plating_um": 2.36,
+    "capacity_fade_pct": 35.4,
+    "ohmic_resistance_mOhm": 33.6,
+    "ct_resistance_mOhm": 120.8
+  },
+  {
+    "cycle": 237,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.185,
+    "li_plating_um": 2.37,
+    "capacity_fade_pct": 35.54999999999999,
+    "ohmic_resistance_mOhm": 33.7,
+    "ct_resistance_mOhm": 121.1
+  },
+  {
+    "cycle": 238,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.1900000000000004,
+    "li_plating_um": 2.38,
+    "capacity_fade_pct": 35.699999999999996,
+    "ohmic_resistance_mOhm": 33.800000000000004,
+    "ct_resistance_mOhm": 121.39999999999999
+  },
+  {
+    "cycle": 239,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.1950000000000003,
+    "li_plating_um": 2.39,
+    "capacity_fade_pct": 35.85,
+    "ohmic_resistance_mOhm": 33.9,
+    "ct_resistance_mOhm": 121.7
+  },
+  {
+    "cycle": 240,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.2,
+    "li_plating_um": 2.4,
+    "capacity_fade_pct": 36.0,
+    "ohmic_resistance_mOhm": 34.0,
+    "ct_resistance_mOhm": 122.0
+  },
+  {
+    "cycle": 241,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.205,
+    "li_plating_um": 2.41,
+    "capacity_fade_pct": 36.14999999999999,
+    "ohmic_resistance_mOhm": 34.1,
+    "ct_resistance_mOhm": 122.3
+  },
+  {
+    "cycle": 242,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.21,
+    "li_plating_um": 2.42,
+    "capacity_fade_pct": 36.3,
+    "ohmic_resistance_mOhm": 34.2,
+    "ct_resistance_mOhm": 122.6
+  },
+  {
+    "cycle": 243,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.215,
+    "li_plating_um": 2.43,
+    "capacity_fade_pct": 36.45,
+    "ohmic_resistance_mOhm": 34.300000000000004,
+    "ct_resistance_mOhm": 122.89999999999999
+  },
+  {
+    "cycle": 244,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.2199999999999998,
+    "li_plating_um": 2.44,
+    "capacity_fade_pct": 36.6,
+    "ohmic_resistance_mOhm": 34.4,
+    "ct_resistance_mOhm": 123.19999999999999
+  },
+  {
+    "cycle": 245,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.225,
+    "li_plating_um": 2.45,
+    "capacity_fade_pct": 36.74999999999999,
+    "ohmic_resistance_mOhm": 34.5,
+    "ct_resistance_mOhm": 123.5
+  },
+  {
+    "cycle": 246,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.23,
+    "li_plating_um": 2.46,
+    "capacity_fade_pct": 36.9,
+    "ohmic_resistance_mOhm": 34.6,
+    "ct_resistance_mOhm": 123.8
+  },
+  {
+    "cycle": 247,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.235,
+    "li_plating_um": 2.47,
+    "capacity_fade_pct": 37.050000000000004,
+    "ohmic_resistance_mOhm": 34.7,
+    "ct_resistance_mOhm": 124.10000000000001
+  },
+  {
+    "cycle": 248,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.2399999999999998,
+    "li_plating_um": 2.48,
+    "capacity_fade_pct": 37.2,
+    "ohmic_resistance_mOhm": 34.800000000000004,
+    "ct_resistance_mOhm": 124.39999999999999
+  },
+  {
+    "cycle": 249,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.2449999999999997,
+    "li_plating_um": 2.4899999999999998,
+    "capacity_fade_pct": 37.349999999999994,
+    "ohmic_resistance_mOhm": 34.9,
+    "ct_resistance_mOhm": 124.69999999999999
+  },
+  {
+    "cycle": 250,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.25,
+    "li_plating_um": 2.5,
+    "capacity_fade_pct": 37.5,
+    "ohmic_resistance_mOhm": 35.0,
+    "ct_resistance_mOhm": 125.0
+  },
+  {
+    "cycle": 251,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.255,
+    "li_plating_um": 2.5100000000000002,
+    "capacity_fade_pct": 37.650000000000006,
+    "ohmic_resistance_mOhm": 35.1,
+    "ct_resistance_mOhm": 125.3
+  },
+  {
+    "cycle": 252,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.26,
+    "li_plating_um": 2.52,
+    "capacity_fade_pct": 37.8,
+    "ohmic_resistance_mOhm": 35.2,
+    "ct_resistance_mOhm": 125.6
+  },
+  {
+    "cycle": 253,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.265,
+    "li_plating_um": 2.53,
+    "capacity_fade_pct": 37.949999999999996,
+    "ohmic_resistance_mOhm": 35.3,
+    "ct_resistance_mOhm": 125.9
+  },
+  {
+    "cycle": 254,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.2700000000000005,
+    "li_plating_um": 2.54,
+    "capacity_fade_pct": 38.1,
+    "ohmic_resistance_mOhm": 35.4,
+    "ct_resistance_mOhm": 126.19999999999997
+  },
+  {
+    "cycle": 255,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.2750000000000004,
+    "li_plating_um": 2.5500000000000003,
+    "capacity_fade_pct": 38.25000000000001,
+    "ohmic_resistance_mOhm": 35.50000000000001,
+    "ct_resistance_mOhm": 126.5
+  },
+  {
+    "cycle": 256,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.2800000000000002,
+    "li_plating_um": 2.56,
+    "capacity_fade_pct": 38.4,
+    "ohmic_resistance_mOhm": 35.6,
+    "ct_resistance_mOhm": 126.8
+  },
+  {
+    "cycle": 257,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.285,
+    "li_plating_um": 2.57,
+    "capacity_fade_pct": 38.55,
+    "ohmic_resistance_mOhm": 35.7,
+    "ct_resistance_mOhm": 127.1
+  },
+  {
+    "cycle": 258,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.29,
+    "li_plating_um": 2.58,
+    "capacity_fade_pct": 38.7,
+    "ohmic_resistance_mOhm": 35.8,
+    "ct_resistance_mOhm": 127.40000000000002
+  },
+  {
+    "cycle": 259,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.295,
+    "li_plating_um": 2.5900000000000003,
+    "capacity_fade_pct": 38.85000000000001,
+    "ohmic_resistance_mOhm": 35.9,
+    "ct_resistance_mOhm": 127.69999999999997
+  },
+  {
+    "cycle": 260,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.3,
+    "li_plating_um": 2.6,
+    "capacity_fade_pct": 39.0,
+    "ohmic_resistance_mOhm": 36.00000000000001,
+    "ct_resistance_mOhm": 128.0
+  },
+  {
+    "cycle": 261,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.305,
+    "li_plating_um": 2.61,
+    "capacity_fade_pct": 39.15,
+    "ohmic_resistance_mOhm": 36.1,
+    "ct_resistance_mOhm": 128.3
+  },
+  {
+    "cycle": 262,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.31,
+    "li_plating_um": 2.62,
+    "capacity_fade_pct": 39.300000000000004,
+    "ohmic_resistance_mOhm": 36.2,
+    "ct_resistance_mOhm": 128.6
+  },
+  {
+    "cycle": 263,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.315,
+    "li_plating_um": 2.6300000000000003,
+    "capacity_fade_pct": 39.45000000000001,
+    "ohmic_resistance_mOhm": 36.3,
+    "ct_resistance_mOhm": 128.9
+  },
+  {
+    "cycle": 264,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.32,
+    "li_plating_um": 2.64,
+    "capacity_fade_pct": 39.6,
+    "ohmic_resistance_mOhm": 36.4,
+    "ct_resistance_mOhm": 129.2
+  },
+  {
+    "cycle": 265,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.3249999999999997,
+    "li_plating_um": 2.65,
+    "capacity_fade_pct": 39.75,
+    "ohmic_resistance_mOhm": 36.50000000000001,
+    "ct_resistance_mOhm": 129.5
+  },
+  {
+    "cycle": 266,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.3299999999999996,
+    "li_plating_um": 2.66,
+    "capacity_fade_pct": 39.900000000000006,
+    "ohmic_resistance_mOhm": 36.6,
+    "ct_resistance_mOhm": 129.8
+  },
+  {
+    "cycle": 267,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.3349999999999995,
+    "li_plating_um": 2.67,
+    "capacity_fade_pct": 40.05000000000001,
+    "ohmic_resistance_mOhm": 36.7,
+    "ct_resistance_mOhm": 130.1
+  },
+  {
+    "cycle": 268,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.34,
+    "li_plating_um": 2.68,
+    "capacity_fade_pct": 40.2,
+    "ohmic_resistance_mOhm": 36.8,
+    "ct_resistance_mOhm": 130.4
+  },
+  {
+    "cycle": 269,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.345,
+    "li_plating_um": 2.69,
+    "capacity_fade_pct": 40.349999999999994,
+    "ohmic_resistance_mOhm": 36.900000000000006,
+    "ct_resistance_mOhm": 130.7
+  },
+  {
+    "cycle": 270,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.35,
+    "li_plating_um": 2.7,
+    "capacity_fade_pct": 40.5,
+    "ohmic_resistance_mOhm": 37.0,
+    "ct_resistance_mOhm": 131.0
+  },
+  {
+    "cycle": 271,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.355,
+    "li_plating_um": 2.71,
+    "capacity_fade_pct": 40.650000000000006,
+    "ohmic_resistance_mOhm": 37.1,
+    "ct_resistance_mOhm": 131.3
+  },
+  {
+    "cycle": 272,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.3600000000000003,
+    "li_plating_um": 2.72,
+    "capacity_fade_pct": 40.800000000000004,
+    "ohmic_resistance_mOhm": 37.2,
+    "ct_resistance_mOhm": 131.6
+  },
+  {
+    "cycle": 273,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.365,
+    "li_plating_um": 2.73,
+    "capacity_fade_pct": 40.949999999999996,
+    "ohmic_resistance_mOhm": 37.3,
+    "ct_resistance_mOhm": 131.89999999999998
+  },
+  {
+    "cycle": 274,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.37,
+    "li_plating_um": 2.74,
+    "capacity_fade_pct": 41.1,
+    "ohmic_resistance_mOhm": 37.400000000000006,
+    "ct_resistance_mOhm": 132.2
+  },
+  {
+    "cycle": 275,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.375,
+    "li_plating_um": 2.75,
+    "capacity_fade_pct": 41.25000000000001,
+    "ohmic_resistance_mOhm": 37.5,
+    "ct_resistance_mOhm": 132.5
+  },
+  {
+    "cycle": 276,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.38,
+    "li_plating_um": 2.7600000000000002,
+    "capacity_fade_pct": 41.400000000000006,
+    "ohmic_resistance_mOhm": 37.6,
+    "ct_resistance_mOhm": 132.8
+  },
+  {
+    "cycle": 277,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.3850000000000002,
+    "li_plating_um": 2.77,
+    "capacity_fade_pct": 41.55,
+    "ohmic_resistance_mOhm": 37.7,
+    "ct_resistance_mOhm": 133.1
+  },
+  {
+    "cycle": 278,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.39,
+    "li_plating_um": 2.7800000000000002,
+    "capacity_fade_pct": 41.7,
+    "ohmic_resistance_mOhm": 37.8,
+    "ct_resistance_mOhm": 133.39999999999998
+  },
+  {
+    "cycle": 279,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.395,
+    "li_plating_um": 2.79,
+    "capacity_fade_pct": 41.85,
+    "ohmic_resistance_mOhm": 37.900000000000006,
+    "ct_resistance_mOhm": 133.7
+  },
+  {
+    "cycle": 280,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.4,
+    "li_plating_um": 2.8,
+    "capacity_fade_pct": 41.99999999999999,
+    "ohmic_resistance_mOhm": 38.0,
+    "ct_resistance_mOhm": 134.0
+  },
+  {
+    "cycle": 281,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.405,
+    "li_plating_um": 2.81,
+    "capacity_fade_pct": 42.15,
+    "ohmic_resistance_mOhm": 38.1,
+    "ct_resistance_mOhm": 134.29999999999998
+  },
+  {
+    "cycle": 282,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.4099999999999997,
+    "li_plating_um": 2.8200000000000003,
+    "capacity_fade_pct": 42.300000000000004,
+    "ohmic_resistance_mOhm": 38.2,
+    "ct_resistance_mOhm": 134.6
+  },
+  {
+    "cycle": 283,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.4149999999999996,
+    "li_plating_um": 2.83,
+    "capacity_fade_pct": 42.449999999999996,
+    "ohmic_resistance_mOhm": 38.3,
+    "ct_resistance_mOhm": 134.9
+  },
+  {
+    "cycle": 284,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.4199999999999995,
+    "li_plating_um": 2.84,
+    "capacity_fade_pct": 42.599999999999994,
+    "ohmic_resistance_mOhm": 38.400000000000006,
+    "ct_resistance_mOhm": 135.2
+  },
+  {
+    "cycle": 285,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.4250000000000003,
+    "li_plating_um": 2.85,
+    "capacity_fade_pct": 42.75,
+    "ohmic_resistance_mOhm": 38.5,
+    "ct_resistance_mOhm": 135.5
+  },
+  {
+    "cycle": 286,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.43,
+    "li_plating_um": 2.8600000000000003,
+    "capacity_fade_pct": 42.900000000000006,
+    "ohmic_resistance_mOhm": 38.6,
+    "ct_resistance_mOhm": 135.79999999999998
+  },
+  {
+    "cycle": 287,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.435,
+    "li_plating_um": 2.87,
+    "capacity_fade_pct": 43.05,
+    "ohmic_resistance_mOhm": 38.699999999999996,
+    "ct_resistance_mOhm": 136.1
+  },
+  {
+    "cycle": 288,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.44,
+    "li_plating_um": 2.88,
+    "capacity_fade_pct": 43.199999999999996,
+    "ohmic_resistance_mOhm": 38.800000000000004,
+    "ct_resistance_mOhm": 136.4
+  },
+  {
+    "cycle": 289,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.445,
+    "li_plating_um": 2.8899999999999997,
+    "capacity_fade_pct": 43.35,
+    "ohmic_resistance_mOhm": 38.900000000000006,
+    "ct_resistance_mOhm": 136.7
+  },
+  {
+    "cycle": 290,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.45,
+    "li_plating_um": 2.9000000000000004,
+    "capacity_fade_pct": 43.50000000000001,
+    "ohmic_resistance_mOhm": 39.0,
+    "ct_resistance_mOhm": 137.0
+  },
+  {
+    "cycle": 291,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.455,
+    "li_plating_um": 2.91,
+    "capacity_fade_pct": 43.65,
+    "ohmic_resistance_mOhm": 39.1,
+    "ct_resistance_mOhm": 137.29999999999998
+  },
+  {
+    "cycle": 292,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.46,
+    "li_plating_um": 2.92,
+    "capacity_fade_pct": 43.8,
+    "ohmic_resistance_mOhm": 39.199999999999996,
+    "ct_resistance_mOhm": 137.6
+  },
+  {
+    "cycle": 293,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.4650000000000003,
+    "li_plating_um": 2.9299999999999997,
+    "capacity_fade_pct": 43.95,
+    "ohmic_resistance_mOhm": 39.300000000000004,
+    "ct_resistance_mOhm": 137.9
+  },
+  {
+    "cycle": 294,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.47,
+    "li_plating_um": 2.9400000000000004,
+    "capacity_fade_pct": 44.10000000000001,
+    "ohmic_resistance_mOhm": 39.400000000000006,
+    "ct_resistance_mOhm": 138.2
+  },
+  {
+    "cycle": 295,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.475,
+    "li_plating_um": 2.95,
+    "capacity_fade_pct": 44.25,
+    "ohmic_resistance_mOhm": 39.5,
+    "ct_resistance_mOhm": 138.5
+  },
+  {
+    "cycle": 296,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.48,
+    "li_plating_um": 2.96,
+    "capacity_fade_pct": 44.39999999999999,
+    "ohmic_resistance_mOhm": 39.6,
+    "ct_resistance_mOhm": 138.79999999999998
+  },
+  {
+    "cycle": 297,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.485,
+    "li_plating_um": 2.9699999999999998,
+    "capacity_fade_pct": 44.55,
+    "ohmic_resistance_mOhm": 39.699999999999996,
+    "ct_resistance_mOhm": 139.1
+  },
+  {
+    "cycle": 298,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.4899999999999998,
+    "li_plating_um": 2.9800000000000004,
+    "capacity_fade_pct": 44.7,
+    "ohmic_resistance_mOhm": 39.800000000000004,
+    "ct_resistance_mOhm": 139.4
+  },
+  {
+    "cycle": 299,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.4949999999999997,
+    "li_plating_um": 2.99,
+    "capacity_fade_pct": 44.85,
+    "ohmic_resistance_mOhm": 39.900000000000006,
+    "ct_resistance_mOhm": 139.7
+  },
+  {
+    "cycle": 300,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.5,
+    "li_plating_um": 3.0,
+    "capacity_fade_pct": 44.99999999999999,
+    "ohmic_resistance_mOhm": 40.0,
+    "ct_resistance_mOhm": 140.0
+  },
+  {
+    "cycle": 301,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.505,
+    "li_plating_um": 3.01,
+    "capacity_fade_pct": 45.15,
+    "ohmic_resistance_mOhm": 40.1,
+    "ct_resistance_mOhm": 140.29999999999998
+  },
+  {
+    "cycle": 302,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.51,
+    "li_plating_um": 3.02,
+    "capacity_fade_pct": 45.300000000000004,
+    "ohmic_resistance_mOhm": 40.2,
+    "ct_resistance_mOhm": 140.6
+  },
+  {
+    "cycle": 303,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.515,
+    "li_plating_um": 3.0300000000000002,
+    "capacity_fade_pct": 45.45,
+    "ohmic_resistance_mOhm": 40.300000000000004,
+    "ct_resistance_mOhm": 140.9
+  },
+  {
+    "cycle": 304,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.52,
+    "li_plating_um": 3.04,
+    "capacity_fade_pct": 45.599999999999994,
+    "ohmic_resistance_mOhm": 40.4,
+    "ct_resistance_mOhm": 141.2
+  },
+  {
+    "cycle": 305,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.525,
+    "li_plating_um": 3.05,
+    "capacity_fade_pct": 45.75,
+    "ohmic_resistance_mOhm": 40.5,
+    "ct_resistance_mOhm": 141.50000000000003
+  },
+  {
+    "cycle": 306,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.53,
+    "li_plating_um": 3.06,
+    "capacity_fade_pct": 45.900000000000006,
+    "ohmic_resistance_mOhm": 40.6,
+    "ct_resistance_mOhm": 141.79999999999998
+  },
+  {
+    "cycle": 307,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.535,
+    "li_plating_um": 3.0700000000000003,
+    "capacity_fade_pct": 46.050000000000004,
+    "ohmic_resistance_mOhm": 40.7,
+    "ct_resistance_mOhm": 142.1
+  },
+  {
+    "cycle": 308,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.54,
+    "li_plating_um": 3.08,
+    "capacity_fade_pct": 46.199999999999996,
+    "ohmic_resistance_mOhm": 40.800000000000004,
+    "ct_resistance_mOhm": 142.4
+  },
+  {
+    "cycle": 309,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.5450000000000004,
+    "li_plating_um": 3.09,
+    "capacity_fade_pct": 46.35,
+    "ohmic_resistance_mOhm": 40.9,
+    "ct_resistance_mOhm": 142.7
+  },
+  {
+    "cycle": 310,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.5500000000000003,
+    "li_plating_um": 3.1,
+    "capacity_fade_pct": 46.50000000000001,
+    "ohmic_resistance_mOhm": 41.0,
+    "ct_resistance_mOhm": 143.0
+  },
+  {
+    "cycle": 311,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.555,
+    "li_plating_um": 3.11,
+    "capacity_fade_pct": 46.650000000000006,
+    "ohmic_resistance_mOhm": 41.1,
+    "ct_resistance_mOhm": 143.29999999999998
+  },
+  {
+    "cycle": 312,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.56,
+    "li_plating_um": 3.12,
+    "capacity_fade_pct": 46.8,
+    "ohmic_resistance_mOhm": 41.2,
+    "ct_resistance_mOhm": 143.6
+  },
+  {
+    "cycle": 313,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.565,
+    "li_plating_um": 3.13,
+    "capacity_fade_pct": 46.95,
+    "ohmic_resistance_mOhm": 41.300000000000004,
+    "ct_resistance_mOhm": 143.9
+  },
+  {
+    "cycle": 314,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.57,
+    "li_plating_um": 3.14,
+    "capacity_fade_pct": 47.10000000000001,
+    "ohmic_resistance_mOhm": 41.400000000000006,
+    "ct_resistance_mOhm": 144.2
+  },
+  {
+    "cycle": 315,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.5749999999999997,
+    "li_plating_um": 3.15,
+    "capacity_fade_pct": 47.25,
+    "ohmic_resistance_mOhm": 41.5,
+    "ct_resistance_mOhm": 144.5
+  },
+  {
+    "cycle": 316,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.58,
+    "li_plating_um": 3.16,
+    "capacity_fade_pct": 47.4,
+    "ohmic_resistance_mOhm": 41.60000000000001,
+    "ct_resistance_mOhm": 144.79999999999998
+  },
+  {
+    "cycle": 317,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.585,
+    "li_plating_um": 3.17,
+    "capacity_fade_pct": 47.550000000000004,
+    "ohmic_resistance_mOhm": 41.7,
+    "ct_resistance_mOhm": 145.1
+  },
+  {
+    "cycle": 318,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.59,
+    "li_plating_um": 3.18,
+    "capacity_fade_pct": 47.70000000000001,
+    "ohmic_resistance_mOhm": 41.800000000000004,
+    "ct_resistance_mOhm": 145.39999999999998
+  },
+  {
+    "cycle": 319,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.5949999999999998,
+    "li_plating_um": 3.19,
+    "capacity_fade_pct": 47.85,
+    "ohmic_resistance_mOhm": 41.900000000000006,
+    "ct_resistance_mOhm": 145.7
+  },
+  {
+    "cycle": 320,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.5999999999999996,
+    "li_plating_um": 3.1999999999999997,
+    "capacity_fade_pct": 48.0,
+    "ohmic_resistance_mOhm": 42.0,
+    "ct_resistance_mOhm": 146.0
+  },
+  {
+    "cycle": 321,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.605,
+    "li_plating_um": 3.21,
+    "capacity_fade_pct": 48.150000000000006,
+    "ohmic_resistance_mOhm": 42.10000000000001,
+    "ct_resistance_mOhm": 146.29999999999998
+  },
+  {
+    "cycle": 322,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.61,
+    "li_plating_um": 3.22,
+    "capacity_fade_pct": 48.3,
+    "ohmic_resistance_mOhm": 42.2,
+    "ct_resistance_mOhm": 146.6
+  },
+  {
+    "cycle": 323,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.6149999999999998,
+    "li_plating_um": 3.23,
+    "capacity_fade_pct": 48.449999999999996,
+    "ohmic_resistance_mOhm": 42.300000000000004,
+    "ct_resistance_mOhm": 146.89999999999998
+  },
+  {
+    "cycle": 324,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.62,
+    "li_plating_um": 3.2399999999999998,
+    "capacity_fade_pct": 48.6,
+    "ohmic_resistance_mOhm": 42.4,
+    "ct_resistance_mOhm": 147.2
+  },
+  {
+    "cycle": 325,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.6250000000000004,
+    "li_plating_um": 3.2500000000000004,
+    "capacity_fade_pct": 48.75000000000001,
+    "ohmic_resistance_mOhm": 42.5,
+    "ct_resistance_mOhm": 147.5
+  },
+  {
+    "cycle": 326,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.6300000000000003,
+    "li_plating_um": 3.2600000000000002,
+    "capacity_fade_pct": 48.9,
+    "ohmic_resistance_mOhm": 42.60000000000001,
+    "ct_resistance_mOhm": 147.79999999999998
+  },
+  {
+    "cycle": 327,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.6350000000000002,
+    "li_plating_um": 3.27,
+    "capacity_fade_pct": 49.05,
+    "ohmic_resistance_mOhm": 42.7,
+    "ct_resistance_mOhm": 148.10000000000002
+  },
+  {
+    "cycle": 328,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.64,
+    "li_plating_um": 3.28,
+    "capacity_fade_pct": 49.2,
+    "ohmic_resistance_mOhm": 42.800000000000004,
+    "ct_resistance_mOhm": 148.39999999999998
+  },
+  {
+    "cycle": 329,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.645,
+    "li_plating_um": 3.2900000000000005,
+    "capacity_fade_pct": 49.35000000000001,
+    "ohmic_resistance_mOhm": 42.9,
+    "ct_resistance_mOhm": 148.7
+  },
+  {
+    "cycle": 330,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.65,
+    "li_plating_um": 3.3000000000000003,
+    "capacity_fade_pct": 49.5,
+    "ohmic_resistance_mOhm": 43.0,
+    "ct_resistance_mOhm": 149.0
+  },
+  {
+    "cycle": 331,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.655,
+    "li_plating_um": 3.31,
+    "capacity_fade_pct": 49.64999999999999,
+    "ohmic_resistance_mOhm": 43.10000000000001,
+    "ct_resistance_mOhm": 149.29999999999998
+  },
+  {
+    "cycle": 332,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.66,
+    "li_plating_um": 3.32,
+    "capacity_fade_pct": 49.8,
+    "ohmic_resistance_mOhm": 43.2,
+    "ct_resistance_mOhm": 149.60000000000002
+  },
+  {
+    "cycle": 333,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.665,
+    "li_plating_um": 3.33,
+    "capacity_fade_pct": 49.95,
+    "ohmic_resistance_mOhm": 43.300000000000004,
+    "ct_resistance_mOhm": 149.89999999999998
+  },
+  {
+    "cycle": 334,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.67,
+    "li_plating_um": 3.3400000000000003,
+    "capacity_fade_pct": 50.1,
+    "ohmic_resistance_mOhm": 43.4,
+    "ct_resistance_mOhm": 150.2
+  },
+  {
+    "cycle": 335,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.675,
+    "li_plating_um": 3.35,
+    "capacity_fade_pct": 50.25000000000001,
+    "ohmic_resistance_mOhm": 43.50000000000001,
+    "ct_resistance_mOhm": 150.5
+  },
+  {
+    "cycle": 336,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.6799999999999997,
+    "li_plating_um": 3.36,
+    "capacity_fade_pct": 50.4,
+    "ohmic_resistance_mOhm": 43.60000000000001,
+    "ct_resistance_mOhm": 150.79999999999998
+  },
+  {
+    "cycle": 337,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.6849999999999996,
+    "li_plating_um": 3.37,
+    "capacity_fade_pct": 50.550000000000004,
+    "ohmic_resistance_mOhm": 43.7,
+    "ct_resistance_mOhm": 151.10000000000002
+  },
+  {
+    "cycle": 338,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.69,
+    "li_plating_um": 3.3800000000000003,
+    "capacity_fade_pct": 50.7,
+    "ohmic_resistance_mOhm": 43.800000000000004,
+    "ct_resistance_mOhm": 151.39999999999998
+  },
+  {
+    "cycle": 339,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.695,
+    "li_plating_um": 3.39,
+    "capacity_fade_pct": 50.85000000000001,
+    "ohmic_resistance_mOhm": 43.9,
+    "ct_resistance_mOhm": 151.7
+  },
+  {
+    "cycle": 340,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.7,
+    "li_plating_um": 3.4,
+    "capacity_fade_pct": 51.0,
+    "ohmic_resistance_mOhm": 44.00000000000001,
+    "ct_resistance_mOhm": 152.0
+  },
+  {
+    "cycle": 341,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.705,
+    "li_plating_um": 3.41,
+    "capacity_fade_pct": 51.150000000000006,
+    "ohmic_resistance_mOhm": 44.1,
+    "ct_resistance_mOhm": 152.29999999999998
+  },
+  {
+    "cycle": 342,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.71,
+    "li_plating_um": 3.42,
+    "capacity_fade_pct": 51.300000000000004,
+    "ohmic_resistance_mOhm": 44.2,
+    "ct_resistance_mOhm": 152.60000000000002
+  },
+  {
+    "cycle": 343,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.7150000000000003,
+    "li_plating_um": 3.43,
+    "capacity_fade_pct": 51.449999999999996,
+    "ohmic_resistance_mOhm": 44.300000000000004,
+    "ct_resistance_mOhm": 152.89999999999998
+  },
+  {
+    "cycle": 344,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.72,
+    "li_plating_um": 3.44,
+    "capacity_fade_pct": 51.6,
+    "ohmic_resistance_mOhm": 44.4,
+    "ct_resistance_mOhm": 153.2
+  },
+  {
+    "cycle": 345,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.725,
+    "li_plating_um": 3.45,
+    "capacity_fade_pct": 51.74999999999999,
+    "ohmic_resistance_mOhm": 44.50000000000001,
+    "ct_resistance_mOhm": 153.5
+  },
+  {
+    "cycle": 346,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.73,
+    "li_plating_um": 3.46,
+    "capacity_fade_pct": 51.9,
+    "ohmic_resistance_mOhm": 44.6,
+    "ct_resistance_mOhm": 153.79999999999998
+  },
+  {
+    "cycle": 347,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.735,
+    "li_plating_um": 3.47,
+    "capacity_fade_pct": 52.05,
+    "ohmic_resistance_mOhm": 44.7,
+    "ct_resistance_mOhm": 154.1
+  },
+  {
+    "cycle": 348,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.74,
+    "li_plating_um": 3.48,
+    "capacity_fade_pct": 52.2,
+    "ohmic_resistance_mOhm": 44.800000000000004,
+    "ct_resistance_mOhm": 154.39999999999998
+  },
+  {
+    "cycle": 349,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.745,
+    "li_plating_um": 3.49,
+    "capacity_fade_pct": 52.349999999999994,
+    "ohmic_resistance_mOhm": 44.900000000000006,
+    "ct_resistance_mOhm": 154.70000000000002
+  },
+  {
+    "cycle": 350,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.75,
+    "li_plating_um": 3.5,
+    "capacity_fade_pct": 52.5,
+    "ohmic_resistance_mOhm": 45.00000000000001,
+    "ct_resistance_mOhm": 155.0
+  },
+  {
+    "cycle": 351,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.755,
+    "li_plating_um": 3.5100000000000002,
+    "capacity_fade_pct": 52.65,
+    "ohmic_resistance_mOhm": 45.1,
+    "ct_resistance_mOhm": 155.29999999999998
+  },
+  {
+    "cycle": 352,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.76,
+    "li_plating_um": 3.52,
+    "capacity_fade_pct": 52.800000000000004,
+    "ohmic_resistance_mOhm": 45.2,
+    "ct_resistance_mOhm": 155.6
+  },
+  {
+    "cycle": 353,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.7649999999999997,
+    "li_plating_um": 3.5300000000000002,
+    "capacity_fade_pct": 52.949999999999996,
+    "ohmic_resistance_mOhm": 45.300000000000004,
+    "ct_resistance_mOhm": 155.89999999999998
+  },
+  {
+    "cycle": 354,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.7699999999999996,
+    "li_plating_um": 3.54,
+    "capacity_fade_pct": 53.1,
+    "ohmic_resistance_mOhm": 45.400000000000006,
+    "ct_resistance_mOhm": 156.20000000000002
+  },
+  {
+    "cycle": 355,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.7749999999999995,
+    "li_plating_um": 3.55,
+    "capacity_fade_pct": 53.25,
+    "ohmic_resistance_mOhm": 45.50000000000001,
+    "ct_resistance_mOhm": 156.5
+  },
+  {
+    "cycle": 356,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.7800000000000002,
+    "li_plating_um": 3.56,
+    "capacity_fade_pct": 53.400000000000006,
+    "ohmic_resistance_mOhm": 45.6,
+    "ct_resistance_mOhm": 156.79999999999998
+  },
+  {
+    "cycle": 357,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.785,
+    "li_plating_um": 3.5700000000000003,
+    "capacity_fade_pct": 53.55,
+    "ohmic_resistance_mOhm": 45.7,
+    "ct_resistance_mOhm": 157.1
+  },
+  {
+    "cycle": 358,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.79,
+    "li_plating_um": 3.58,
+    "capacity_fade_pct": 53.7,
+    "ohmic_resistance_mOhm": 45.8,
+    "ct_resistance_mOhm": 157.39999999999998
+  },
+  {
+    "cycle": 359,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.795,
+    "li_plating_um": 3.59,
+    "capacity_fade_pct": 53.849999999999994,
+    "ohmic_resistance_mOhm": 45.900000000000006,
+    "ct_resistance_mOhm": 157.70000000000002
+  },
+  {
+    "cycle": 360,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.8000000000000003,
+    "li_plating_um": 3.6,
+    "capacity_fade_pct": 54.0,
+    "ohmic_resistance_mOhm": 46.00000000000001,
+    "ct_resistance_mOhm": 157.99999999999997
+  },
+  {
+    "cycle": 361,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.805,
+    "li_plating_um": 3.6100000000000003,
+    "capacity_fade_pct": 54.15,
+    "ohmic_resistance_mOhm": 46.1,
+    "ct_resistance_mOhm": 158.29999999999998
+  },
+  {
+    "cycle": 362,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.81,
+    "li_plating_um": 3.62,
+    "capacity_fade_pct": 54.300000000000004,
+    "ohmic_resistance_mOhm": 46.2,
+    "ct_resistance_mOhm": 158.6
+  },
+  {
+    "cycle": 363,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.815,
+    "li_plating_um": 3.63,
+    "capacity_fade_pct": 54.449999999999996,
+    "ohmic_resistance_mOhm": 46.300000000000004,
+    "ct_resistance_mOhm": 158.89999999999998
+  },
+  {
+    "cycle": 364,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.8200000000000003,
+    "li_plating_um": 3.6399999999999997,
+    "capacity_fade_pct": 54.6,
+    "ohmic_resistance_mOhm": 46.400000000000006,
+    "ct_resistance_mOhm": 159.20000000000002
+  },
+  {
+    "cycle": 365,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.825,
+    "li_plating_um": 3.6500000000000004,
+    "capacity_fade_pct": 54.75,
+    "ohmic_resistance_mOhm": 46.50000000000001,
+    "ct_resistance_mOhm": 159.49999999999997
+  },
+  {
+    "cycle": 366,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.83,
+    "li_plating_um": 3.66,
+    "capacity_fade_pct": 54.900000000000006,
+    "ohmic_resistance_mOhm": 46.6,
+    "ct_resistance_mOhm": 159.8
+  },
+  {
+    "cycle": 367,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.835,
+    "li_plating_um": 3.67,
+    "capacity_fade_pct": 55.05,
+    "ohmic_resistance_mOhm": 46.7,
+    "ct_resistance_mOhm": 160.1
+  },
+  {
+    "cycle": 368,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.84,
+    "li_plating_um": 3.6799999999999997,
+    "capacity_fade_pct": 55.2,
+    "ohmic_resistance_mOhm": 46.800000000000004,
+    "ct_resistance_mOhm": 160.39999999999998
+  },
+  {
+    "cycle": 369,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.8449999999999998,
+    "li_plating_um": 3.6900000000000004,
+    "capacity_fade_pct": 55.35,
+    "ohmic_resistance_mOhm": 46.900000000000006,
+    "ct_resistance_mOhm": 160.70000000000002
+  },
+  {
+    "cycle": 370,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.8499999999999996,
+    "li_plating_um": 3.7,
+    "capacity_fade_pct": 55.50000000000001,
+    "ohmic_resistance_mOhm": 47.00000000000001,
+    "ct_resistance_mOhm": 160.99999999999997
+  },
+  {
+    "cycle": 371,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.855,
+    "li_plating_um": 3.71,
+    "capacity_fade_pct": 55.65,
+    "ohmic_resistance_mOhm": 47.1,
+    "ct_resistance_mOhm": 161.3
+  },
+  {
+    "cycle": 372,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.86,
+    "li_plating_um": 3.7199999999999998,
+    "capacity_fade_pct": 55.800000000000004,
+    "ohmic_resistance_mOhm": 47.2,
+    "ct_resistance_mOhm": 161.6
+  },
+  {
+    "cycle": 373,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.865,
+    "li_plating_um": 3.7300000000000004,
+    "capacity_fade_pct": 55.95,
+    "ohmic_resistance_mOhm": 47.300000000000004,
+    "ct_resistance_mOhm": 161.89999999999998
+  },
+  {
+    "cycle": 374,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.87,
+    "li_plating_um": 3.74,
+    "capacity_fade_pct": 56.10000000000001,
+    "ohmic_resistance_mOhm": 47.400000000000006,
+    "ct_resistance_mOhm": 162.20000000000002
+  },
+  {
+    "cycle": 375,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.875,
+    "li_plating_um": 3.75,
+    "capacity_fade_pct": 56.25,
+    "ohmic_resistance_mOhm": 47.5,
+    "ct_resistance_mOhm": 162.49999999999997
+  },
+  {
+    "cycle": 376,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.88,
+    "li_plating_um": 3.76,
+    "capacity_fade_pct": 56.400000000000006,
+    "ohmic_resistance_mOhm": 47.6,
+    "ct_resistance_mOhm": 162.8
+  },
+  {
+    "cycle": 377,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.885,
+    "li_plating_um": 3.77,
+    "capacity_fade_pct": 56.55,
+    "ohmic_resistance_mOhm": 47.7,
+    "ct_resistance_mOhm": 163.1
+  },
+  {
+    "cycle": 378,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.89,
+    "li_plating_um": 3.7800000000000002,
+    "capacity_fade_pct": 56.7,
+    "ohmic_resistance_mOhm": 47.800000000000004,
+    "ct_resistance_mOhm": 163.39999999999998
+  },
+  {
+    "cycle": 379,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.895,
+    "li_plating_um": 3.79,
+    "capacity_fade_pct": 56.85,
+    "ohmic_resistance_mOhm": 47.900000000000006,
+    "ct_resistance_mOhm": 163.70000000000002
+  },
+  {
+    "cycle": 380,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.9000000000000004,
+    "li_plating_um": 3.8,
+    "capacity_fade_pct": 57.00000000000001,
+    "ohmic_resistance_mOhm": 48.0,
+    "ct_resistance_mOhm": 163.99999999999997
+  },
+  {
+    "cycle": 381,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.9050000000000002,
+    "li_plating_um": 3.81,
+    "capacity_fade_pct": 57.15,
+    "ohmic_resistance_mOhm": 48.1,
+    "ct_resistance_mOhm": 164.3
+  },
+  {
+    "cycle": 382,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.91,
+    "li_plating_um": 3.82,
+    "capacity_fade_pct": 57.300000000000004,
+    "ohmic_resistance_mOhm": 48.20000000000001,
+    "ct_resistance_mOhm": 164.6
+  },
+  {
+    "cycle": 383,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.915,
+    "li_plating_um": 3.8299999999999996,
+    "capacity_fade_pct": 57.45,
+    "ohmic_resistance_mOhm": 48.300000000000004,
+    "ct_resistance_mOhm": 164.89999999999998
+  },
+  {
+    "cycle": 384,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.92,
+    "li_plating_um": 3.8400000000000003,
+    "capacity_fade_pct": 57.60000000000001,
+    "ohmic_resistance_mOhm": 48.400000000000006,
+    "ct_resistance_mOhm": 165.20000000000002
+  },
+  {
+    "cycle": 385,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.925,
+    "li_plating_um": 3.8500000000000005,
+    "capacity_fade_pct": 57.75,
+    "ohmic_resistance_mOhm": 48.5,
+    "ct_resistance_mOhm": 165.49999999999997
+  },
+  {
+    "cycle": 386,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.9299999999999997,
+    "li_plating_um": 3.8600000000000003,
+    "capacity_fade_pct": 57.9,
+    "ohmic_resistance_mOhm": 48.6,
+    "ct_resistance_mOhm": 165.8
+  },
+  {
+    "cycle": 387,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.935,
+    "li_plating_um": 3.87,
+    "capacity_fade_pct": 58.050000000000004,
+    "ohmic_resistance_mOhm": 48.70000000000001,
+    "ct_resistance_mOhm": 166.1
+  },
+  {
+    "cycle": 388,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.94,
+    "li_plating_um": 3.8800000000000003,
+    "capacity_fade_pct": 58.199999999999996,
+    "ohmic_resistance_mOhm": 48.800000000000004,
+    "ct_resistance_mOhm": 166.4
+  },
+  {
+    "cycle": 389,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.945,
+    "li_plating_um": 3.89,
+    "capacity_fade_pct": 58.35,
+    "ohmic_resistance_mOhm": 48.900000000000006,
+    "ct_resistance_mOhm": 166.7
+  },
+  {
+    "cycle": 390,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.9499999999999997,
+    "li_plating_um": 3.9,
+    "capacity_fade_pct": 58.5,
+    "ohmic_resistance_mOhm": 49.0,
+    "ct_resistance_mOhm": 166.99999999999997
+  },
+  {
+    "cycle": 391,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.9549999999999996,
+    "li_plating_um": 3.9099999999999997,
+    "capacity_fade_pct": 58.650000000000006,
+    "ohmic_resistance_mOhm": 49.1,
+    "ct_resistance_mOhm": 167.3
+  },
+  {
+    "cycle": 392,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.9599999999999995,
+    "li_plating_um": 3.92,
+    "capacity_fade_pct": 58.8,
+    "ohmic_resistance_mOhm": 49.2,
+    "ct_resistance_mOhm": 167.6
+  },
+  {
+    "cycle": 393,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.9650000000000003,
+    "li_plating_um": 3.9300000000000006,
+    "capacity_fade_pct": 58.95,
+    "ohmic_resistance_mOhm": 49.300000000000004,
+    "ct_resistance_mOhm": 167.9
+  },
+  {
+    "cycle": 394,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.97,
+    "li_plating_um": 3.9400000000000004,
+    "capacity_fade_pct": 59.099999999999994,
+    "ohmic_resistance_mOhm": 49.400000000000006,
+    "ct_resistance_mOhm": 168.2
+  },
+  {
+    "cycle": 395,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.9750000000000005,
+    "li_plating_um": 3.95,
+    "capacity_fade_pct": 59.25,
+    "ohmic_resistance_mOhm": 49.5,
+    "ct_resistance_mOhm": 168.49999999999997
+  },
+  {
+    "cycle": 396,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.9800000000000004,
+    "li_plating_um": 3.9600000000000004,
+    "capacity_fade_pct": 59.4,
+    "ohmic_resistance_mOhm": 49.60000000000001,
+    "ct_resistance_mOhm": 168.8
+  },
+  {
+    "cycle": 397,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.9850000000000003,
+    "li_plating_um": 3.97,
+    "capacity_fade_pct": 59.550000000000004,
+    "ohmic_resistance_mOhm": 49.7,
+    "ct_resistance_mOhm": 169.09999999999997
+  },
+  {
+    "cycle": 398,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.99,
+    "li_plating_um": 3.98,
+    "capacity_fade_pct": 59.699999999999996,
+    "ohmic_resistance_mOhm": 49.800000000000004,
+    "ct_resistance_mOhm": 169.4
+  },
+  {
+    "cycle": 399,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 2.995,
+    "li_plating_um": 3.9899999999999998,
+    "capacity_fade_pct": 59.85,
+    "ohmic_resistance_mOhm": 49.900000000000006,
+    "ct_resistance_mOhm": 169.7
+  },
+  {
+    "cycle": 400,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.0,
+    "li_plating_um": 4.0,
+    "capacity_fade_pct": 60.0,
+    "ohmic_resistance_mOhm": 50.0,
+    "ct_resistance_mOhm": 169.99999999999997
+  },
+  {
+    "cycle": 401,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.005,
+    "li_plating_um": 4.01,
+    "capacity_fade_pct": 60.150000000000006,
+    "ohmic_resistance_mOhm": 50.10000000000001,
+    "ct_resistance_mOhm": 170.3
+  },
+  {
+    "cycle": 402,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.01,
+    "li_plating_um": 4.0200000000000005,
+    "capacity_fade_pct": 60.3,
+    "ohmic_resistance_mOhm": 50.2,
+    "ct_resistance_mOhm": 170.59999999999997
+  },
+  {
+    "cycle": 403,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.015,
+    "li_plating_um": 4.03,
+    "capacity_fade_pct": 60.45,
+    "ohmic_resistance_mOhm": 50.300000000000004,
+    "ct_resistance_mOhm": 170.9
+  },
+  {
+    "cycle": 404,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.02,
+    "li_plating_um": 4.04,
+    "capacity_fade_pct": 60.6,
+    "ohmic_resistance_mOhm": 50.400000000000006,
+    "ct_resistance_mOhm": 171.2
+  },
+  {
+    "cycle": 405,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.025,
+    "li_plating_um": 4.05,
+    "capacity_fade_pct": 60.75000000000001,
+    "ohmic_resistance_mOhm": 50.5,
+    "ct_resistance_mOhm": 171.5
+  },
+  {
+    "cycle": 406,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.03,
+    "li_plating_um": 4.0600000000000005,
+    "capacity_fade_pct": 60.9,
+    "ohmic_resistance_mOhm": 50.60000000000001,
+    "ct_resistance_mOhm": 171.8
+  },
+  {
+    "cycle": 407,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.0349999999999997,
+    "li_plating_um": 4.07,
+    "capacity_fade_pct": 61.050000000000004,
+    "ohmic_resistance_mOhm": 50.7,
+    "ct_resistance_mOhm": 172.09999999999997
+  },
+  {
+    "cycle": 408,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.0399999999999996,
+    "li_plating_um": 4.08,
+    "capacity_fade_pct": 61.199999999999996,
+    "ohmic_resistance_mOhm": 50.800000000000004,
+    "ct_resistance_mOhm": 172.4
+  },
+  {
+    "cycle": 409,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.0449999999999995,
+    "li_plating_um": 4.09,
+    "capacity_fade_pct": 61.35,
+    "ohmic_resistance_mOhm": 50.9,
+    "ct_resistance_mOhm": 172.7
+  },
+  {
+    "cycle": 410,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.0499999999999994,
+    "li_plating_um": 4.1,
+    "capacity_fade_pct": 61.5,
+    "ohmic_resistance_mOhm": 51.00000000000001,
+    "ct_resistance_mOhm": 173.0
+  },
+  {
+    "cycle": 411,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.0550000000000006,
+    "li_plating_um": 4.11,
+    "capacity_fade_pct": 61.650000000000006,
+    "ohmic_resistance_mOhm": 51.10000000000001,
+    "ct_resistance_mOhm": 173.3
+  },
+  {
+    "cycle": 412,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.0600000000000005,
+    "li_plating_um": 4.12,
+    "capacity_fade_pct": 61.8,
+    "ohmic_resistance_mOhm": 51.2,
+    "ct_resistance_mOhm": 173.59999999999997
+  },
+  {
+    "cycle": 413,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.0650000000000004,
+    "li_plating_um": 4.13,
+    "capacity_fade_pct": 61.95,
+    "ohmic_resistance_mOhm": 51.300000000000004,
+    "ct_resistance_mOhm": 173.9
+  },
+  {
+    "cycle": 414,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.0700000000000003,
+    "li_plating_um": 4.140000000000001,
+    "capacity_fade_pct": 62.1,
+    "ohmic_resistance_mOhm": 51.4,
+    "ct_resistance_mOhm": 174.2
+  },
+  {
+    "cycle": 415,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.075,
+    "li_plating_um": 4.15,
+    "capacity_fade_pct": 62.25000000000001,
+    "ohmic_resistance_mOhm": 51.50000000000001,
+    "ct_resistance_mOhm": 174.5
+  },
+  {
+    "cycle": 416,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.08,
+    "li_plating_um": 4.16,
+    "capacity_fade_pct": 62.4,
+    "ohmic_resistance_mOhm": 51.60000000000001,
+    "ct_resistance_mOhm": 174.8
+  },
+  {
+    "cycle": 417,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.085,
+    "li_plating_um": 4.17,
+    "capacity_fade_pct": 62.550000000000004,
+    "ohmic_resistance_mOhm": 51.7,
+    "ct_resistance_mOhm": 175.09999999999997
+  },
+  {
+    "cycle": 418,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.09,
+    "li_plating_um": 4.18,
+    "capacity_fade_pct": 62.7,
+    "ohmic_resistance_mOhm": 51.800000000000004,
+    "ct_resistance_mOhm": 175.4
+  },
+  {
+    "cycle": 419,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.095,
+    "li_plating_um": 4.1899999999999995,
+    "capacity_fade_pct": 62.85000000000001,
+    "ohmic_resistance_mOhm": 51.9,
+    "ct_resistance_mOhm": 175.69999999999996
+  },
+  {
+    "cycle": 420,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.1,
+    "li_plating_um": 4.2,
+    "capacity_fade_pct": 63.0,
+    "ohmic_resistance_mOhm": 52.00000000000001,
+    "ct_resistance_mOhm": 176.0
+  },
+  {
+    "cycle": 421,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.105,
+    "li_plating_um": 4.21,
+    "capacity_fade_pct": 63.150000000000006,
+    "ohmic_resistance_mOhm": 52.10000000000001,
+    "ct_resistance_mOhm": 176.3
+  },
+  {
+    "cycle": 422,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.11,
+    "li_plating_um": 4.220000000000001,
+    "capacity_fade_pct": 63.3,
+    "ohmic_resistance_mOhm": 52.2,
+    "ct_resistance_mOhm": 176.59999999999997
+  },
+  {
+    "cycle": 423,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.1149999999999998,
+    "li_plating_um": 4.23,
+    "capacity_fade_pct": 63.45,
+    "ohmic_resistance_mOhm": 52.300000000000004,
+    "ct_resistance_mOhm": 176.9
+  },
+  {
+    "cycle": 424,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.1199999999999997,
+    "li_plating_um": 4.24,
+    "capacity_fade_pct": 63.6,
+    "ohmic_resistance_mOhm": 52.400000000000006,
+    "ct_resistance_mOhm": 177.19999999999996
+  },
+  {
+    "cycle": 425,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.1249999999999996,
+    "li_plating_um": 4.25,
+    "capacity_fade_pct": 63.75000000000001,
+    "ohmic_resistance_mOhm": 52.50000000000001,
+    "ct_resistance_mOhm": 177.5
+  },
+  {
+    "cycle": 426,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.13,
+    "li_plating_um": 4.26,
+    "capacity_fade_pct": 63.9,
+    "ohmic_resistance_mOhm": 52.6,
+    "ct_resistance_mOhm": 177.8
+  },
+  {
+    "cycle": 427,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.135,
+    "li_plating_um": 4.27,
+    "capacity_fade_pct": 64.05,
+    "ohmic_resistance_mOhm": 52.7,
+    "ct_resistance_mOhm": 178.1
+  },
+  {
+    "cycle": 428,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.1399999999999997,
+    "li_plating_um": 4.279999999999999,
+    "capacity_fade_pct": 64.2,
+    "ohmic_resistance_mOhm": 52.800000000000004,
+    "ct_resistance_mOhm": 178.4
+  },
+  {
+    "cycle": 429,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.1450000000000005,
+    "li_plating_um": 4.29,
+    "capacity_fade_pct": 64.35,
+    "ohmic_resistance_mOhm": 52.900000000000006,
+    "ct_resistance_mOhm": 178.69999999999996
+  },
+  {
+    "cycle": 430,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.1500000000000004,
+    "li_plating_um": 4.300000000000001,
+    "capacity_fade_pct": 64.5,
+    "ohmic_resistance_mOhm": 53.00000000000001,
+    "ct_resistance_mOhm": 179.0
+  },
+  {
+    "cycle": 431,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.1550000000000002,
+    "li_plating_um": 4.3100000000000005,
+    "capacity_fade_pct": 64.64999999999999,
+    "ohmic_resistance_mOhm": 53.1,
+    "ct_resistance_mOhm": 179.3
+  },
+  {
+    "cycle": 432,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.16,
+    "li_plating_um": 4.32,
+    "capacity_fade_pct": 64.8,
+    "ohmic_resistance_mOhm": 53.2,
+    "ct_resistance_mOhm": 179.6
+  },
+  {
+    "cycle": 433,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.165,
+    "li_plating_um": 4.33,
+    "capacity_fade_pct": 64.95,
+    "ohmic_resistance_mOhm": 53.300000000000004,
+    "ct_resistance_mOhm": 179.9
+  },
+  {
+    "cycle": 434,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.17,
+    "li_plating_um": 4.34,
+    "capacity_fade_pct": 65.10000000000001,
+    "ohmic_resistance_mOhm": 53.400000000000006,
+    "ct_resistance_mOhm": 180.19999999999996
+  },
+  {
+    "cycle": 435,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.1750000000000003,
+    "li_plating_um": 4.35,
+    "capacity_fade_pct": 65.25,
+    "ohmic_resistance_mOhm": 53.50000000000001,
+    "ct_resistance_mOhm": 180.5
+  },
+  {
+    "cycle": 436,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.18,
+    "li_plating_um": 4.359999999999999,
+    "capacity_fade_pct": 65.4,
+    "ohmic_resistance_mOhm": 53.6,
+    "ct_resistance_mOhm": 180.8
+  },
+  {
+    "cycle": 437,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.185,
+    "li_plating_um": 4.37,
+    "capacity_fade_pct": 65.55,
+    "ohmic_resistance_mOhm": 53.7,
+    "ct_resistance_mOhm": 181.1
+  },
+  {
+    "cycle": 438,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.19,
+    "li_plating_um": 4.380000000000001,
+    "capacity_fade_pct": 65.7,
+    "ohmic_resistance_mOhm": 53.8,
+    "ct_resistance_mOhm": 181.4
+  },
+  {
+    "cycle": 439,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.195,
+    "li_plating_um": 4.390000000000001,
+    "capacity_fade_pct": 65.85,
+    "ohmic_resistance_mOhm": 53.900000000000006,
+    "ct_resistance_mOhm": 181.69999999999996
+  },
+  {
+    "cycle": 440,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.1999999999999997,
+    "li_plating_um": 4.4,
+    "capacity_fade_pct": 66.0,
+    "ohmic_resistance_mOhm": 54.00000000000001,
+    "ct_resistance_mOhm": 182.0
+  },
+  {
+    "cycle": 441,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.2049999999999996,
+    "li_plating_um": 4.41,
+    "capacity_fade_pct": 66.14999999999999,
+    "ohmic_resistance_mOhm": 54.1,
+    "ct_resistance_mOhm": 182.3
+  },
+  {
+    "cycle": 442,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.21,
+    "li_plating_um": 4.42,
+    "capacity_fade_pct": 66.3,
+    "ohmic_resistance_mOhm": 54.2,
+    "ct_resistance_mOhm": 182.6
+  },
+  {
+    "cycle": 443,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.215,
+    "li_plating_um": 4.43,
+    "capacity_fade_pct": 66.45,
+    "ohmic_resistance_mOhm": 54.300000000000004,
+    "ct_resistance_mOhm": 182.9
+  },
+  {
+    "cycle": 444,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.2199999999999998,
+    "li_plating_um": 4.4399999999999995,
+    "capacity_fade_pct": 66.60000000000001,
+    "ohmic_resistance_mOhm": 54.400000000000006,
+    "ct_resistance_mOhm": 183.19999999999996
+  },
+  {
+    "cycle": 445,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.2249999999999996,
+    "li_plating_um": 4.45,
+    "capacity_fade_pct": 66.75,
+    "ohmic_resistance_mOhm": 54.50000000000001,
+    "ct_resistance_mOhm": 183.5
+  },
+  {
+    "cycle": 446,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.2300000000000004,
+    "li_plating_um": 4.460000000000001,
+    "capacity_fade_pct": 66.9,
+    "ohmic_resistance_mOhm": 54.6,
+    "ct_resistance_mOhm": 183.79999999999995
+  },
+  {
+    "cycle": 447,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.2350000000000003,
+    "li_plating_um": 4.470000000000001,
+    "capacity_fade_pct": 67.05,
+    "ohmic_resistance_mOhm": 54.7,
+    "ct_resistance_mOhm": 184.1
+  },
+  {
+    "cycle": 448,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.24,
+    "li_plating_um": 4.48,
+    "capacity_fade_pct": 67.2,
+    "ohmic_resistance_mOhm": 54.800000000000004,
+    "ct_resistance_mOhm": 184.4
+  },
+  {
+    "cycle": 449,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.245,
+    "li_plating_um": 4.49,
+    "capacity_fade_pct": 67.35,
+    "ohmic_resistance_mOhm": 54.900000000000006,
+    "ct_resistance_mOhm": 184.7
+  },
+  {
+    "cycle": 450,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.2500000000000004,
+    "li_plating_um": 4.5,
+    "capacity_fade_pct": 67.5,
+    "ohmic_resistance_mOhm": 55.00000000000001,
+    "ct_resistance_mOhm": 185.0
+  },
+  {
+    "cycle": 451,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.2550000000000003,
+    "li_plating_um": 4.51,
+    "capacity_fade_pct": 67.65,
+    "ohmic_resistance_mOhm": 55.1,
+    "ct_resistance_mOhm": 185.29999999999995
+  },
+  {
+    "cycle": 452,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.2600000000000002,
+    "li_plating_um": 4.52,
+    "capacity_fade_pct": 67.80000000000001,
+    "ohmic_resistance_mOhm": 55.2,
+    "ct_resistance_mOhm": 185.6
+  },
+  {
+    "cycle": 453,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.265,
+    "li_plating_um": 4.53,
+    "capacity_fade_pct": 67.95,
+    "ohmic_resistance_mOhm": 55.300000000000004,
+    "ct_resistance_mOhm": 185.9
+  },
+  {
+    "cycle": 454,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.27,
+    "li_plating_um": 4.54,
+    "capacity_fade_pct": 68.10000000000001,
+    "ohmic_resistance_mOhm": 55.400000000000006,
+    "ct_resistance_mOhm": 186.2
+  },
+  {
+    "cycle": 455,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.275,
+    "li_plating_um": 4.550000000000001,
+    "capacity_fade_pct": 68.25,
+    "ohmic_resistance_mOhm": 55.5,
+    "ct_resistance_mOhm": 186.5
+  },
+  {
+    "cycle": 456,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.28,
+    "li_plating_um": 4.5600000000000005,
+    "capacity_fade_pct": 68.4,
+    "ohmic_resistance_mOhm": 55.6,
+    "ct_resistance_mOhm": 186.79999999999995
+  },
+  {
+    "cycle": 457,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.2849999999999997,
+    "li_plating_um": 4.57,
+    "capacity_fade_pct": 68.55,
+    "ohmic_resistance_mOhm": 55.70000000000001,
+    "ct_resistance_mOhm": 187.1
+  },
+  {
+    "cycle": 458,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.29,
+    "li_plating_um": 4.58,
+    "capacity_fade_pct": 68.7,
+    "ohmic_resistance_mOhm": 55.800000000000004,
+    "ct_resistance_mOhm": 187.4
+  },
+  {
+    "cycle": 459,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.295,
+    "li_plating_um": 4.59,
+    "capacity_fade_pct": 68.85,
+    "ohmic_resistance_mOhm": 55.900000000000006,
+    "ct_resistance_mOhm": 187.7
+  },
+  {
+    "cycle": 460,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.3,
+    "li_plating_um": 4.6,
+    "capacity_fade_pct": 69.0,
+    "ohmic_resistance_mOhm": 56.0,
+    "ct_resistance_mOhm": 188.0
+  },
+  {
+    "cycle": 461,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.3049999999999997,
+    "li_plating_um": 4.61,
+    "capacity_fade_pct": 69.15,
+    "ohmic_resistance_mOhm": 56.1,
+    "ct_resistance_mOhm": 188.29999999999995
+  },
+  {
+    "cycle": 462,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.3099999999999996,
+    "li_plating_um": 4.62,
+    "capacity_fade_pct": 69.30000000000001,
+    "ohmic_resistance_mOhm": 56.20000000000001,
+    "ct_resistance_mOhm": 188.6
+  },
+  {
+    "cycle": 463,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.3149999999999995,
+    "li_plating_um": 4.63,
+    "capacity_fade_pct": 69.45,
+    "ohmic_resistance_mOhm": 56.300000000000004,
+    "ct_resistance_mOhm": 188.9
+  },
+  {
+    "cycle": 464,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.3200000000000003,
+    "li_plating_um": 4.640000000000001,
+    "capacity_fade_pct": 69.60000000000001,
+    "ohmic_resistance_mOhm": 56.400000000000006,
+    "ct_resistance_mOhm": 189.2
+  },
+  {
+    "cycle": 465,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.325,
+    "li_plating_um": 4.65,
+    "capacity_fade_pct": 69.75,
+    "ohmic_resistance_mOhm": 56.5,
+    "ct_resistance_mOhm": 189.5
+  },
+  {
+    "cycle": 466,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.3300000000000005,
+    "li_plating_um": 4.66,
+    "capacity_fade_pct": 69.9,
+    "ohmic_resistance_mOhm": 56.6,
+    "ct_resistance_mOhm": 189.79999999999995
+  },
+  {
+    "cycle": 467,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.3350000000000004,
+    "li_plating_um": 4.67,
+    "capacity_fade_pct": 70.05,
+    "ohmic_resistance_mOhm": 56.70000000000001,
+    "ct_resistance_mOhm": 190.1
+  },
+  {
+    "cycle": 468,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.3400000000000003,
+    "li_plating_um": 4.68,
+    "capacity_fade_pct": 70.2,
+    "ohmic_resistance_mOhm": 56.800000000000004,
+    "ct_resistance_mOhm": 190.4
+  },
+  {
+    "cycle": 469,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.345,
+    "li_plating_um": 4.69,
+    "capacity_fade_pct": 70.35,
+    "ohmic_resistance_mOhm": 56.900000000000006,
+    "ct_resistance_mOhm": 190.7
+  },
+  {
+    "cycle": 470,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.35,
+    "li_plating_um": 4.7,
+    "capacity_fade_pct": 70.5,
+    "ohmic_resistance_mOhm": 57.0,
+    "ct_resistance_mOhm": 191.0
+  },
+  {
+    "cycle": 471,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.355,
+    "li_plating_um": 4.71,
+    "capacity_fade_pct": 70.65,
+    "ohmic_resistance_mOhm": 57.1,
+    "ct_resistance_mOhm": 191.29999999999998
+  },
+  {
+    "cycle": 472,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.36,
+    "li_plating_um": 4.72,
+    "capacity_fade_pct": 70.8,
+    "ohmic_resistance_mOhm": 57.2,
+    "ct_resistance_mOhm": 191.6
+  },
+  {
+    "cycle": 473,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.3649999999999998,
+    "li_plating_um": 4.73,
+    "capacity_fade_pct": 70.95,
+    "ohmic_resistance_mOhm": 57.300000000000004,
+    "ct_resistance_mOhm": 191.9
+  },
+  {
+    "cycle": 474,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.37,
+    "li_plating_um": 4.74,
+    "capacity_fade_pct": 71.1,
+    "ohmic_resistance_mOhm": 57.400000000000006,
+    "ct_resistance_mOhm": 192.2
+  },
+  {
+    "cycle": 475,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.375,
+    "li_plating_um": 4.75,
+    "capacity_fade_pct": 71.25,
+    "ohmic_resistance_mOhm": 57.5,
+    "ct_resistance_mOhm": 192.5
+  },
+  {
+    "cycle": 476,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.38,
+    "li_plating_um": 4.76,
+    "capacity_fade_pct": 71.39999999999999,
+    "ohmic_resistance_mOhm": 57.60000000000001,
+    "ct_resistance_mOhm": 192.79999999999998
+  },
+  {
+    "cycle": 477,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.385,
+    "li_plating_um": 4.7700000000000005,
+    "capacity_fade_pct": 71.55,
+    "ohmic_resistance_mOhm": 57.7,
+    "ct_resistance_mOhm": 193.1
+  },
+  {
+    "cycle": 478,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.3899999999999997,
+    "li_plating_um": 4.78,
+    "capacity_fade_pct": 71.7,
+    "ohmic_resistance_mOhm": 57.800000000000004,
+    "ct_resistance_mOhm": 193.4
+  },
+  {
+    "cycle": 479,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.3949999999999996,
+    "li_plating_um": 4.79,
+    "capacity_fade_pct": 71.85000000000001,
+    "ohmic_resistance_mOhm": 57.900000000000006,
+    "ct_resistance_mOhm": 193.7
+  },
+  {
+    "cycle": 480,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.3999999999999995,
+    "li_plating_um": 4.8,
+    "capacity_fade_pct": 72.0,
+    "ohmic_resistance_mOhm": 58.0,
+    "ct_resistance_mOhm": 194.0
+  },
+  {
+    "cycle": 481,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.405,
+    "li_plating_um": 4.81,
+    "capacity_fade_pct": 72.15,
+    "ohmic_resistance_mOhm": 58.10000000000001,
+    "ct_resistance_mOhm": 194.29999999999998
+  },
+  {
+    "cycle": 482,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.4100000000000006,
+    "li_plating_um": 4.82,
+    "capacity_fade_pct": 72.3,
+    "ohmic_resistance_mOhm": 58.2,
+    "ct_resistance_mOhm": 194.6
+  },
+  {
+    "cycle": 483,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.4150000000000005,
+    "li_plating_um": 4.83,
+    "capacity_fade_pct": 72.45,
+    "ohmic_resistance_mOhm": 58.300000000000004,
+    "ct_resistance_mOhm": 194.9
+  },
+  {
+    "cycle": 484,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.4200000000000004,
+    "li_plating_um": 4.84,
+    "capacity_fade_pct": 72.6,
+    "ohmic_resistance_mOhm": 58.400000000000006,
+    "ct_resistance_mOhm": 195.2
+  },
+  {
+    "cycle": 485,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.4250000000000003,
+    "li_plating_um": 4.8500000000000005,
+    "capacity_fade_pct": 72.75,
+    "ohmic_resistance_mOhm": 58.5,
+    "ct_resistance_mOhm": 195.5
+  },
+  {
+    "cycle": 486,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.43,
+    "li_plating_um": 4.86,
+    "capacity_fade_pct": 72.89999999999999,
+    "ohmic_resistance_mOhm": 58.60000000000001,
+    "ct_resistance_mOhm": 195.79999999999998
+  },
+  {
+    "cycle": 487,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.435,
+    "li_plating_um": 4.87,
+    "capacity_fade_pct": 73.05,
+    "ohmic_resistance_mOhm": 58.7,
+    "ct_resistance_mOhm": 196.1
+  },
+  {
+    "cycle": 488,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.44,
+    "li_plating_um": 4.88,
+    "capacity_fade_pct": 73.2,
+    "ohmic_resistance_mOhm": 58.800000000000004,
+    "ct_resistance_mOhm": 196.39999999999998
+  },
+  {
+    "cycle": 489,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.445,
+    "li_plating_um": 4.89,
+    "capacity_fade_pct": 73.35000000000001,
+    "ohmic_resistance_mOhm": 58.9,
+    "ct_resistance_mOhm": 196.7
+  },
+  {
+    "cycle": 490,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.45,
+    "li_plating_um": 4.9,
+    "capacity_fade_pct": 73.5,
+    "ohmic_resistance_mOhm": 59.00000000000001,
+    "ct_resistance_mOhm": 197.0
+  },
+  {
+    "cycle": 491,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.455,
+    "li_plating_um": 4.91,
+    "capacity_fade_pct": 73.65,
+    "ohmic_resistance_mOhm": 59.10000000000001,
+    "ct_resistance_mOhm": 197.29999999999998
+  },
+  {
+    "cycle": 492,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.46,
+    "li_plating_um": 4.92,
+    "capacity_fade_pct": 73.8,
+    "ohmic_resistance_mOhm": 59.2,
+    "ct_resistance_mOhm": 197.6
+  },
+  {
+    "cycle": 493,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.465,
+    "li_plating_um": 4.930000000000001,
+    "capacity_fade_pct": 73.95,
+    "ohmic_resistance_mOhm": 59.300000000000004,
+    "ct_resistance_mOhm": 197.89999999999998
+  },
+  {
+    "cycle": 494,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.4699999999999998,
+    "li_plating_um": 4.94,
+    "capacity_fade_pct": 74.1,
+    "ohmic_resistance_mOhm": 59.4,
+    "ct_resistance_mOhm": 198.2
+  },
+  {
+    "cycle": 495,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.4749999999999996,
+    "li_plating_um": 4.95,
+    "capacity_fade_pct": 74.25,
+    "ohmic_resistance_mOhm": 59.50000000000001,
+    "ct_resistance_mOhm": 198.5
+  },
+  {
+    "cycle": 496,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.4799999999999995,
+    "li_plating_um": 4.96,
+    "capacity_fade_pct": 74.4,
+    "ohmic_resistance_mOhm": 59.60000000000001,
+    "ct_resistance_mOhm": 198.79999999999998
+  },
+  {
+    "cycle": 497,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.485,
+    "li_plating_um": 4.97,
+    "capacity_fade_pct": 74.55000000000001,
+    "ohmic_resistance_mOhm": 59.7,
+    "ct_resistance_mOhm": 199.1
+  },
+  {
+    "cycle": 498,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.4899999999999998,
+    "li_plating_um": 4.9799999999999995,
+    "capacity_fade_pct": 74.7,
+    "ohmic_resistance_mOhm": 59.800000000000004,
+    "ct_resistance_mOhm": 199.39999999999998
+  },
+  {
+    "cycle": 499,
+    "stage": 5,
+    "stage_name": "Critical",
+    "sei_thickness_um": 3.4950000000000006,
+    "li_plating_um": 4.99,
+    "capacity_fade_pct": 74.85000000000001,
+    "ohmic_resistance_mOhm": 59.9,
+    "ct_resistance_mOhm": 199.7
+  }
+]

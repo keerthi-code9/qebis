@@ -1,0 +1,4502 @@
+[
+  {
+    "cycle": 0,
+    "capacity_Ah": 5.0,
+    "capacity_fade_pct": 0.0,
+    "sei_thickness_um": 1.0,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 10.0,
+    "ct_resistance_mOhm": 50.0
+  },
+  {
+    "cycle": 1,
+    "capacity_Ah": 4.992500000000001,
+    "capacity_fade_pct": 0.14999999999998348,
+    "sei_thickness_um": 1.005,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 10.1,
+    "ct_resistance_mOhm": 50.300000000000004
+  },
+  {
+    "cycle": 2,
+    "capacity_Ah": 4.985,
+    "capacity_fade_pct": 0.29999999999998916,
+    "sei_thickness_um": 1.0099999999999998,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 10.200000000000001,
+    "ct_resistance_mOhm": 50.60000000000001
+  },
+  {
+    "cycle": 3,
+    "capacity_Ah": 4.9775,
+    "capacity_fade_pct": 0.44999999999999485,
+    "sei_thickness_um": 1.0150000000000001,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 10.3,
+    "ct_resistance_mOhm": 50.9
+  },
+  {
+    "cycle": 4,
+    "capacity_Ah": 4.97,
+    "capacity_fade_pct": 0.6000000000000005,
+    "sei_thickness_um": 1.02,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 10.4,
+    "ct_resistance_mOhm": 51.2
+  },
+  {
+    "cycle": 5,
+    "capacity_Ah": 4.9625,
+    "capacity_fade_pct": 0.7499999999999951,
+    "sei_thickness_um": 1.025,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 10.5,
+    "ct_resistance_mOhm": 51.50000000000001
+  },
+  {
+    "cycle": 6,
+    "capacity_Ah": 4.955,
+    "capacity_fade_pct": 0.9000000000000008,
+    "sei_thickness_um": 1.0299999999999998,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 10.6,
+    "ct_resistance_mOhm": 51.800000000000004
+  },
+  {
+    "cycle": 7,
+    "capacity_Ah": 4.9475,
+    "capacity_fade_pct": 1.0500000000000065,
+    "sei_thickness_um": 1.0350000000000001,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 10.7,
+    "ct_resistance_mOhm": 52.1
+  },
+  {
+    "cycle": 8,
+    "capacity_Ah": 4.9399999999999995,
+    "capacity_fade_pct": 1.2000000000000122,
+    "sei_thickness_um": 1.04,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 10.8,
+    "ct_resistance_mOhm": 52.400000000000006
+  },
+  {
+    "cycle": 9,
+    "capacity_Ah": 4.9325,
+    "capacity_fade_pct": 1.3499999999999956,
+    "sei_thickness_um": 1.045,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 10.9,
+    "ct_resistance_mOhm": 52.7
+  },
+  {
+    "cycle": 10,
+    "capacity_Ah": 4.925,
+    "capacity_fade_pct": 1.5000000000000013,
+    "sei_thickness_um": 1.0499999999999998,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 11.0,
+    "ct_resistance_mOhm": 53.00000000000001
+  },
+  {
+    "cycle": 11,
+    "capacity_Ah": 4.9175,
+    "capacity_fade_pct": 1.649999999999996,
+    "sei_thickness_um": 1.0550000000000002,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 11.1,
+    "ct_resistance_mOhm": 53.3
+  },
+  {
+    "cycle": 12,
+    "capacity_Ah": 4.91,
+    "capacity_fade_pct": 1.8000000000000016,
+    "sei_thickness_um": 1.06,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 11.2,
+    "ct_resistance_mOhm": 53.6
+  },
+  {
+    "cycle": 13,
+    "capacity_Ah": 4.9025,
+    "capacity_fade_pct": 1.9500000000000073,
+    "sei_thickness_um": 1.065,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 11.3,
+    "ct_resistance_mOhm": 53.900000000000006
+  },
+  {
+    "cycle": 14,
+    "capacity_Ah": 4.895,
+    "capacity_fade_pct": 2.100000000000013,
+    "sei_thickness_um": 1.0699999999999998,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 11.4,
+    "ct_resistance_mOhm": 54.2
+  },
+  {
+    "cycle": 15,
+    "capacity_Ah": 4.8875,
+    "capacity_fade_pct": 2.2499999999999964,
+    "sei_thickness_um": 1.075,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 11.5,
+    "ct_resistance_mOhm": 54.5
+  },
+  {
+    "cycle": 16,
+    "capacity_Ah": 4.88,
+    "capacity_fade_pct": 2.400000000000002,
+    "sei_thickness_um": 1.08,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 11.600000000000001,
+    "ct_resistance_mOhm": 54.800000000000004
+  },
+  {
+    "cycle": 17,
+    "capacity_Ah": 4.8725000000000005,
+    "capacity_fade_pct": 2.5499999999999856,
+    "sei_thickness_um": 1.085,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 11.700000000000001,
+    "ct_resistance_mOhm": 55.1
+  },
+  {
+    "cycle": 18,
+    "capacity_Ah": 4.865,
+    "capacity_fade_pct": 2.6999999999999913,
+    "sei_thickness_um": 1.0899999999999999,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 11.799999999999999,
+    "ct_resistance_mOhm": 55.400000000000006
+  },
+  {
+    "cycle": 19,
+    "capacity_Ah": 4.8575,
+    "capacity_fade_pct": 2.849999999999997,
+    "sei_thickness_um": 1.095,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 11.9,
+    "ct_resistance_mOhm": 55.7
+  },
+  {
+    "cycle": 20,
+    "capacity_Ah": 4.85,
+    "capacity_fade_pct": 3.0000000000000027,
+    "sei_thickness_um": 1.1,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 12.0,
+    "ct_resistance_mOhm": 56.0
+  },
+  {
+    "cycle": 21,
+    "capacity_Ah": 4.8425,
+    "capacity_fade_pct": 3.1499999999999972,
+    "sei_thickness_um": 1.105,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 12.1,
+    "ct_resistance_mOhm": 56.300000000000004
+  },
+  {
+    "cycle": 22,
+    "capacity_Ah": 4.835,
+    "capacity_fade_pct": 3.300000000000003,
+    "sei_thickness_um": 1.1099999999999999,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 12.200000000000001,
+    "ct_resistance_mOhm": 56.6
+  },
+  {
+    "cycle": 23,
+    "capacity_Ah": 4.827500000000001,
+    "capacity_fade_pct": 3.4499999999999864,
+    "sei_thickness_um": 1.115,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 12.3,
+    "ct_resistance_mOhm": 56.9
+  },
+  {
+    "cycle": 24,
+    "capacity_Ah": 4.82,
+    "capacity_fade_pct": 3.599999999999992,
+    "sei_thickness_um": 1.1199999999999999,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 12.400000000000002,
+    "ct_resistance_mOhm": 57.2
+  },
+  {
+    "cycle": 25,
+    "capacity_Ah": 4.8125,
+    "capacity_fade_pct": 3.749999999999998,
+    "sei_thickness_um": 1.125,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 12.5,
+    "ct_resistance_mOhm": 57.5
+  },
+  {
+    "cycle": 26,
+    "capacity_Ah": 4.805,
+    "capacity_fade_pct": 3.9000000000000035,
+    "sei_thickness_um": 1.13,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 12.6,
+    "ct_resistance_mOhm": 57.800000000000004
+  },
+  {
+    "cycle": 27,
+    "capacity_Ah": 4.7975,
+    "capacity_fade_pct": 4.049999999999998,
+    "sei_thickness_um": 1.135,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 12.7,
+    "ct_resistance_mOhm": 58.1
+  },
+  {
+    "cycle": 28,
+    "capacity_Ah": 4.79,
+    "capacity_fade_pct": 4.200000000000004,
+    "sei_thickness_um": 1.14,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 12.8,
+    "ct_resistance_mOhm": 58.4
+  },
+  {
+    "cycle": 29,
+    "capacity_Ah": 4.7825,
+    "capacity_fade_pct": 4.350000000000009,
+    "sei_thickness_um": 1.145,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 12.9,
+    "ct_resistance_mOhm": 58.7
+  },
+  {
+    "cycle": 30,
+    "capacity_Ah": 4.7749999999999995,
+    "capacity_fade_pct": 4.500000000000015,
+    "sei_thickness_um": 1.15,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 13.000000000000002,
+    "ct_resistance_mOhm": 59.00000000000001
+  },
+  {
+    "cycle": 31,
+    "capacity_Ah": 4.7675,
+    "capacity_fade_pct": 4.649999999999999,
+    "sei_thickness_um": 1.155,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 13.100000000000001,
+    "ct_resistance_mOhm": 59.300000000000004
+  },
+  {
+    "cycle": 32,
+    "capacity_Ah": 4.76,
+    "capacity_fade_pct": 4.800000000000004,
+    "sei_thickness_um": 1.16,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 13.2,
+    "ct_resistance_mOhm": 59.6
+  },
+  {
+    "cycle": 33,
+    "capacity_Ah": 4.7525,
+    "capacity_fade_pct": 4.949999999999988,
+    "sei_thickness_um": 1.1649999999999998,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 13.299999999999999,
+    "ct_resistance_mOhm": 59.9
+  },
+  {
+    "cycle": 34,
+    "capacity_Ah": 4.745,
+    "capacity_fade_pct": 5.099999999999993,
+    "sei_thickness_um": 1.17,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 13.4,
+    "ct_resistance_mOhm": 60.2
+  },
+  {
+    "cycle": 35,
+    "capacity_Ah": 4.7375,
+    "capacity_fade_pct": 5.249999999999999,
+    "sei_thickness_um": 1.175,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 13.5,
+    "ct_resistance_mOhm": 60.5
+  },
+  {
+    "cycle": 36,
+    "capacity_Ah": 4.7299999999999995,
+    "capacity_fade_pct": 5.400000000000005,
+    "sei_thickness_um": 1.18,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 13.600000000000001,
+    "ct_resistance_mOhm": 60.8
+  },
+  {
+    "cycle": 37,
+    "capacity_Ah": 4.7225,
+    "capacity_fade_pct": 5.549999999999999,
+    "sei_thickness_um": 1.1849999999999998,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 13.700000000000001,
+    "ct_resistance_mOhm": 61.1
+  },
+  {
+    "cycle": 38,
+    "capacity_Ah": 4.715,
+    "capacity_fade_pct": 5.700000000000005,
+    "sei_thickness_um": 1.19,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 13.799999999999999,
+    "ct_resistance_mOhm": 61.400000000000006
+  },
+  {
+    "cycle": 39,
+    "capacity_Ah": 4.7075,
+    "capacity_fade_pct": 5.85000000000001,
+    "sei_thickness_um": 1.195,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 13.9,
+    "ct_resistance_mOhm": 61.7
+  },
+  {
+    "cycle": 40,
+    "capacity_Ah": 4.699999999999999,
+    "capacity_fade_pct": 6.000000000000016,
+    "sei_thickness_um": 1.2,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 14.0,
+    "ct_resistance_mOhm": 62.0
+  },
+  {
+    "cycle": 41,
+    "capacity_Ah": 4.6925,
+    "capacity_fade_pct": 6.15,
+    "sei_thickness_um": 1.2049999999999998,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 14.100000000000001,
+    "ct_resistance_mOhm": 62.300000000000004
+  },
+  {
+    "cycle": 42,
+    "capacity_Ah": 4.6850000000000005,
+    "capacity_fade_pct": 6.2999999999999945,
+    "sei_thickness_um": 1.2099999999999997,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 14.200000000000001,
+    "ct_resistance_mOhm": 62.6
+  },
+  {
+    "cycle": 43,
+    "capacity_Ah": 4.6775,
+    "capacity_fade_pct": 6.45,
+    "sei_thickness_um": 1.215,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 14.3,
+    "ct_resistance_mOhm": 62.9
+  },
+  {
+    "cycle": 44,
+    "capacity_Ah": 4.67,
+    "capacity_fade_pct": 6.600000000000006,
+    "sei_thickness_um": 1.22,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 14.4,
+    "ct_resistance_mOhm": 63.2
+  },
+  {
+    "cycle": 45,
+    "capacity_Ah": 4.6625,
+    "capacity_fade_pct": 6.7500000000000115,
+    "sei_thickness_um": 1.2249999999999999,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 14.5,
+    "ct_resistance_mOhm": 63.5
+  },
+  {
+    "cycle": 46,
+    "capacity_Ah": 4.655,
+    "capacity_fade_pct": 6.899999999999995,
+    "sei_thickness_um": 1.2299999999999998,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 14.6,
+    "ct_resistance_mOhm": 63.8
+  },
+  {
+    "cycle": 47,
+    "capacity_Ah": 4.6475,
+    "capacity_fade_pct": 7.050000000000001,
+    "sei_thickness_um": 1.235,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 14.700000000000001,
+    "ct_resistance_mOhm": 64.10000000000001
+  },
+  {
+    "cycle": 48,
+    "capacity_Ah": 4.64,
+    "capacity_fade_pct": 7.200000000000006,
+    "sei_thickness_um": 1.24,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 14.8,
+    "ct_resistance_mOhm": 64.4
+  },
+  {
+    "cycle": 49,
+    "capacity_Ah": 4.6325,
+    "capacity_fade_pct": 7.34999999999999,
+    "sei_thickness_um": 1.2449999999999999,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 14.9,
+    "ct_resistance_mOhm": 64.7
+  },
+  {
+    "cycle": 50,
+    "capacity_Ah": 4.625,
+    "capacity_fade_pct": 7.499999999999996,
+    "sei_thickness_um": 1.25,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 15.0,
+    "ct_resistance_mOhm": 65.0
+  },
+  {
+    "cycle": 51,
+    "capacity_Ah": 4.6175,
+    "capacity_fade_pct": 7.650000000000001,
+    "sei_thickness_um": 1.255,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 15.100000000000001,
+    "ct_resistance_mOhm": 65.3
+  },
+  {
+    "cycle": 52,
+    "capacity_Ah": 4.61,
+    "capacity_fade_pct": 7.799999999999995,
+    "sei_thickness_um": 1.26,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 15.200000000000001,
+    "ct_resistance_mOhm": 65.60000000000001
+  },
+  {
+    "cycle": 53,
+    "capacity_Ah": 4.6025,
+    "capacity_fade_pct": 7.950000000000001,
+    "sei_thickness_um": 1.265,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 15.3,
+    "ct_resistance_mOhm": 65.9
+  },
+  {
+    "cycle": 54,
+    "capacity_Ah": 4.595000000000001,
+    "capacity_fade_pct": 8.099999999999985,
+    "sei_thickness_um": 1.27,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 15.4,
+    "ct_resistance_mOhm": 66.2
+  },
+  {
+    "cycle": 55,
+    "capacity_Ah": 4.5875,
+    "capacity_fade_pct": 8.249999999999991,
+    "sei_thickness_um": 1.2750000000000001,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 15.5,
+    "ct_resistance_mOhm": 66.5
+  },
+  {
+    "cycle": 56,
+    "capacity_Ah": 4.58,
+    "capacity_fade_pct": 8.399999999999997,
+    "sei_thickness_um": 1.28,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 15.6,
+    "ct_resistance_mOhm": 66.8
+  },
+  {
+    "cycle": 57,
+    "capacity_Ah": 4.5725,
+    "capacity_fade_pct": 8.550000000000002,
+    "sei_thickness_um": 1.285,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 15.7,
+    "ct_resistance_mOhm": 67.1
+  },
+  {
+    "cycle": 58,
+    "capacity_Ah": 4.565,
+    "capacity_fade_pct": 8.699999999999996,
+    "sei_thickness_um": 1.29,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 15.8,
+    "ct_resistance_mOhm": 67.4
+  },
+  {
+    "cycle": 59,
+    "capacity_Ah": 4.5575,
+    "capacity_fade_pct": 8.850000000000001,
+    "sei_thickness_um": 1.295,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 15.9,
+    "ct_resistance_mOhm": 67.7
+  },
+  {
+    "cycle": 60,
+    "capacity_Ah": 4.55,
+    "capacity_fade_pct": 9.000000000000007,
+    "sei_thickness_um": 1.2999999999999998,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 16.0,
+    "ct_resistance_mOhm": 68.0
+  },
+  {
+    "cycle": 61,
+    "capacity_Ah": 4.5424999999999995,
+    "capacity_fade_pct": 9.150000000000013,
+    "sei_thickness_um": 1.305,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 16.1,
+    "ct_resistance_mOhm": 68.3
+  },
+  {
+    "cycle": 62,
+    "capacity_Ah": 4.535,
+    "capacity_fade_pct": 9.299999999999997,
+    "sei_thickness_um": 1.31,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 16.2,
+    "ct_resistance_mOhm": 68.6
+  },
+  {
+    "cycle": 63,
+    "capacity_Ah": 4.5275,
+    "capacity_fade_pct": 9.450000000000003,
+    "sei_thickness_um": 1.315,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 16.3,
+    "ct_resistance_mOhm": 68.9
+  },
+  {
+    "cycle": 64,
+    "capacity_Ah": 4.5200000000000005,
+    "capacity_fade_pct": 9.599999999999987,
+    "sei_thickness_um": 1.32,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 16.400000000000002,
+    "ct_resistance_mOhm": 69.2
+  },
+  {
+    "cycle": 65,
+    "capacity_Ah": 4.5125,
+    "capacity_fade_pct": 9.749999999999993,
+    "sei_thickness_um": 1.325,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 16.5,
+    "ct_resistance_mOhm": 69.5
+  },
+  {
+    "cycle": 66,
+    "capacity_Ah": 4.505,
+    "capacity_fade_pct": 9.899999999999999,
+    "sei_thickness_um": 1.33,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 16.6,
+    "ct_resistance_mOhm": 69.8
+  },
+  {
+    "cycle": 67,
+    "capacity_Ah": 4.4975,
+    "capacity_fade_pct": 10.050000000000004,
+    "sei_thickness_um": 1.335,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 16.7,
+    "ct_resistance_mOhm": 70.1
+  },
+  {
+    "cycle": 68,
+    "capacity_Ah": 4.49,
+    "capacity_fade_pct": 10.199999999999998,
+    "sei_thickness_um": 1.3399999999999999,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 16.8,
+    "ct_resistance_mOhm": 70.4
+  },
+  {
+    "cycle": 69,
+    "capacity_Ah": 4.4825,
+    "capacity_fade_pct": 10.350000000000003,
+    "sei_thickness_um": 1.345,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 16.900000000000002,
+    "ct_resistance_mOhm": 70.7
+  },
+  {
+    "cycle": 70,
+    "capacity_Ah": 4.475,
+    "capacity_fade_pct": 10.500000000000009,
+    "sei_thickness_um": 1.35,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 17.0,
+    "ct_resistance_mOhm": 71.00000000000001
+  },
+  {
+    "cycle": 71,
+    "capacity_Ah": 4.467499999999999,
+    "capacity_fade_pct": 10.650000000000015,
+    "sei_thickness_um": 1.355,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 17.1,
+    "ct_resistance_mOhm": 71.3
+  },
+  {
+    "cycle": 72,
+    "capacity_Ah": 4.46,
+    "capacity_fade_pct": 10.799999999999999,
+    "sei_thickness_um": 1.3599999999999999,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 17.2,
+    "ct_resistance_mOhm": 71.6
+  },
+  {
+    "cycle": 73,
+    "capacity_Ah": 4.4525,
+    "capacity_fade_pct": 10.950000000000005,
+    "sei_thickness_um": 1.365,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 17.3,
+    "ct_resistance_mOhm": 71.9
+  },
+  {
+    "cycle": 74,
+    "capacity_Ah": 4.445,
+    "capacity_fade_pct": 11.099999999999998,
+    "sei_thickness_um": 1.37,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 17.4,
+    "ct_resistance_mOhm": 72.2
+  },
+  {
+    "cycle": 75,
+    "capacity_Ah": 4.4375,
+    "capacity_fade_pct": 11.250000000000004,
+    "sei_thickness_um": 1.375,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 17.5,
+    "ct_resistance_mOhm": 72.50000000000001
+  },
+  {
+    "cycle": 76,
+    "capacity_Ah": 4.43,
+    "capacity_fade_pct": 11.40000000000001,
+    "sei_thickness_um": 1.38,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 17.6,
+    "ct_resistance_mOhm": 72.8
+  },
+  {
+    "cycle": 77,
+    "capacity_Ah": 4.422499999999999,
+    "capacity_fade_pct": 11.550000000000015,
+    "sei_thickness_um": 1.3849999999999998,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 17.7,
+    "ct_resistance_mOhm": 73.1
+  },
+  {
+    "cycle": 78,
+    "capacity_Ah": 4.415,
+    "capacity_fade_pct": 11.7,
+    "sei_thickness_um": 1.3900000000000001,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 17.8,
+    "ct_resistance_mOhm": 73.39999999999999
+  },
+  {
+    "cycle": 79,
+    "capacity_Ah": 4.4075,
+    "capacity_fade_pct": 11.850000000000005,
+    "sei_thickness_um": 1.395,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 17.9,
+    "ct_resistance_mOhm": 73.7
+  },
+  {
+    "cycle": 80,
+    "capacity_Ah": 4.4,
+    "capacity_fade_pct": 11.99999999999999,
+    "sei_thickness_um": 1.4,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 18.000000000000004,
+    "ct_resistance_mOhm": 74.0
+  },
+  {
+    "cycle": 81,
+    "capacity_Ah": 4.3925,
+    "capacity_fade_pct": 12.149999999999995,
+    "sei_thickness_um": 1.4049999999999998,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 18.099999999999998,
+    "ct_resistance_mOhm": 74.30000000000001
+  },
+  {
+    "cycle": 82,
+    "capacity_Ah": 4.385,
+    "capacity_fade_pct": 12.3,
+    "sei_thickness_um": 1.4100000000000001,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 18.2,
+    "ct_resistance_mOhm": 74.6
+  },
+  {
+    "cycle": 83,
+    "capacity_Ah": 4.3774999999999995,
+    "capacity_fade_pct": 12.450000000000006,
+    "sei_thickness_um": 1.415,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 18.3,
+    "ct_resistance_mOhm": 74.89999999999999
+  },
+  {
+    "cycle": 84,
+    "capacity_Ah": 4.37,
+    "capacity_fade_pct": 12.6,
+    "sei_thickness_um": 1.42,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 18.4,
+    "ct_resistance_mOhm": 75.2
+  },
+  {
+    "cycle": 85,
+    "capacity_Ah": 4.362500000000001,
+    "capacity_fade_pct": 12.749999999999984,
+    "sei_thickness_um": 1.4249999999999998,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 18.500000000000004,
+    "ct_resistance_mOhm": 75.5
+  },
+  {
+    "cycle": 86,
+    "capacity_Ah": 4.355,
+    "capacity_fade_pct": 12.89999999999999,
+    "sei_thickness_um": 1.43,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 18.599999999999998,
+    "ct_resistance_mOhm": 75.80000000000001
+  },
+  {
+    "cycle": 87,
+    "capacity_Ah": 4.3475,
+    "capacity_fade_pct": 13.049999999999995,
+    "sei_thickness_um": 1.435,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 18.700000000000003,
+    "ct_resistance_mOhm": 76.1
+  },
+  {
+    "cycle": 88,
+    "capacity_Ah": 4.34,
+    "capacity_fade_pct": 13.200000000000001,
+    "sei_thickness_um": 1.44,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 18.8,
+    "ct_resistance_mOhm": 76.39999999999999
+  },
+  {
+    "cycle": 89,
+    "capacity_Ah": 4.3325000000000005,
+    "capacity_fade_pct": 13.349999999999994,
+    "sei_thickness_um": 1.4449999999999998,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 18.9,
+    "ct_resistance_mOhm": 76.7
+  },
+  {
+    "cycle": 90,
+    "capacity_Ah": 4.325,
+    "capacity_fade_pct": 13.5,
+    "sei_thickness_um": 1.4500000000000002,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 19.000000000000004,
+    "ct_resistance_mOhm": 77.0
+  },
+  {
+    "cycle": 91,
+    "capacity_Ah": 4.3175,
+    "capacity_fade_pct": 13.650000000000006,
+    "sei_thickness_um": 1.455,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 19.099999999999998,
+    "ct_resistance_mOhm": 77.30000000000001
+  },
+  {
+    "cycle": 92,
+    "capacity_Ah": 4.31,
+    "capacity_fade_pct": 13.800000000000011,
+    "sei_thickness_um": 1.46,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 19.200000000000003,
+    "ct_resistance_mOhm": 77.60000000000001
+  },
+  {
+    "cycle": 93,
+    "capacity_Ah": 4.3025,
+    "capacity_fade_pct": 13.949999999999996,
+    "sei_thickness_um": 1.4649999999999999,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 19.3,
+    "ct_resistance_mOhm": 77.89999999999999
+  },
+  {
+    "cycle": 94,
+    "capacity_Ah": 4.295,
+    "capacity_fade_pct": 14.100000000000001,
+    "sei_thickness_um": 1.47,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 19.400000000000002,
+    "ct_resistance_mOhm": 78.19999999999999
+  },
+  {
+    "cycle": 95,
+    "capacity_Ah": 4.2875,
+    "capacity_fade_pct": 14.250000000000007,
+    "sei_thickness_um": 1.4749999999999999,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 19.5,
+    "ct_resistance_mOhm": 78.5
+  },
+  {
+    "cycle": 96,
+    "capacity_Ah": 4.28,
+    "capacity_fade_pct": 14.399999999999991,
+    "sei_thickness_um": 1.48,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 19.599999999999998,
+    "ct_resistance_mOhm": 78.80000000000001
+  },
+  {
+    "cycle": 97,
+    "capacity_Ah": 4.2725,
+    "capacity_fade_pct": 14.549999999999997,
+    "sei_thickness_um": 1.4849999999999999,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 19.700000000000003,
+    "ct_resistance_mOhm": 79.10000000000001
+  },
+  {
+    "cycle": 98,
+    "capacity_Ah": 4.265,
+    "capacity_fade_pct": 14.700000000000003,
+    "sei_thickness_um": 1.49,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 19.799999999999997,
+    "ct_resistance_mOhm": 79.39999999999999
+  },
+  {
+    "cycle": 99,
+    "capacity_Ah": 4.2575,
+    "capacity_fade_pct": 14.849999999999996,
+    "sei_thickness_um": 1.495,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 19.900000000000002,
+    "ct_resistance_mOhm": 79.69999999999999
+  },
+  {
+    "cycle": 100,
+    "capacity_Ah": 4.25,
+    "capacity_fade_pct": 15.000000000000002,
+    "sei_thickness_um": 1.5,
+    "li_plating_um": 0.0,
+    "ohmic_resistance_mOhm": 20.0,
+    "ct_resistance_mOhm": 80.0
+  },
+  {
+    "cycle": 101,
+    "capacity_Ah": 4.2425,
+    "capacity_fade_pct": 15.150000000000007,
+    "sei_thickness_um": 1.505,
+    "li_plating_um": 1.01,
+    "ohmic_resistance_mOhm": 20.1,
+    "ct_resistance_mOhm": 80.3
+  },
+  {
+    "cycle": 102,
+    "capacity_Ah": 4.234999999999999,
+    "capacity_fade_pct": 15.300000000000013,
+    "sei_thickness_um": 1.51,
+    "li_plating_um": 1.02,
+    "ohmic_resistance_mOhm": 20.200000000000003,
+    "ct_resistance_mOhm": 80.60000000000001
+  },
+  {
+    "cycle": 103,
+    "capacity_Ah": 4.2275,
+    "capacity_fade_pct": 15.449999999999998,
+    "sei_thickness_um": 1.515,
+    "li_plating_um": 1.03,
+    "ohmic_resistance_mOhm": 20.299999999999997,
+    "ct_resistance_mOhm": 80.9
+  },
+  {
+    "cycle": 104,
+    "capacity_Ah": 4.22,
+    "capacity_fade_pct": 15.600000000000003,
+    "sei_thickness_um": 1.5199999999999998,
+    "li_plating_um": 1.04,
+    "ohmic_resistance_mOhm": 20.400000000000002,
+    "ct_resistance_mOhm": 81.19999999999999
+  },
+  {
+    "cycle": 105,
+    "capacity_Ah": 4.2125,
+    "capacity_fade_pct": 15.749999999999996,
+    "sei_thickness_um": 1.525,
+    "li_plating_um": 1.05,
+    "ohmic_resistance_mOhm": 20.5,
+    "ct_resistance_mOhm": 81.5
+  },
+  {
+    "cycle": 106,
+    "capacity_Ah": 4.205,
+    "capacity_fade_pct": 15.900000000000002,
+    "sei_thickness_um": 1.53,
+    "li_plating_um": 1.06,
+    "ohmic_resistance_mOhm": 20.6,
+    "ct_resistance_mOhm": 81.8
+  },
+  {
+    "cycle": 107,
+    "capacity_Ah": 4.1975,
+    "capacity_fade_pct": 16.050000000000008,
+    "sei_thickness_um": 1.535,
+    "li_plating_um": 1.0699999999999998,
+    "ohmic_resistance_mOhm": 20.700000000000003,
+    "ct_resistance_mOhm": 82.10000000000001
+  },
+  {
+    "cycle": 108,
+    "capacity_Ah": 4.1899999999999995,
+    "capacity_fade_pct": 16.200000000000014,
+    "sei_thickness_um": 1.54,
+    "li_plating_um": 1.08,
+    "ohmic_resistance_mOhm": 20.8,
+    "ct_resistance_mOhm": 82.4
+  },
+  {
+    "cycle": 109,
+    "capacity_Ah": 4.1825,
+    "capacity_fade_pct": 16.349999999999998,
+    "sei_thickness_um": 1.545,
+    "li_plating_um": 1.0899999999999999,
+    "ohmic_resistance_mOhm": 20.900000000000002,
+    "ct_resistance_mOhm": 82.69999999999999
+  },
+  {
+    "cycle": 110,
+    "capacity_Ah": 4.175,
+    "capacity_fade_pct": 16.500000000000004,
+    "sei_thickness_um": 1.55,
+    "li_plating_um": 1.1,
+    "ohmic_resistance_mOhm": 21.0,
+    "ct_resistance_mOhm": 82.99999999999999
+  },
+  {
+    "cycle": 111,
+    "capacity_Ah": 4.1675,
+    "capacity_fade_pct": 16.649999999999988,
+    "sei_thickness_um": 1.555,
+    "li_plating_um": 1.1099999999999999,
+    "ohmic_resistance_mOhm": 21.1,
+    "ct_resistance_mOhm": 83.3
+  },
+  {
+    "cycle": 112,
+    "capacity_Ah": 4.16,
+    "capacity_fade_pct": 16.799999999999994,
+    "sei_thickness_um": 1.5599999999999998,
+    "li_plating_um": 1.12,
+    "ohmic_resistance_mOhm": 21.2,
+    "ct_resistance_mOhm": 83.60000000000001
+  },
+  {
+    "cycle": 113,
+    "capacity_Ah": 4.1525,
+    "capacity_fade_pct": 16.95,
+    "sei_thickness_um": 1.565,
+    "li_plating_um": 1.13,
+    "ohmic_resistance_mOhm": 21.3,
+    "ct_resistance_mOhm": 83.9
+  },
+  {
+    "cycle": 114,
+    "capacity_Ah": 4.145,
+    "capacity_fade_pct": 17.100000000000005,
+    "sei_thickness_um": 1.57,
+    "li_plating_um": 1.1400000000000001,
+    "ohmic_resistance_mOhm": 21.400000000000002,
+    "ct_resistance_mOhm": 84.2
+  },
+  {
+    "cycle": 115,
+    "capacity_Ah": 4.1375,
+    "capacity_fade_pct": 17.25,
+    "sei_thickness_um": 1.575,
+    "li_plating_um": 1.15,
+    "ohmic_resistance_mOhm": 21.5,
+    "ct_resistance_mOhm": 84.49999999999999
+  },
+  {
+    "cycle": 116,
+    "capacity_Ah": 4.13,
+    "capacity_fade_pct": 17.400000000000006,
+    "sei_thickness_um": 1.58,
+    "li_plating_um": 1.1600000000000001,
+    "ohmic_resistance_mOhm": 21.6,
+    "ct_resistance_mOhm": 84.8
+  },
+  {
+    "cycle": 117,
+    "capacity_Ah": 4.1225000000000005,
+    "capacity_fade_pct": 17.549999999999986,
+    "sei_thickness_um": 1.585,
+    "li_plating_um": 1.17,
+    "ohmic_resistance_mOhm": 21.7,
+    "ct_resistance_mOhm": 85.10000000000001
+  },
+  {
+    "cycle": 118,
+    "capacity_Ah": 4.115,
+    "capacity_fade_pct": 17.699999999999992,
+    "sei_thickness_um": 1.59,
+    "li_plating_um": 1.18,
+    "ohmic_resistance_mOhm": 21.8,
+    "ct_resistance_mOhm": 85.4
+  },
+  {
+    "cycle": 119,
+    "capacity_Ah": 4.1075,
+    "capacity_fade_pct": 17.849999999999998,
+    "sei_thickness_um": 1.595,
+    "li_plating_um": 1.19,
+    "ohmic_resistance_mOhm": 21.900000000000002,
+    "ct_resistance_mOhm": 85.7
+  },
+  {
+    "cycle": 120,
+    "capacity_Ah": 4.1000000000000005,
+    "capacity_fade_pct": 17.999999999999993,
+    "sei_thickness_um": 1.5999999999999999,
+    "li_plating_um": 1.2,
+    "ohmic_resistance_mOhm": 22.0,
+    "ct_resistance_mOhm": 86.0
+  },
+  {
+    "cycle": 121,
+    "capacity_Ah": 4.0925,
+    "capacity_fade_pct": 18.15,
+    "sei_thickness_um": 1.605,
+    "li_plating_um": 1.21,
+    "ohmic_resistance_mOhm": 22.1,
+    "ct_resistance_mOhm": 86.3
+  },
+  {
+    "cycle": 122,
+    "capacity_Ah": 4.085,
+    "capacity_fade_pct": 18.300000000000004,
+    "sei_thickness_um": 1.6099999999999999,
+    "li_plating_um": 1.22,
+    "ohmic_resistance_mOhm": 22.2,
+    "ct_resistance_mOhm": 86.6
+  },
+  {
+    "cycle": 123,
+    "capacity_Ah": 4.0775,
+    "capacity_fade_pct": 18.45000000000001,
+    "sei_thickness_um": 1.615,
+    "li_plating_um": 1.23,
+    "ohmic_resistance_mOhm": 22.3,
+    "ct_resistance_mOhm": 86.9
+  },
+  {
+    "cycle": 124,
+    "capacity_Ah": 4.07,
+    "capacity_fade_pct": 18.599999999999994,
+    "sei_thickness_um": 1.6199999999999999,
+    "li_plating_um": 1.24,
+    "ohmic_resistance_mOhm": 22.400000000000002,
+    "ct_resistance_mOhm": 87.2
+  },
+  {
+    "cycle": 125,
+    "capacity_Ah": 4.0625,
+    "capacity_fade_pct": 18.75,
+    "sei_thickness_um": 1.6250000000000002,
+    "li_plating_um": 1.25,
+    "ohmic_resistance_mOhm": 22.5,
+    "ct_resistance_mOhm": 87.5
+  },
+  {
+    "cycle": 126,
+    "capacity_Ah": 4.055,
+    "capacity_fade_pct": 18.900000000000006,
+    "sei_thickness_um": 1.6300000000000001,
+    "li_plating_um": 1.26,
+    "ohmic_resistance_mOhm": 22.6,
+    "ct_resistance_mOhm": 87.79999999999998
+  },
+  {
+    "cycle": 127,
+    "capacity_Ah": 4.0475,
+    "capacity_fade_pct": 19.04999999999999,
+    "sei_thickness_um": 1.635,
+    "li_plating_um": 1.27,
+    "ohmic_resistance_mOhm": 22.700000000000003,
+    "ct_resistance_mOhm": 88.1
+  },
+  {
+    "cycle": 128,
+    "capacity_Ah": 4.04,
+    "capacity_fade_pct": 19.199999999999996,
+    "sei_thickness_um": 1.64,
+    "li_plating_um": 1.28,
+    "ohmic_resistance_mOhm": 22.8,
+    "ct_resistance_mOhm": 88.4
+  },
+  {
+    "cycle": 129,
+    "capacity_Ah": 4.0325,
+    "capacity_fade_pct": 19.35,
+    "sei_thickness_um": 1.645,
+    "li_plating_um": 1.29,
+    "ohmic_resistance_mOhm": 22.9,
+    "ct_resistance_mOhm": 88.7
+  },
+  {
+    "cycle": 130,
+    "capacity_Ah": 4.0249999999999995,
+    "capacity_fade_pct": 19.500000000000007,
+    "sei_thickness_um": 1.65,
+    "li_plating_um": 1.3,
+    "ohmic_resistance_mOhm": 23.0,
+    "ct_resistance_mOhm": 89.0
+  },
+  {
+    "cycle": 131,
+    "capacity_Ah": 4.0175,
+    "capacity_fade_pct": 19.650000000000002,
+    "sei_thickness_um": 1.6549999999999998,
+    "li_plating_um": 1.31,
+    "ohmic_resistance_mOhm": 23.1,
+    "ct_resistance_mOhm": 89.3
+  },
+  {
+    "cycle": 132,
+    "capacity_Ah": 4.01,
+    "capacity_fade_pct": 19.800000000000008,
+    "sei_thickness_um": 1.66,
+    "li_plating_um": 1.32,
+    "ohmic_resistance_mOhm": 23.2,
+    "ct_resistance_mOhm": 89.6
+  },
+  {
+    "cycle": 133,
+    "capacity_Ah": 4.0024999999999995,
+    "capacity_fade_pct": 19.950000000000014,
+    "sei_thickness_um": 1.665,
+    "li_plating_um": 1.33,
+    "ohmic_resistance_mOhm": 23.3,
+    "ct_resistance_mOhm": 89.9
+  },
+  {
+    "cycle": 134,
+    "capacity_Ah": 3.9949999999999997,
+    "capacity_fade_pct": 20.10000000000001,
+    "sei_thickness_um": 1.6700000000000002,
+    "li_plating_um": 1.34,
+    "ohmic_resistance_mOhm": 23.400000000000002,
+    "ct_resistance_mOhm": 90.2
+  },
+  {
+    "cycle": 135,
+    "capacity_Ah": 3.9875,
+    "capacity_fade_pct": 20.25,
+    "sei_thickness_um": 1.675,
+    "li_plating_um": 1.35,
+    "ohmic_resistance_mOhm": 23.5,
+    "ct_resistance_mOhm": 90.5
+  },
+  {
+    "cycle": 136,
+    "capacity_Ah": 3.9800000000000004,
+    "capacity_fade_pct": 20.399999999999995,
+    "sei_thickness_um": 1.68,
+    "li_plating_um": 1.36,
+    "ohmic_resistance_mOhm": 23.6,
+    "ct_resistance_mOhm": 90.8
+  },
+  {
+    "cycle": 137,
+    "capacity_Ah": 3.9725,
+    "capacity_fade_pct": 20.55,
+    "sei_thickness_um": 1.685,
+    "li_plating_um": 1.37,
+    "ohmic_resistance_mOhm": 23.7,
+    "ct_resistance_mOhm": 91.1
+  },
+  {
+    "cycle": 138,
+    "capacity_Ah": 3.965,
+    "capacity_fade_pct": 20.700000000000006,
+    "sei_thickness_um": 1.69,
+    "li_plating_um": 1.3800000000000001,
+    "ohmic_resistance_mOhm": 23.8,
+    "ct_resistance_mOhm": 91.4
+  },
+  {
+    "cycle": 139,
+    "capacity_Ah": 3.9575,
+    "capacity_fade_pct": 20.85,
+    "sei_thickness_um": 1.6949999999999998,
+    "li_plating_um": 1.3900000000000001,
+    "ohmic_resistance_mOhm": 23.900000000000002,
+    "ct_resistance_mOhm": 91.7
+  },
+  {
+    "cycle": 140,
+    "capacity_Ah": 3.95,
+    "capacity_fade_pct": 20.999999999999996,
+    "sei_thickness_um": 1.6999999999999997,
+    "li_plating_um": 1.4,
+    "ohmic_resistance_mOhm": 24.0,
+    "ct_resistance_mOhm": 92.0
+  },
+  {
+    "cycle": 141,
+    "capacity_Ah": 3.9425,
+    "capacity_fade_pct": 21.150000000000002,
+    "sei_thickness_um": 1.705,
+    "li_plating_um": 1.4100000000000001,
+    "ohmic_resistance_mOhm": 24.100000000000005,
+    "ct_resistance_mOhm": 92.3
+  },
+  {
+    "cycle": 142,
+    "capacity_Ah": 3.935,
+    "capacity_fade_pct": 21.299999999999997,
+    "sei_thickness_um": 1.71,
+    "li_plating_um": 1.42,
+    "ohmic_resistance_mOhm": 24.2,
+    "ct_resistance_mOhm": 92.60000000000001
+  },
+  {
+    "cycle": 143,
+    "capacity_Ah": 3.9274999999999998,
+    "capacity_fade_pct": 21.450000000000003,
+    "sei_thickness_um": 1.715,
+    "li_plating_um": 1.4300000000000002,
+    "ohmic_resistance_mOhm": 24.3,
+    "ct_resistance_mOhm": 92.89999999999999
+  },
+  {
+    "cycle": 144,
+    "capacity_Ah": 3.92,
+    "capacity_fade_pct": 21.599999999999998,
+    "sei_thickness_um": 1.72,
+    "li_plating_um": 1.44,
+    "ohmic_resistance_mOhm": 24.400000000000002,
+    "ct_resistance_mOhm": 93.2
+  },
+  {
+    "cycle": 145,
+    "capacity_Ah": 3.9124999999999996,
+    "capacity_fade_pct": 21.750000000000004,
+    "sei_thickness_um": 1.725,
+    "li_plating_um": 1.4500000000000002,
+    "ohmic_resistance_mOhm": 24.5,
+    "ct_resistance_mOhm": 93.5
+  },
+  {
+    "cycle": 146,
+    "capacity_Ah": 3.9050000000000002,
+    "capacity_fade_pct": 21.9,
+    "sei_thickness_um": 1.73,
+    "li_plating_um": 1.46,
+    "ohmic_resistance_mOhm": 24.6,
+    "ct_resistance_mOhm": 93.8
+  },
+  {
+    "cycle": 147,
+    "capacity_Ah": 3.8975,
+    "capacity_fade_pct": 22.050000000000004,
+    "sei_thickness_um": 1.7349999999999999,
+    "li_plating_um": 1.4700000000000002,
+    "ohmic_resistance_mOhm": 24.7,
+    "ct_resistance_mOhm": 94.1
+  },
+  {
+    "cycle": 148,
+    "capacity_Ah": 3.89,
+    "capacity_fade_pct": 22.199999999999996,
+    "sei_thickness_um": 1.7399999999999998,
+    "li_plating_um": 1.48,
+    "ohmic_resistance_mOhm": 24.800000000000004,
+    "ct_resistance_mOhm": 94.39999999999999
+  },
+  {
+    "cycle": 149,
+    "capacity_Ah": 3.8825,
+    "capacity_fade_pct": 22.35,
+    "sei_thickness_um": 1.745,
+    "li_plating_um": 1.4900000000000002,
+    "ohmic_resistance_mOhm": 24.9,
+    "ct_resistance_mOhm": 94.7
+  },
+  {
+    "cycle": 150,
+    "capacity_Ah": 3.875,
+    "capacity_fade_pct": 22.499999999999996,
+    "sei_thickness_um": 1.75,
+    "li_plating_um": 1.5,
+    "ohmic_resistance_mOhm": 25.0,
+    "ct_resistance_mOhm": 95.0
+  },
+  {
+    "cycle": 151,
+    "capacity_Ah": 3.8674999999999997,
+    "capacity_fade_pct": 22.650000000000002,
+    "sei_thickness_um": 1.755,
+    "li_plating_um": 1.51,
+    "ohmic_resistance_mOhm": 25.1,
+    "ct_resistance_mOhm": 95.3
+  },
+  {
+    "cycle": 152,
+    "capacity_Ah": 3.8600000000000003,
+    "capacity_fade_pct": 22.799999999999997,
+    "sei_thickness_um": 1.76,
+    "li_plating_um": 1.52,
+    "ohmic_resistance_mOhm": 25.2,
+    "ct_resistance_mOhm": 95.6
+  },
+  {
+    "cycle": 153,
+    "capacity_Ah": 3.8525,
+    "capacity_fade_pct": 22.950000000000003,
+    "sei_thickness_um": 1.7650000000000001,
+    "li_plating_um": 1.53,
+    "ohmic_resistance_mOhm": 25.300000000000004,
+    "ct_resistance_mOhm": 95.9
+  },
+  {
+    "cycle": 154,
+    "capacity_Ah": 3.845,
+    "capacity_fade_pct": 23.099999999999998,
+    "sei_thickness_um": 1.77,
+    "li_plating_um": 1.54,
+    "ohmic_resistance_mOhm": 25.4,
+    "ct_resistance_mOhm": 96.2
+  },
+  {
+    "cycle": 155,
+    "capacity_Ah": 3.8375,
+    "capacity_fade_pct": 23.250000000000004,
+    "sei_thickness_um": 1.775,
+    "li_plating_um": 1.55,
+    "ohmic_resistance_mOhm": 25.500000000000004,
+    "ct_resistance_mOhm": 96.5
+  },
+  {
+    "cycle": 156,
+    "capacity_Ah": 3.83,
+    "capacity_fade_pct": 23.4,
+    "sei_thickness_um": 1.7799999999999998,
+    "li_plating_um": 1.56,
+    "ohmic_resistance_mOhm": 25.6,
+    "ct_resistance_mOhm": 96.8
+  },
+  {
+    "cycle": 157,
+    "capacity_Ah": 3.8225,
+    "capacity_fade_pct": 23.550000000000004,
+    "sei_thickness_um": 1.785,
+    "li_plating_um": 1.57,
+    "ohmic_resistance_mOhm": 25.7,
+    "ct_resistance_mOhm": 97.1
+  },
+  {
+    "cycle": 158,
+    "capacity_Ah": 3.815,
+    "capacity_fade_pct": 23.7,
+    "sei_thickness_um": 1.79,
+    "li_plating_um": 1.58,
+    "ohmic_resistance_mOhm": 25.800000000000004,
+    "ct_resistance_mOhm": 97.4
+  },
+  {
+    "cycle": 159,
+    "capacity_Ah": 3.8074999999999997,
+    "capacity_fade_pct": 23.850000000000005,
+    "sei_thickness_um": 1.795,
+    "li_plating_um": 1.59,
+    "ohmic_resistance_mOhm": 25.9,
+    "ct_resistance_mOhm": 97.69999999999999
+  },
+  {
+    "cycle": 160,
+    "capacity_Ah": 3.8,
+    "capacity_fade_pct": 24.0,
+    "sei_thickness_um": 1.7999999999999998,
+    "li_plating_um": 1.5999999999999999,
+    "ohmic_resistance_mOhm": 26.000000000000004,
+    "ct_resistance_mOhm": 98.0
+  },
+  {
+    "cycle": 161,
+    "capacity_Ah": 3.7924999999999995,
+    "capacity_fade_pct": 24.150000000000006,
+    "sei_thickness_um": 1.8050000000000002,
+    "li_plating_um": 1.61,
+    "ohmic_resistance_mOhm": 26.099999999999998,
+    "ct_resistance_mOhm": 98.3
+  },
+  {
+    "cycle": 162,
+    "capacity_Ah": 3.785,
+    "capacity_fade_pct": 24.3,
+    "sei_thickness_um": 1.81,
+    "li_plating_um": 1.6199999999999999,
+    "ohmic_resistance_mOhm": 26.200000000000003,
+    "ct_resistance_mOhm": 98.6
+  },
+  {
+    "cycle": 163,
+    "capacity_Ah": 3.7775000000000003,
+    "capacity_fade_pct": 24.449999999999996,
+    "sei_thickness_um": 1.815,
+    "li_plating_um": 1.6300000000000001,
+    "ohmic_resistance_mOhm": 26.300000000000004,
+    "ct_resistance_mOhm": 98.9
+  },
+  {
+    "cycle": 164,
+    "capacity_Ah": 3.77,
+    "capacity_fade_pct": 24.6,
+    "sei_thickness_um": 1.8199999999999998,
+    "li_plating_um": 1.64,
+    "ohmic_resistance_mOhm": 26.4,
+    "ct_resistance_mOhm": 99.2
+  },
+  {
+    "cycle": 165,
+    "capacity_Ah": 3.7624999999999997,
+    "capacity_fade_pct": 24.750000000000007,
+    "sei_thickness_um": 1.825,
+    "li_plating_um": 1.6500000000000001,
+    "ohmic_resistance_mOhm": 26.500000000000004,
+    "ct_resistance_mOhm": 99.5
+  },
+  {
+    "cycle": 166,
+    "capacity_Ah": 3.755,
+    "capacity_fade_pct": 24.9,
+    "sei_thickness_um": 1.8299999999999998,
+    "li_plating_um": 1.66,
+    "ohmic_resistance_mOhm": 26.599999999999998,
+    "ct_resistance_mOhm": 99.8
+  },
+  {
+    "cycle": 167,
+    "capacity_Ah": 3.7475000000000005,
+    "capacity_fade_pct": 25.049999999999994,
+    "sei_thickness_um": 1.835,
+    "li_plating_um": 1.6700000000000002,
+    "ohmic_resistance_mOhm": 26.700000000000003,
+    "ct_resistance_mOhm": 100.1
+  },
+  {
+    "cycle": 168,
+    "capacity_Ah": 3.74,
+    "capacity_fade_pct": 25.2,
+    "sei_thickness_um": 1.8399999999999999,
+    "li_plating_um": 1.68,
+    "ohmic_resistance_mOhm": 26.800000000000004,
+    "ct_resistance_mOhm": 100.39999999999999
+  },
+  {
+    "cycle": 169,
+    "capacity_Ah": 3.7325,
+    "capacity_fade_pct": 25.350000000000005,
+    "sei_thickness_um": 1.8450000000000002,
+    "li_plating_um": 1.6900000000000002,
+    "ohmic_resistance_mOhm": 26.9,
+    "ct_resistance_mOhm": 100.7
+  },
+  {
+    "cycle": 170,
+    "capacity_Ah": 3.725,
+    "capacity_fade_pct": 25.5,
+    "sei_thickness_um": 1.85,
+    "li_plating_um": 1.7,
+    "ohmic_resistance_mOhm": 27.000000000000004,
+    "ct_resistance_mOhm": 101.0
+  },
+  {
+    "cycle": 171,
+    "capacity_Ah": 3.7175000000000002,
+    "capacity_fade_pct": 25.649999999999995,
+    "sei_thickness_um": 1.855,
+    "li_plating_um": 1.71,
+    "ohmic_resistance_mOhm": 27.099999999999998,
+    "ct_resistance_mOhm": 101.3
+  },
+  {
+    "cycle": 172,
+    "capacity_Ah": 3.71,
+    "capacity_fade_pct": 25.8,
+    "sei_thickness_um": 1.8599999999999999,
+    "li_plating_um": 1.72,
+    "ohmic_resistance_mOhm": 27.200000000000003,
+    "ct_resistance_mOhm": 101.6
+  },
+  {
+    "cycle": 173,
+    "capacity_Ah": 3.7024999999999997,
+    "capacity_fade_pct": 25.950000000000006,
+    "sei_thickness_um": 1.865,
+    "li_plating_um": 1.73,
+    "ohmic_resistance_mOhm": 27.299999999999997,
+    "ct_resistance_mOhm": 101.89999999999999
+  },
+  {
+    "cycle": 174,
+    "capacity_Ah": 3.695,
+    "capacity_fade_pct": 26.1,
+    "sei_thickness_um": 1.8699999999999999,
+    "li_plating_um": 1.74,
+    "ohmic_resistance_mOhm": 27.400000000000002,
+    "ct_resistance_mOhm": 102.2
+  },
+  {
+    "cycle": 175,
+    "capacity_Ah": 3.6875,
+    "capacity_fade_pct": 26.249999999999996,
+    "sei_thickness_um": 1.8749999999999998,
+    "li_plating_um": 1.75,
+    "ohmic_resistance_mOhm": 27.500000000000004,
+    "ct_resistance_mOhm": 102.50000000000001
+  },
+  {
+    "cycle": 176,
+    "capacity_Ah": 3.6799999999999997,
+    "capacity_fade_pct": 26.400000000000002,
+    "sei_thickness_um": 1.88,
+    "li_plating_um": 1.76,
+    "ohmic_resistance_mOhm": 27.599999999999998,
+    "ct_resistance_mOhm": 102.8
+  },
+  {
+    "cycle": 177,
+    "capacity_Ah": 3.6724999999999994,
+    "capacity_fade_pct": 26.550000000000008,
+    "sei_thickness_um": 1.885,
+    "li_plating_um": 1.77,
+    "ohmic_resistance_mOhm": 27.700000000000003,
+    "ct_resistance_mOhm": 103.1
+  },
+  {
+    "cycle": 178,
+    "capacity_Ah": 3.665,
+    "capacity_fade_pct": 26.700000000000003,
+    "sei_thickness_um": 1.8900000000000001,
+    "li_plating_um": 1.78,
+    "ohmic_resistance_mOhm": 27.799999999999997,
+    "ct_resistance_mOhm": 103.39999999999999
+  },
+  {
+    "cycle": 179,
+    "capacity_Ah": 3.6575,
+    "capacity_fade_pct": 26.849999999999994,
+    "sei_thickness_um": 1.895,
+    "li_plating_um": 1.79,
+    "ohmic_resistance_mOhm": 27.900000000000002,
+    "ct_resistance_mOhm": 103.7
+  },
+  {
+    "cycle": 180,
+    "capacity_Ah": 3.65,
+    "capacity_fade_pct": 27.0,
+    "sei_thickness_um": 1.9,
+    "li_plating_um": 1.8,
+    "ohmic_resistance_mOhm": 28.000000000000004,
+    "ct_resistance_mOhm": 104.0
+  },
+  {
+    "cycle": 181,
+    "capacity_Ah": 3.6424999999999996,
+    "capacity_fade_pct": 27.150000000000006,
+    "sei_thickness_um": 1.905,
+    "li_plating_um": 1.81,
+    "ohmic_resistance_mOhm": 28.1,
+    "ct_resistance_mOhm": 104.3
+  },
+  {
+    "cycle": 182,
+    "capacity_Ah": 3.635,
+    "capacity_fade_pct": 27.3,
+    "sei_thickness_um": 1.91,
+    "li_plating_um": 1.8199999999999998,
+    "ohmic_resistance_mOhm": 28.200000000000003,
+    "ct_resistance_mOhm": 104.6
+  },
+  {
+    "cycle": 183,
+    "capacity_Ah": 3.6275000000000004,
+    "capacity_fade_pct": 27.449999999999996,
+    "sei_thickness_um": 1.9149999999999998,
+    "li_plating_um": 1.83,
+    "ohmic_resistance_mOhm": 28.299999999999997,
+    "ct_resistance_mOhm": 104.89999999999999
+  },
+  {
+    "cycle": 184,
+    "capacity_Ah": 3.62,
+    "capacity_fade_pct": 27.6,
+    "sei_thickness_um": 1.92,
+    "li_plating_um": 1.8399999999999999,
+    "ohmic_resistance_mOhm": 28.400000000000002,
+    "ct_resistance_mOhm": 105.19999999999999
+  },
+  {
+    "cycle": 185,
+    "capacity_Ah": 3.6125,
+    "capacity_fade_pct": 27.750000000000007,
+    "sei_thickness_um": 1.9250000000000003,
+    "li_plating_um": 1.85,
+    "ohmic_resistance_mOhm": 28.500000000000004,
+    "ct_resistance_mOhm": 105.5
+  },
+  {
+    "cycle": 186,
+    "capacity_Ah": 3.605,
+    "capacity_fade_pct": 27.900000000000002,
+    "sei_thickness_um": 1.9300000000000002,
+    "li_plating_um": 1.8599999999999999,
+    "ohmic_resistance_mOhm": 28.6,
+    "ct_resistance_mOhm": 105.80000000000001
+  },
+  {
+    "cycle": 187,
+    "capacity_Ah": 3.5975,
+    "capacity_fade_pct": 28.049999999999997,
+    "sei_thickness_um": 1.935,
+    "li_plating_um": 1.87,
+    "ohmic_resistance_mOhm": 28.700000000000003,
+    "ct_resistance_mOhm": 106.1
+  },
+  {
+    "cycle": 188,
+    "capacity_Ah": 3.59,
+    "capacity_fade_pct": 28.200000000000003,
+    "sei_thickness_um": 1.9400000000000002,
+    "li_plating_um": 1.88,
+    "ohmic_resistance_mOhm": 28.8,
+    "ct_resistance_mOhm": 106.39999999999999
+  },
+  {
+    "cycle": 189,
+    "capacity_Ah": 3.5824999999999996,
+    "capacity_fade_pct": 28.35000000000001,
+    "sei_thickness_um": 1.945,
+    "li_plating_um": 1.8900000000000001,
+    "ohmic_resistance_mOhm": 28.900000000000002,
+    "ct_resistance_mOhm": 106.69999999999999
+  },
+  {
+    "cycle": 190,
+    "capacity_Ah": 3.5749999999999997,
+    "capacity_fade_pct": 28.500000000000004,
+    "sei_thickness_um": 1.95,
+    "li_plating_um": 1.9,
+    "ohmic_resistance_mOhm": 28.999999999999996,
+    "ct_resistance_mOhm": 107.0
+  },
+  {
+    "cycle": 191,
+    "capacity_Ah": 3.5675,
+    "capacity_fade_pct": 28.65,
+    "sei_thickness_um": 1.9549999999999998,
+    "li_plating_um": 1.91,
+    "ohmic_resistance_mOhm": 29.1,
+    "ct_resistance_mOhm": 107.30000000000001
+  },
+  {
+    "cycle": 192,
+    "capacity_Ah": 3.5599999999999996,
+    "capacity_fade_pct": 28.800000000000004,
+    "sei_thickness_um": 1.96,
+    "li_plating_um": 1.9200000000000002,
+    "ohmic_resistance_mOhm": 29.200000000000003,
+    "ct_resistance_mOhm": 107.6
+  },
+  {
+    "cycle": 193,
+    "capacity_Ah": 3.5525,
+    "capacity_fade_pct": 28.95,
+    "sei_thickness_um": 1.9649999999999999,
+    "li_plating_um": 1.9300000000000002,
+    "ohmic_resistance_mOhm": 29.3,
+    "ct_resistance_mOhm": 107.89999999999999
+  },
+  {
+    "cycle": 194,
+    "capacity_Ah": 3.5450000000000004,
+    "capacity_fade_pct": 29.099999999999994,
+    "sei_thickness_um": 1.9699999999999998,
+    "li_plating_um": 1.9400000000000002,
+    "ohmic_resistance_mOhm": 29.400000000000002,
+    "ct_resistance_mOhm": 108.19999999999999
+  },
+  {
+    "cycle": 195,
+    "capacity_Ah": 3.5375,
+    "capacity_fade_pct": 29.25,
+    "sei_thickness_um": 1.9749999999999996,
+    "li_plating_um": 1.95,
+    "ohmic_resistance_mOhm": 29.5,
+    "ct_resistance_mOhm": 108.5
+  },
+  {
+    "cycle": 196,
+    "capacity_Ah": 3.53,
+    "capacity_fade_pct": 29.400000000000006,
+    "sei_thickness_um": 1.9799999999999998,
+    "li_plating_um": 1.96,
+    "ohmic_resistance_mOhm": 29.6,
+    "ct_resistance_mOhm": 108.80000000000001
+  },
+  {
+    "cycle": 197,
+    "capacity_Ah": 3.5225,
+    "capacity_fade_pct": 29.549999999999997,
+    "sei_thickness_um": 1.985,
+    "li_plating_um": 1.9700000000000002,
+    "ohmic_resistance_mOhm": 29.700000000000003,
+    "ct_resistance_mOhm": 109.10000000000001
+  },
+  {
+    "cycle": 198,
+    "capacity_Ah": 3.5150000000000006,
+    "capacity_fade_pct": 29.699999999999992,
+    "sei_thickness_um": 1.99,
+    "li_plating_um": 1.9800000000000002,
+    "ohmic_resistance_mOhm": 29.8,
+    "ct_resistance_mOhm": 109.39999999999999
+  },
+  {
+    "cycle": 199,
+    "capacity_Ah": 3.5075000000000003,
+    "capacity_fade_pct": 29.849999999999998,
+    "sei_thickness_um": 1.9949999999999999,
+    "li_plating_um": 1.99,
+    "ohmic_resistance_mOhm": 29.900000000000002,
+    "ct_resistance_mOhm": 109.69999999999999
+  },
+  {
+    "cycle": 200,
+    "capacity_Ah": 3.5,
+    "capacity_fade_pct": 30.000000000000004,
+    "sei_thickness_um": 2.0,
+    "li_plating_um": 2.0,
+    "ohmic_resistance_mOhm": 30.0,
+    "ct_resistance_mOhm": 110.0
+  },
+  {
+    "cycle": 201,
+    "capacity_Ah": 3.4925,
+    "capacity_fade_pct": 30.15,
+    "sei_thickness_um": 2.0050000000000003,
+    "li_plating_um": 2.0100000000000002,
+    "ohmic_resistance_mOhm": 30.1,
+    "ct_resistance_mOhm": 110.3
+  },
+  {
+    "cycle": 202,
+    "capacity_Ah": 3.4850000000000003,
+    "capacity_fade_pct": 30.299999999999994,
+    "sei_thickness_um": 2.0100000000000002,
+    "li_plating_um": 2.02,
+    "ohmic_resistance_mOhm": 30.200000000000003,
+    "ct_resistance_mOhm": 110.60000000000001
+  },
+  {
+    "cycle": 203,
+    "capacity_Ah": 3.4775,
+    "capacity_fade_pct": 30.45,
+    "sei_thickness_um": 2.015,
+    "li_plating_um": 2.0300000000000002,
+    "ohmic_resistance_mOhm": 30.3,
+    "ct_resistance_mOhm": 110.9
+  },
+  {
+    "cycle": 204,
+    "capacity_Ah": 3.4699999999999998,
+    "capacity_fade_pct": 30.600000000000005,
+    "sei_thickness_um": 2.02,
+    "li_plating_um": 2.04,
+    "ohmic_resistance_mOhm": 30.400000000000002,
+    "ct_resistance_mOhm": 111.19999999999999
+  },
+  {
+    "cycle": 205,
+    "capacity_Ah": 3.4625,
+    "capacity_fade_pct": 30.75,
+    "sei_thickness_um": 2.025,
+    "li_plating_um": 2.05,
+    "ohmic_resistance_mOhm": 30.5,
+    "ct_resistance_mOhm": 111.49999999999999
+  },
+  {
+    "cycle": 206,
+    "capacity_Ah": 3.455,
+    "capacity_fade_pct": 30.899999999999995,
+    "sei_thickness_um": 2.0300000000000002,
+    "li_plating_um": 2.06,
+    "ohmic_resistance_mOhm": 30.6,
+    "ct_resistance_mOhm": 111.8
+  },
+  {
+    "cycle": 207,
+    "capacity_Ah": 3.4475,
+    "capacity_fade_pct": 31.05,
+    "sei_thickness_um": 2.035,
+    "li_plating_um": 2.0700000000000003,
+    "ohmic_resistance_mOhm": 30.7,
+    "ct_resistance_mOhm": 112.10000000000001
+  },
+  {
+    "cycle": 208,
+    "capacity_Ah": 3.4399999999999995,
+    "capacity_fade_pct": 31.200000000000006,
+    "sei_thickness_um": 2.04,
+    "li_plating_um": 2.08,
+    "ohmic_resistance_mOhm": 30.8,
+    "ct_resistance_mOhm": 112.4
+  },
+  {
+    "cycle": 209,
+    "capacity_Ah": 3.4325,
+    "capacity_fade_pct": 31.35,
+    "sei_thickness_um": 2.045,
+    "li_plating_um": 2.09,
+    "ohmic_resistance_mOhm": 30.900000000000002,
+    "ct_resistance_mOhm": 112.69999999999999
+  },
+  {
+    "cycle": 210,
+    "capacity_Ah": 3.4250000000000003,
+    "capacity_fade_pct": 31.499999999999993,
+    "sei_thickness_um": 2.05,
+    "li_plating_um": 2.1,
+    "ohmic_resistance_mOhm": 31.0,
+    "ct_resistance_mOhm": 113.0
+  },
+  {
+    "cycle": 211,
+    "capacity_Ah": 3.4175,
+    "capacity_fade_pct": 31.65,
+    "sei_thickness_um": 2.0549999999999997,
+    "li_plating_um": 2.1100000000000003,
+    "ohmic_resistance_mOhm": 31.1,
+    "ct_resistance_mOhm": 113.3
+  },
+  {
+    "cycle": 212,
+    "capacity_Ah": 3.4099999999999997,
+    "capacity_fade_pct": 31.800000000000004,
+    "sei_thickness_um": 2.0599999999999996,
+    "li_plating_um": 2.12,
+    "ohmic_resistance_mOhm": 31.2,
+    "ct_resistance_mOhm": 113.6
+  },
+  {
+    "cycle": 213,
+    "capacity_Ah": 3.4025,
+    "capacity_fade_pct": 31.95,
+    "sei_thickness_um": 2.0649999999999995,
+    "li_plating_um": 2.13,
+    "ohmic_resistance_mOhm": 31.3,
+    "ct_resistance_mOhm": 113.9
+  },
+  {
+    "cycle": 214,
+    "capacity_Ah": 3.3950000000000005,
+    "capacity_fade_pct": 32.099999999999994,
+    "sei_thickness_um": 2.07,
+    "li_plating_um": 2.1399999999999997,
+    "ohmic_resistance_mOhm": 31.400000000000006,
+    "ct_resistance_mOhm": 114.2
+  },
+  {
+    "cycle": 215,
+    "capacity_Ah": 3.3875,
+    "capacity_fade_pct": 32.25,
+    "sei_thickness_um": 2.075,
+    "li_plating_um": 2.1500000000000004,
+    "ohmic_resistance_mOhm": 31.5,
+    "ct_resistance_mOhm": 114.49999999999999
+  },
+  {
+    "cycle": 216,
+    "capacity_Ah": 3.38,
+    "capacity_fade_pct": 32.400000000000006,
+    "sei_thickness_um": 2.08,
+    "li_plating_um": 2.16,
+    "ohmic_resistance_mOhm": 31.6,
+    "ct_resistance_mOhm": 114.8
+  },
+  {
+    "cycle": 217,
+    "capacity_Ah": 3.3725,
+    "capacity_fade_pct": 32.550000000000004,
+    "sei_thickness_um": 2.085,
+    "li_plating_um": 2.17,
+    "ohmic_resistance_mOhm": 31.7,
+    "ct_resistance_mOhm": 115.1
+  },
+  {
+    "cycle": 218,
+    "capacity_Ah": 3.365,
+    "capacity_fade_pct": 32.699999999999996,
+    "sei_thickness_um": 2.09,
+    "li_plating_um": 2.1799999999999997,
+    "ohmic_resistance_mOhm": 31.8,
+    "ct_resistance_mOhm": 115.4
+  },
+  {
+    "cycle": 219,
+    "capacity_Ah": 3.3575,
+    "capacity_fade_pct": 32.85,
+    "sei_thickness_um": 2.095,
+    "li_plating_um": 2.1900000000000004,
+    "ohmic_resistance_mOhm": 31.9,
+    "ct_resistance_mOhm": 115.7
+  },
+  {
+    "cycle": 220,
+    "capacity_Ah": 3.3499999999999996,
+    "capacity_fade_pct": 33.00000000000001,
+    "sei_thickness_um": 2.1,
+    "li_plating_um": 2.2,
+    "ohmic_resistance_mOhm": 32.0,
+    "ct_resistance_mOhm": 115.99999999999999
+  },
+  {
+    "cycle": 221,
+    "capacity_Ah": 3.3425,
+    "capacity_fade_pct": 33.15,
+    "sei_thickness_um": 2.105,
+    "li_plating_um": 2.21,
+    "ohmic_resistance_mOhm": 32.1,
+    "ct_resistance_mOhm": 116.3
+  },
+  {
+    "cycle": 222,
+    "capacity_Ah": 3.335,
+    "capacity_fade_pct": 33.3,
+    "sei_thickness_um": 2.1100000000000003,
+    "li_plating_um": 2.2199999999999998,
+    "ohmic_resistance_mOhm": 32.2,
+    "ct_resistance_mOhm": 116.6
+  },
+  {
+    "cycle": 223,
+    "capacity_Ah": 3.3274999999999997,
+    "capacity_fade_pct": 33.45,
+    "sei_thickness_um": 2.115,
+    "li_plating_um": 2.2300000000000004,
+    "ohmic_resistance_mOhm": 32.300000000000004,
+    "ct_resistance_mOhm": 116.89999999999999
+  },
+  {
+    "cycle": 224,
+    "capacity_Ah": 3.3199999999999994,
+    "capacity_fade_pct": 33.60000000000001,
+    "sei_thickness_um": 2.12,
+    "li_plating_um": 2.24,
+    "ohmic_resistance_mOhm": 32.4,
+    "ct_resistance_mOhm": 117.2
+  },
+  {
+    "cycle": 225,
+    "capacity_Ah": 3.3125,
+    "capacity_fade_pct": 33.75,
+    "sei_thickness_um": 2.125,
+    "li_plating_um": 2.25,
+    "ohmic_resistance_mOhm": 32.5,
+    "ct_resistance_mOhm": 117.5
+  },
+  {
+    "cycle": 226,
+    "capacity_Ah": 3.305,
+    "capacity_fade_pct": 33.9,
+    "sei_thickness_um": 2.13,
+    "li_plating_um": 2.26,
+    "ohmic_resistance_mOhm": 32.6,
+    "ct_resistance_mOhm": 117.8
+  },
+  {
+    "cycle": 227,
+    "capacity_Ah": 3.2975,
+    "capacity_fade_pct": 34.050000000000004,
+    "sei_thickness_um": 2.135,
+    "li_plating_um": 2.27,
+    "ohmic_resistance_mOhm": 32.7,
+    "ct_resistance_mOhm": 118.1
+  },
+  {
+    "cycle": 228,
+    "capacity_Ah": 3.2899999999999996,
+    "capacity_fade_pct": 34.20000000000001,
+    "sei_thickness_um": 2.1399999999999997,
+    "li_plating_um": 2.2800000000000002,
+    "ohmic_resistance_mOhm": 32.800000000000004,
+    "ct_resistance_mOhm": 118.39999999999999
+  },
+  {
+    "cycle": 229,
+    "capacity_Ah": 3.2824999999999998,
+    "capacity_fade_pct": 34.35,
+    "sei_thickness_um": 2.1449999999999996,
+    "li_plating_um": 2.29,
+    "ohmic_resistance_mOhm": 32.9,
+    "ct_resistance_mOhm": 118.7
+  },
+  {
+    "cycle": 230,
+    "capacity_Ah": 3.2750000000000004,
+    "capacity_fade_pct": 34.5,
+    "sei_thickness_um": 2.15,
+    "li_plating_um": 2.3,
+    "ohmic_resistance_mOhm": 33.0,
+    "ct_resistance_mOhm": 119.0
+  },
+  {
+    "cycle": 231,
+    "capacity_Ah": 3.2675,
+    "capacity_fade_pct": 34.650000000000006,
+    "sei_thickness_um": 2.155,
+    "li_plating_um": 2.31,
+    "ohmic_resistance_mOhm": 33.1,
+    "ct_resistance_mOhm": 119.3
+  },
+  {
+    "cycle": 232,
+    "capacity_Ah": 3.26,
+    "capacity_fade_pct": 34.80000000000001,
+    "sei_thickness_um": 2.16,
+    "li_plating_um": 2.3200000000000003,
+    "ohmic_resistance_mOhm": 33.2,
+    "ct_resistance_mOhm": 119.6
+  },
+  {
+    "cycle": 233,
+    "capacity_Ah": 3.2525,
+    "capacity_fade_pct": 34.95,
+    "sei_thickness_um": 2.165,
+    "li_plating_um": 2.33,
+    "ohmic_resistance_mOhm": 33.300000000000004,
+    "ct_resistance_mOhm": 119.89999999999999
+  },
+  {
+    "cycle": 234,
+    "capacity_Ah": 3.245,
+    "capacity_fade_pct": 35.099999999999994,
+    "sei_thickness_um": 2.17,
+    "li_plating_um": 2.34,
+    "ohmic_resistance_mOhm": 33.4,
+    "ct_resistance_mOhm": 120.2
+  },
+  {
+    "cycle": 235,
+    "capacity_Ah": 3.2375,
+    "capacity_fade_pct": 35.25,
+    "sei_thickness_um": 2.175,
+    "li_plating_um": 2.35,
+    "ohmic_resistance_mOhm": 33.5,
+    "ct_resistance_mOhm": 120.5
+  },
+  {
+    "cycle": 236,
+    "capacity_Ah": 3.23,
+    "capacity_fade_pct": 35.4,
+    "sei_thickness_um": 2.1799999999999997,
+    "li_plating_um": 2.36,
+    "ohmic_resistance_mOhm": 33.6,
+    "ct_resistance_mOhm": 120.8
+  },
+  {
+    "cycle": 237,
+    "capacity_Ah": 3.2225,
+    "capacity_fade_pct": 35.54999999999999,
+    "sei_thickness_um": 2.185,
+    "li_plating_um": 2.37,
+    "ohmic_resistance_mOhm": 33.7,
+    "ct_resistance_mOhm": 121.1
+  },
+  {
+    "cycle": 238,
+    "capacity_Ah": 3.215,
+    "capacity_fade_pct": 35.699999999999996,
+    "sei_thickness_um": 2.1900000000000004,
+    "li_plating_um": 2.38,
+    "ohmic_resistance_mOhm": 33.800000000000004,
+    "ct_resistance_mOhm": 121.39999999999999
+  },
+  {
+    "cycle": 239,
+    "capacity_Ah": 3.2074999999999996,
+    "capacity_fade_pct": 35.85,
+    "sei_thickness_um": 2.1950000000000003,
+    "li_plating_um": 2.39,
+    "ohmic_resistance_mOhm": 33.9,
+    "ct_resistance_mOhm": 121.7
+  },
+  {
+    "cycle": 240,
+    "capacity_Ah": 3.2,
+    "capacity_fade_pct": 36.0,
+    "sei_thickness_um": 2.2,
+    "li_plating_um": 2.4,
+    "ohmic_resistance_mOhm": 34.0,
+    "ct_resistance_mOhm": 122.0
+  },
+  {
+    "cycle": 241,
+    "capacity_Ah": 3.1925000000000003,
+    "capacity_fade_pct": 36.14999999999999,
+    "sei_thickness_um": 2.205,
+    "li_plating_um": 2.41,
+    "ohmic_resistance_mOhm": 34.1,
+    "ct_resistance_mOhm": 122.3
+  },
+  {
+    "cycle": 242,
+    "capacity_Ah": 3.185,
+    "capacity_fade_pct": 36.3,
+    "sei_thickness_um": 2.21,
+    "li_plating_um": 2.42,
+    "ohmic_resistance_mOhm": 34.2,
+    "ct_resistance_mOhm": 122.6
+  },
+  {
+    "cycle": 243,
+    "capacity_Ah": 3.1774999999999998,
+    "capacity_fade_pct": 36.45,
+    "sei_thickness_um": 2.215,
+    "li_plating_um": 2.43,
+    "ohmic_resistance_mOhm": 34.300000000000004,
+    "ct_resistance_mOhm": 122.89999999999999
+  },
+  {
+    "cycle": 244,
+    "capacity_Ah": 3.17,
+    "capacity_fade_pct": 36.6,
+    "sei_thickness_um": 2.2199999999999998,
+    "li_plating_um": 2.44,
+    "ohmic_resistance_mOhm": 34.4,
+    "ct_resistance_mOhm": 123.19999999999999
+  },
+  {
+    "cycle": 245,
+    "capacity_Ah": 3.1625000000000005,
+    "capacity_fade_pct": 36.74999999999999,
+    "sei_thickness_um": 2.225,
+    "li_plating_um": 2.45,
+    "ohmic_resistance_mOhm": 34.5,
+    "ct_resistance_mOhm": 123.5
+  },
+  {
+    "cycle": 246,
+    "capacity_Ah": 3.1550000000000002,
+    "capacity_fade_pct": 36.9,
+    "sei_thickness_um": 2.23,
+    "li_plating_um": 2.46,
+    "ohmic_resistance_mOhm": 34.6,
+    "ct_resistance_mOhm": 123.8
+  },
+  {
+    "cycle": 247,
+    "capacity_Ah": 3.1475,
+    "capacity_fade_pct": 37.050000000000004,
+    "sei_thickness_um": 2.235,
+    "li_plating_um": 2.47,
+    "ohmic_resistance_mOhm": 34.7,
+    "ct_resistance_mOhm": 124.10000000000001
+  },
+  {
+    "cycle": 248,
+    "capacity_Ah": 3.14,
+    "capacity_fade_pct": 37.2,
+    "sei_thickness_um": 2.2399999999999998,
+    "li_plating_um": 2.48,
+    "ohmic_resistance_mOhm": 34.800000000000004,
+    "ct_resistance_mOhm": 124.39999999999999
+  },
+  {
+    "cycle": 249,
+    "capacity_Ah": 3.1325000000000003,
+    "capacity_fade_pct": 37.349999999999994,
+    "sei_thickness_um": 2.2449999999999997,
+    "li_plating_um": 2.4899999999999998,
+    "ohmic_resistance_mOhm": 34.9,
+    "ct_resistance_mOhm": 124.69999999999999
+  },
+  {
+    "cycle": 250,
+    "capacity_Ah": 3.125,
+    "capacity_fade_pct": 37.5,
+    "sei_thickness_um": 2.25,
+    "li_plating_um": 2.5,
+    "ohmic_resistance_mOhm": 35.0,
+    "ct_resistance_mOhm": 125.0
+  },
+  {
+    "cycle": 251,
+    "capacity_Ah": 3.1174999999999997,
+    "capacity_fade_pct": 37.650000000000006,
+    "sei_thickness_um": 2.255,
+    "li_plating_um": 2.5100000000000002,
+    "ohmic_resistance_mOhm": 35.1,
+    "ct_resistance_mOhm": 125.3
+  },
+  {
+    "cycle": 252,
+    "capacity_Ah": 3.11,
+    "capacity_fade_pct": 37.8,
+    "sei_thickness_um": 2.26,
+    "li_plating_um": 2.52,
+    "ohmic_resistance_mOhm": 35.2,
+    "ct_resistance_mOhm": 125.6
+  },
+  {
+    "cycle": 253,
+    "capacity_Ah": 3.1025,
+    "capacity_fade_pct": 37.949999999999996,
+    "sei_thickness_um": 2.265,
+    "li_plating_um": 2.53,
+    "ohmic_resistance_mOhm": 35.3,
+    "ct_resistance_mOhm": 125.9
+  },
+  {
+    "cycle": 254,
+    "capacity_Ah": 3.0949999999999998,
+    "capacity_fade_pct": 38.1,
+    "sei_thickness_um": 2.2700000000000005,
+    "li_plating_um": 2.54,
+    "ohmic_resistance_mOhm": 35.4,
+    "ct_resistance_mOhm": 126.19999999999997
+  },
+  {
+    "cycle": 255,
+    "capacity_Ah": 3.0874999999999995,
+    "capacity_fade_pct": 38.25000000000001,
+    "sei_thickness_um": 2.2750000000000004,
+    "li_plating_um": 2.5500000000000003,
+    "ohmic_resistance_mOhm": 35.50000000000001,
+    "ct_resistance_mOhm": 126.5
+  },
+  {
+    "cycle": 256,
+    "capacity_Ah": 3.08,
+    "capacity_fade_pct": 38.4,
+    "sei_thickness_um": 2.2800000000000002,
+    "li_plating_um": 2.56,
+    "ohmic_resistance_mOhm": 35.6,
+    "ct_resistance_mOhm": 126.8
+  },
+  {
+    "cycle": 257,
+    "capacity_Ah": 3.0725000000000002,
+    "capacity_fade_pct": 38.55,
+    "sei_thickness_um": 2.285,
+    "li_plating_um": 2.57,
+    "ohmic_resistance_mOhm": 35.7,
+    "ct_resistance_mOhm": 127.1
+  },
+  {
+    "cycle": 258,
+    "capacity_Ah": 3.065,
+    "capacity_fade_pct": 38.7,
+    "sei_thickness_um": 2.29,
+    "li_plating_um": 2.58,
+    "ohmic_resistance_mOhm": 35.8,
+    "ct_resistance_mOhm": 127.40000000000002
+  },
+  {
+    "cycle": 259,
+    "capacity_Ah": 3.0574999999999997,
+    "capacity_fade_pct": 38.85000000000001,
+    "sei_thickness_um": 2.295,
+    "li_plating_um": 2.5900000000000003,
+    "ohmic_resistance_mOhm": 35.9,
+    "ct_resistance_mOhm": 127.69999999999997
+  },
+  {
+    "cycle": 260,
+    "capacity_Ah": 3.05,
+    "capacity_fade_pct": 39.0,
+    "sei_thickness_um": 2.3,
+    "li_plating_um": 2.6,
+    "ohmic_resistance_mOhm": 36.00000000000001,
+    "ct_resistance_mOhm": 128.0
+  },
+  {
+    "cycle": 261,
+    "capacity_Ah": 3.0425000000000004,
+    "capacity_fade_pct": 39.15,
+    "sei_thickness_um": 2.305,
+    "li_plating_um": 2.61,
+    "ohmic_resistance_mOhm": 36.1,
+    "ct_resistance_mOhm": 128.3
+  },
+  {
+    "cycle": 262,
+    "capacity_Ah": 3.035,
+    "capacity_fade_pct": 39.300000000000004,
+    "sei_thickness_um": 2.31,
+    "li_plating_um": 2.62,
+    "ohmic_resistance_mOhm": 36.2,
+    "ct_resistance_mOhm": 128.6
+  },
+  {
+    "cycle": 263,
+    "capacity_Ah": 3.0275,
+    "capacity_fade_pct": 39.45000000000001,
+    "sei_thickness_um": 2.315,
+    "li_plating_um": 2.6300000000000003,
+    "ohmic_resistance_mOhm": 36.3,
+    "ct_resistance_mOhm": 128.9
+  },
+  {
+    "cycle": 264,
+    "capacity_Ah": 3.02,
+    "capacity_fade_pct": 39.6,
+    "sei_thickness_um": 2.32,
+    "li_plating_um": 2.64,
+    "ohmic_resistance_mOhm": 36.4,
+    "ct_resistance_mOhm": 129.2
+  },
+  {
+    "cycle": 265,
+    "capacity_Ah": 3.0125,
+    "capacity_fade_pct": 39.75,
+    "sei_thickness_um": 2.3249999999999997,
+    "li_plating_um": 2.65,
+    "ohmic_resistance_mOhm": 36.50000000000001,
+    "ct_resistance_mOhm": 129.5
+  },
+  {
+    "cycle": 266,
+    "capacity_Ah": 3.005,
+    "capacity_fade_pct": 39.900000000000006,
+    "sei_thickness_um": 2.3299999999999996,
+    "li_plating_um": 2.66,
+    "ohmic_resistance_mOhm": 36.6,
+    "ct_resistance_mOhm": 129.8
+  },
+  {
+    "cycle": 267,
+    "capacity_Ah": 2.9974999999999996,
+    "capacity_fade_pct": 40.05000000000001,
+    "sei_thickness_um": 2.3349999999999995,
+    "li_plating_um": 2.67,
+    "ohmic_resistance_mOhm": 36.7,
+    "ct_resistance_mOhm": 130.1
+  },
+  {
+    "cycle": 268,
+    "capacity_Ah": 2.9899999999999998,
+    "capacity_fade_pct": 40.2,
+    "sei_thickness_um": 2.34,
+    "li_plating_um": 2.68,
+    "ohmic_resistance_mOhm": 36.8,
+    "ct_resistance_mOhm": 130.4
+  },
+  {
+    "cycle": 269,
+    "capacity_Ah": 2.9825,
+    "capacity_fade_pct": 40.349999999999994,
+    "sei_thickness_um": 2.345,
+    "li_plating_um": 2.69,
+    "ohmic_resistance_mOhm": 36.900000000000006,
+    "ct_resistance_mOhm": 130.7
+  },
+  {
+    "cycle": 270,
+    "capacity_Ah": 2.9749999999999996,
+    "capacity_fade_pct": 40.5,
+    "sei_thickness_um": 2.35,
+    "li_plating_um": 2.7,
+    "ohmic_resistance_mOhm": 37.0,
+    "ct_resistance_mOhm": 131.0
+  },
+  {
+    "cycle": 271,
+    "capacity_Ah": 2.9674999999999994,
+    "capacity_fade_pct": 40.650000000000006,
+    "sei_thickness_um": 2.355,
+    "li_plating_um": 2.71,
+    "ohmic_resistance_mOhm": 37.1,
+    "ct_resistance_mOhm": 131.3
+  },
+  {
+    "cycle": 272,
+    "capacity_Ah": 2.96,
+    "capacity_fade_pct": 40.800000000000004,
+    "sei_thickness_um": 2.3600000000000003,
+    "li_plating_um": 2.72,
+    "ohmic_resistance_mOhm": 37.2,
+    "ct_resistance_mOhm": 131.6
+  },
+  {
+    "cycle": 273,
+    "capacity_Ah": 2.9525,
+    "capacity_fade_pct": 40.949999999999996,
+    "sei_thickness_um": 2.365,
+    "li_plating_um": 2.73,
+    "ohmic_resistance_mOhm": 37.3,
+    "ct_resistance_mOhm": 131.89999999999998
+  },
+  {
+    "cycle": 274,
+    "capacity_Ah": 2.945,
+    "capacity_fade_pct": 41.1,
+    "sei_thickness_um": 2.37,
+    "li_plating_um": 2.74,
+    "ohmic_resistance_mOhm": 37.400000000000006,
+    "ct_resistance_mOhm": 132.2
+  },
+  {
+    "cycle": 275,
+    "capacity_Ah": 2.9374999999999996,
+    "capacity_fade_pct": 41.25000000000001,
+    "sei_thickness_um": 2.375,
+    "li_plating_um": 2.75,
+    "ohmic_resistance_mOhm": 37.5,
+    "ct_resistance_mOhm": 132.5
+  },
+  {
+    "cycle": 276,
+    "capacity_Ah": 2.9299999999999997,
+    "capacity_fade_pct": 41.400000000000006,
+    "sei_thickness_um": 2.38,
+    "li_plating_um": 2.7600000000000002,
+    "ohmic_resistance_mOhm": 37.6,
+    "ct_resistance_mOhm": 132.8
+  },
+  {
+    "cycle": 277,
+    "capacity_Ah": 2.9225000000000003,
+    "capacity_fade_pct": 41.55,
+    "sei_thickness_um": 2.3850000000000002,
+    "li_plating_um": 2.77,
+    "ohmic_resistance_mOhm": 37.7,
+    "ct_resistance_mOhm": 133.1
+  },
+  {
+    "cycle": 278,
+    "capacity_Ah": 2.915,
+    "capacity_fade_pct": 41.7,
+    "sei_thickness_um": 2.39,
+    "li_plating_um": 2.7800000000000002,
+    "ohmic_resistance_mOhm": 37.8,
+    "ct_resistance_mOhm": 133.39999999999998
+  },
+  {
+    "cycle": 279,
+    "capacity_Ah": 2.9075,
+    "capacity_fade_pct": 41.85,
+    "sei_thickness_um": 2.395,
+    "li_plating_um": 2.79,
+    "ohmic_resistance_mOhm": 37.900000000000006,
+    "ct_resistance_mOhm": 133.7
+  },
+  {
+    "cycle": 280,
+    "capacity_Ah": 2.9000000000000004,
+    "capacity_fade_pct": 41.99999999999999,
+    "sei_thickness_um": 2.4,
+    "li_plating_um": 2.8,
+    "ohmic_resistance_mOhm": 38.0,
+    "ct_resistance_mOhm": 134.0
+  },
+  {
+    "cycle": 281,
+    "capacity_Ah": 2.8925,
+    "capacity_fade_pct": 42.15,
+    "sei_thickness_um": 2.405,
+    "li_plating_um": 2.81,
+    "ohmic_resistance_mOhm": 38.1,
+    "ct_resistance_mOhm": 134.29999999999998
+  },
+  {
+    "cycle": 282,
+    "capacity_Ah": 2.885,
+    "capacity_fade_pct": 42.300000000000004,
+    "sei_thickness_um": 2.4099999999999997,
+    "li_plating_um": 2.8200000000000003,
+    "ohmic_resistance_mOhm": 38.2,
+    "ct_resistance_mOhm": 134.6
+  },
+  {
+    "cycle": 283,
+    "capacity_Ah": 2.8775,
+    "capacity_fade_pct": 42.449999999999996,
+    "sei_thickness_um": 2.4149999999999996,
+    "li_plating_um": 2.83,
+    "ohmic_resistance_mOhm": 38.3,
+    "ct_resistance_mOhm": 134.9
+  },
+  {
+    "cycle": 284,
+    "capacity_Ah": 2.87,
+    "capacity_fade_pct": 42.599999999999994,
+    "sei_thickness_um": 2.4199999999999995,
+    "li_plating_um": 2.84,
+    "ohmic_resistance_mOhm": 38.400000000000006,
+    "ct_resistance_mOhm": 135.2
+  },
+  {
+    "cycle": 285,
+    "capacity_Ah": 2.8625,
+    "capacity_fade_pct": 42.75,
+    "sei_thickness_um": 2.4250000000000003,
+    "li_plating_um": 2.85,
+    "ohmic_resistance_mOhm": 38.5,
+    "ct_resistance_mOhm": 135.5
+  },
+  {
+    "cycle": 286,
+    "capacity_Ah": 2.8549999999999995,
+    "capacity_fade_pct": 42.900000000000006,
+    "sei_thickness_um": 2.43,
+    "li_plating_um": 2.8600000000000003,
+    "ohmic_resistance_mOhm": 38.6,
+    "ct_resistance_mOhm": 135.79999999999998
+  },
+  {
+    "cycle": 287,
+    "capacity_Ah": 2.8475,
+    "capacity_fade_pct": 43.05,
+    "sei_thickness_um": 2.435,
+    "li_plating_um": 2.87,
+    "ohmic_resistance_mOhm": 38.699999999999996,
+    "ct_resistance_mOhm": 136.1
+  },
+  {
+    "cycle": 288,
+    "capacity_Ah": 2.8400000000000003,
+    "capacity_fade_pct": 43.199999999999996,
+    "sei_thickness_um": 2.44,
+    "li_plating_um": 2.88,
+    "ohmic_resistance_mOhm": 38.800000000000004,
+    "ct_resistance_mOhm": 136.4
+  },
+  {
+    "cycle": 289,
+    "capacity_Ah": 2.8325,
+    "capacity_fade_pct": 43.35,
+    "sei_thickness_um": 2.445,
+    "li_plating_um": 2.8899999999999997,
+    "ohmic_resistance_mOhm": 38.900000000000006,
+    "ct_resistance_mOhm": 136.7
+  },
+  {
+    "cycle": 290,
+    "capacity_Ah": 2.8249999999999997,
+    "capacity_fade_pct": 43.50000000000001,
+    "sei_thickness_um": 2.45,
+    "li_plating_um": 2.9000000000000004,
+    "ohmic_resistance_mOhm": 39.0,
+    "ct_resistance_mOhm": 137.0
+  },
+  {
+    "cycle": 291,
+    "capacity_Ah": 2.8175,
+    "capacity_fade_pct": 43.65,
+    "sei_thickness_um": 2.455,
+    "li_plating_um": 2.91,
+    "ohmic_resistance_mOhm": 39.1,
+    "ct_resistance_mOhm": 137.29999999999998
+  },
+  {
+    "cycle": 292,
+    "capacity_Ah": 2.8100000000000005,
+    "capacity_fade_pct": 43.8,
+    "sei_thickness_um": 2.46,
+    "li_plating_um": 2.92,
+    "ohmic_resistance_mOhm": 39.199999999999996,
+    "ct_resistance_mOhm": 137.6
+  },
+  {
+    "cycle": 293,
+    "capacity_Ah": 2.8025,
+    "capacity_fade_pct": 43.95,
+    "sei_thickness_um": 2.4650000000000003,
+    "li_plating_um": 2.9299999999999997,
+    "ohmic_resistance_mOhm": 39.300000000000004,
+    "ct_resistance_mOhm": 137.9
+  },
+  {
+    "cycle": 294,
+    "capacity_Ah": 2.795,
+    "capacity_fade_pct": 44.10000000000001,
+    "sei_thickness_um": 2.47,
+    "li_plating_um": 2.9400000000000004,
+    "ohmic_resistance_mOhm": 39.400000000000006,
+    "ct_resistance_mOhm": 138.2
+  },
+  {
+    "cycle": 295,
+    "capacity_Ah": 2.7875,
+    "capacity_fade_pct": 44.25,
+    "sei_thickness_um": 2.475,
+    "li_plating_um": 2.95,
+    "ohmic_resistance_mOhm": 39.5,
+    "ct_resistance_mOhm": 138.5
+  },
+  {
+    "cycle": 296,
+    "capacity_Ah": 2.7800000000000002,
+    "capacity_fade_pct": 44.39999999999999,
+    "sei_thickness_um": 2.48,
+    "li_plating_um": 2.96,
+    "ohmic_resistance_mOhm": 39.6,
+    "ct_resistance_mOhm": 138.79999999999998
+  },
+  {
+    "cycle": 297,
+    "capacity_Ah": 2.7725,
+    "capacity_fade_pct": 44.55,
+    "sei_thickness_um": 2.485,
+    "li_plating_um": 2.9699999999999998,
+    "ohmic_resistance_mOhm": 39.699999999999996,
+    "ct_resistance_mOhm": 139.1
+  },
+  {
+    "cycle": 298,
+    "capacity_Ah": 2.7649999999999997,
+    "capacity_fade_pct": 44.7,
+    "sei_thickness_um": 2.4899999999999998,
+    "li_plating_um": 2.9800000000000004,
+    "ohmic_resistance_mOhm": 39.800000000000004,
+    "ct_resistance_mOhm": 139.4
+  },
+  {
+    "cycle": 299,
+    "capacity_Ah": 2.7575,
+    "capacity_fade_pct": 44.85,
+    "sei_thickness_um": 2.4949999999999997,
+    "li_plating_um": 2.99,
+    "ohmic_resistance_mOhm": 39.900000000000006,
+    "ct_resistance_mOhm": 139.7
+  },
+  {
+    "cycle": 300,
+    "capacity_Ah": 2.75,
+    "capacity_fade_pct": 44.99999999999999,
+    "sei_thickness_um": 2.5,
+    "li_plating_um": 3.0,
+    "ohmic_resistance_mOhm": 40.0,
+    "ct_resistance_mOhm": 140.0
+  },
+  {
+    "cycle": 301,
+    "capacity_Ah": 2.7424999999999997,
+    "capacity_fade_pct": 45.15,
+    "sei_thickness_um": 2.505,
+    "li_plating_um": 3.01,
+    "ohmic_resistance_mOhm": 40.1,
+    "ct_resistance_mOhm": 140.29999999999998
+  },
+  {
+    "cycle": 302,
+    "capacity_Ah": 2.7349999999999994,
+    "capacity_fade_pct": 45.300000000000004,
+    "sei_thickness_um": 2.51,
+    "li_plating_um": 3.02,
+    "ohmic_resistance_mOhm": 40.2,
+    "ct_resistance_mOhm": 140.6
+  },
+  {
+    "cycle": 303,
+    "capacity_Ah": 2.7275,
+    "capacity_fade_pct": 45.45,
+    "sei_thickness_um": 2.515,
+    "li_plating_um": 3.0300000000000002,
+    "ohmic_resistance_mOhm": 40.300000000000004,
+    "ct_resistance_mOhm": 140.9
+  },
+  {
+    "cycle": 304,
+    "capacity_Ah": 2.72,
+    "capacity_fade_pct": 45.599999999999994,
+    "sei_thickness_um": 2.52,
+    "li_plating_um": 3.04,
+    "ohmic_resistance_mOhm": 40.4,
+    "ct_resistance_mOhm": 141.2
+  },
+  {
+    "cycle": 305,
+    "capacity_Ah": 2.7125,
+    "capacity_fade_pct": 45.75,
+    "sei_thickness_um": 2.525,
+    "li_plating_um": 3.05,
+    "ohmic_resistance_mOhm": 40.5,
+    "ct_resistance_mOhm": 141.50000000000003
+  },
+  {
+    "cycle": 306,
+    "capacity_Ah": 2.7049999999999996,
+    "capacity_fade_pct": 45.900000000000006,
+    "sei_thickness_um": 2.53,
+    "li_plating_um": 3.06,
+    "ohmic_resistance_mOhm": 40.6,
+    "ct_resistance_mOhm": 141.79999999999998
+  },
+  {
+    "cycle": 307,
+    "capacity_Ah": 2.6975,
+    "capacity_fade_pct": 46.050000000000004,
+    "sei_thickness_um": 2.535,
+    "li_plating_um": 3.0700000000000003,
+    "ohmic_resistance_mOhm": 40.7,
+    "ct_resistance_mOhm": 142.1
+  },
+  {
+    "cycle": 308,
+    "capacity_Ah": 2.6900000000000004,
+    "capacity_fade_pct": 46.199999999999996,
+    "sei_thickness_um": 2.54,
+    "li_plating_um": 3.08,
+    "ohmic_resistance_mOhm": 40.800000000000004,
+    "ct_resistance_mOhm": 142.4
+  },
+  {
+    "cycle": 309,
+    "capacity_Ah": 2.6825,
+    "capacity_fade_pct": 46.35,
+    "sei_thickness_um": 2.5450000000000004,
+    "li_plating_um": 3.09,
+    "ohmic_resistance_mOhm": 40.9,
+    "ct_resistance_mOhm": 142.7
+  },
+  {
+    "cycle": 310,
+    "capacity_Ah": 2.675,
+    "capacity_fade_pct": 46.50000000000001,
+    "sei_thickness_um": 2.5500000000000003,
+    "li_plating_um": 3.1,
+    "ohmic_resistance_mOhm": 41.0,
+    "ct_resistance_mOhm": 143.0
+  },
+  {
+    "cycle": 311,
+    "capacity_Ah": 2.6675,
+    "capacity_fade_pct": 46.650000000000006,
+    "sei_thickness_um": 2.555,
+    "li_plating_um": 3.11,
+    "ohmic_resistance_mOhm": 41.1,
+    "ct_resistance_mOhm": 143.29999999999998
+  },
+  {
+    "cycle": 312,
+    "capacity_Ah": 2.66,
+    "capacity_fade_pct": 46.8,
+    "sei_thickness_um": 2.56,
+    "li_plating_um": 3.12,
+    "ohmic_resistance_mOhm": 41.2,
+    "ct_resistance_mOhm": 143.6
+  },
+  {
+    "cycle": 313,
+    "capacity_Ah": 2.6525,
+    "capacity_fade_pct": 46.95,
+    "sei_thickness_um": 2.565,
+    "li_plating_um": 3.13,
+    "ohmic_resistance_mOhm": 41.300000000000004,
+    "ct_resistance_mOhm": 143.9
+  },
+  {
+    "cycle": 314,
+    "capacity_Ah": 2.6449999999999996,
+    "capacity_fade_pct": 47.10000000000001,
+    "sei_thickness_um": 2.57,
+    "li_plating_um": 3.14,
+    "ohmic_resistance_mOhm": 41.400000000000006,
+    "ct_resistance_mOhm": 144.2
+  },
+  {
+    "cycle": 315,
+    "capacity_Ah": 2.6374999999999997,
+    "capacity_fade_pct": 47.25,
+    "sei_thickness_um": 2.5749999999999997,
+    "li_plating_um": 3.15,
+    "ohmic_resistance_mOhm": 41.5,
+    "ct_resistance_mOhm": 144.5
+  },
+  {
+    "cycle": 316,
+    "capacity_Ah": 2.63,
+    "capacity_fade_pct": 47.4,
+    "sei_thickness_um": 2.58,
+    "li_plating_um": 3.16,
+    "ohmic_resistance_mOhm": 41.60000000000001,
+    "ct_resistance_mOhm": 144.79999999999998
+  },
+  {
+    "cycle": 317,
+    "capacity_Ah": 2.6224999999999996,
+    "capacity_fade_pct": 47.550000000000004,
+    "sei_thickness_um": 2.585,
+    "li_plating_um": 3.17,
+    "ohmic_resistance_mOhm": 41.7,
+    "ct_resistance_mOhm": 145.1
+  },
+  {
+    "cycle": 318,
+    "capacity_Ah": 2.6149999999999993,
+    "capacity_fade_pct": 47.70000000000001,
+    "sei_thickness_um": 2.59,
+    "li_plating_um": 3.18,
+    "ohmic_resistance_mOhm": 41.800000000000004,
+    "ct_resistance_mOhm": 145.39999999999998
+  },
+  {
+    "cycle": 319,
+    "capacity_Ah": 2.6075,
+    "capacity_fade_pct": 47.85,
+    "sei_thickness_um": 2.5949999999999998,
+    "li_plating_um": 3.19,
+    "ohmic_resistance_mOhm": 41.900000000000006,
+    "ct_resistance_mOhm": 145.7
+  },
+  {
+    "cycle": 320,
+    "capacity_Ah": 2.6,
+    "capacity_fade_pct": 48.0,
+    "sei_thickness_um": 2.5999999999999996,
+    "li_plating_um": 3.1999999999999997,
+    "ohmic_resistance_mOhm": 42.0,
+    "ct_resistance_mOhm": 146.0
+  },
+  {
+    "cycle": 321,
+    "capacity_Ah": 2.5925,
+    "capacity_fade_pct": 48.150000000000006,
+    "sei_thickness_um": 2.605,
+    "li_plating_um": 3.21,
+    "ohmic_resistance_mOhm": 42.10000000000001,
+    "ct_resistance_mOhm": 146.29999999999998
+  },
+  {
+    "cycle": 322,
+    "capacity_Ah": 2.585,
+    "capacity_fade_pct": 48.3,
+    "sei_thickness_um": 2.61,
+    "li_plating_um": 3.22,
+    "ohmic_resistance_mOhm": 42.2,
+    "ct_resistance_mOhm": 146.6
+  },
+  {
+    "cycle": 323,
+    "capacity_Ah": 2.5775000000000006,
+    "capacity_fade_pct": 48.449999999999996,
+    "sei_thickness_um": 2.6149999999999998,
+    "li_plating_um": 3.23,
+    "ohmic_resistance_mOhm": 42.300000000000004,
+    "ct_resistance_mOhm": 146.89999999999998
+  },
+  {
+    "cycle": 324,
+    "capacity_Ah": 2.5700000000000003,
+    "capacity_fade_pct": 48.6,
+    "sei_thickness_um": 2.62,
+    "li_plating_um": 3.2399999999999998,
+    "ohmic_resistance_mOhm": 42.4,
+    "ct_resistance_mOhm": 147.2
+  },
+  {
+    "cycle": 325,
+    "capacity_Ah": 2.5625,
+    "capacity_fade_pct": 48.75000000000001,
+    "sei_thickness_um": 2.6250000000000004,
+    "li_plating_um": 3.2500000000000004,
+    "ohmic_resistance_mOhm": 42.5,
+    "ct_resistance_mOhm": 147.5
+  },
+  {
+    "cycle": 326,
+    "capacity_Ah": 2.555,
+    "capacity_fade_pct": 48.9,
+    "sei_thickness_um": 2.6300000000000003,
+    "li_plating_um": 3.2600000000000002,
+    "ohmic_resistance_mOhm": 42.60000000000001,
+    "ct_resistance_mOhm": 147.79999999999998
+  },
+  {
+    "cycle": 327,
+    "capacity_Ah": 2.5475000000000003,
+    "capacity_fade_pct": 49.05,
+    "sei_thickness_um": 2.6350000000000002,
+    "li_plating_um": 3.27,
+    "ohmic_resistance_mOhm": 42.7,
+    "ct_resistance_mOhm": 148.10000000000002
+  },
+  {
+    "cycle": 328,
+    "capacity_Ah": 2.54,
+    "capacity_fade_pct": 49.2,
+    "sei_thickness_um": 2.64,
+    "li_plating_um": 3.28,
+    "ohmic_resistance_mOhm": 42.800000000000004,
+    "ct_resistance_mOhm": 148.39999999999998
+  },
+  {
+    "cycle": 329,
+    "capacity_Ah": 2.5324999999999998,
+    "capacity_fade_pct": 49.35000000000001,
+    "sei_thickness_um": 2.645,
+    "li_plating_um": 3.2900000000000005,
+    "ohmic_resistance_mOhm": 42.9,
+    "ct_resistance_mOhm": 148.7
+  },
+  {
+    "cycle": 330,
+    "capacity_Ah": 2.525,
+    "capacity_fade_pct": 49.5,
+    "sei_thickness_um": 2.65,
+    "li_plating_um": 3.3000000000000003,
+    "ohmic_resistance_mOhm": 43.0,
+    "ct_resistance_mOhm": 149.0
+  },
+  {
+    "cycle": 331,
+    "capacity_Ah": 2.5175,
+    "capacity_fade_pct": 49.64999999999999,
+    "sei_thickness_um": 2.655,
+    "li_plating_um": 3.31,
+    "ohmic_resistance_mOhm": 43.10000000000001,
+    "ct_resistance_mOhm": 149.29999999999998
+  },
+  {
+    "cycle": 332,
+    "capacity_Ah": 2.51,
+    "capacity_fade_pct": 49.8,
+    "sei_thickness_um": 2.66,
+    "li_plating_um": 3.32,
+    "ohmic_resistance_mOhm": 43.2,
+    "ct_resistance_mOhm": 149.60000000000002
+  },
+  {
+    "cycle": 333,
+    "capacity_Ah": 2.5024999999999995,
+    "capacity_fade_pct": 49.95,
+    "sei_thickness_um": 2.665,
+    "li_plating_um": 3.33,
+    "ohmic_resistance_mOhm": 43.300000000000004,
+    "ct_resistance_mOhm": 149.89999999999998
+  },
+  {
+    "cycle": 334,
+    "capacity_Ah": 2.495,
+    "capacity_fade_pct": 50.1,
+    "sei_thickness_um": 2.67,
+    "li_plating_um": 3.3400000000000003,
+    "ohmic_resistance_mOhm": 43.4,
+    "ct_resistance_mOhm": 150.2
+  },
+  {
+    "cycle": 335,
+    "capacity_Ah": 2.4875,
+    "capacity_fade_pct": 50.25000000000001,
+    "sei_thickness_um": 2.675,
+    "li_plating_um": 3.35,
+    "ohmic_resistance_mOhm": 43.50000000000001,
+    "ct_resistance_mOhm": 150.5
+  },
+  {
+    "cycle": 336,
+    "capacity_Ah": 2.48,
+    "capacity_fade_pct": 50.4,
+    "sei_thickness_um": 2.6799999999999997,
+    "li_plating_um": 3.36,
+    "ohmic_resistance_mOhm": 43.60000000000001,
+    "ct_resistance_mOhm": 150.79999999999998
+  },
+  {
+    "cycle": 337,
+    "capacity_Ah": 2.4724999999999997,
+    "capacity_fade_pct": 50.550000000000004,
+    "sei_thickness_um": 2.6849999999999996,
+    "li_plating_um": 3.37,
+    "ohmic_resistance_mOhm": 43.7,
+    "ct_resistance_mOhm": 151.10000000000002
+  },
+  {
+    "cycle": 338,
+    "capacity_Ah": 2.465,
+    "capacity_fade_pct": 50.7,
+    "sei_thickness_um": 2.69,
+    "li_plating_um": 3.3800000000000003,
+    "ohmic_resistance_mOhm": 43.800000000000004,
+    "ct_resistance_mOhm": 151.39999999999998
+  },
+  {
+    "cycle": 339,
+    "capacity_Ah": 2.4574999999999996,
+    "capacity_fade_pct": 50.85000000000001,
+    "sei_thickness_um": 2.695,
+    "li_plating_um": 3.39,
+    "ohmic_resistance_mOhm": 43.9,
+    "ct_resistance_mOhm": 151.7
+  },
+  {
+    "cycle": 340,
+    "capacity_Ah": 2.45,
+    "capacity_fade_pct": 51.0,
+    "sei_thickness_um": 2.7,
+    "li_plating_um": 3.4,
+    "ohmic_resistance_mOhm": 44.00000000000001,
+    "ct_resistance_mOhm": 152.0
+  },
+  {
+    "cycle": 341,
+    "capacity_Ah": 2.4425,
+    "capacity_fade_pct": 51.150000000000006,
+    "sei_thickness_um": 2.705,
+    "li_plating_um": 3.41,
+    "ohmic_resistance_mOhm": 44.1,
+    "ct_resistance_mOhm": 152.29999999999998
+  },
+  {
+    "cycle": 342,
+    "capacity_Ah": 2.435,
+    "capacity_fade_pct": 51.300000000000004,
+    "sei_thickness_um": 2.71,
+    "li_plating_um": 3.42,
+    "ohmic_resistance_mOhm": 44.2,
+    "ct_resistance_mOhm": 152.60000000000002
+  },
+  {
+    "cycle": 343,
+    "capacity_Ah": 2.4275,
+    "capacity_fade_pct": 51.449999999999996,
+    "sei_thickness_um": 2.7150000000000003,
+    "li_plating_um": 3.43,
+    "ohmic_resistance_mOhm": 44.300000000000004,
+    "ct_resistance_mOhm": 152.89999999999998
+  },
+  {
+    "cycle": 344,
+    "capacity_Ah": 2.42,
+    "capacity_fade_pct": 51.6,
+    "sei_thickness_um": 2.72,
+    "li_plating_um": 3.44,
+    "ohmic_resistance_mOhm": 44.4,
+    "ct_resistance_mOhm": 153.2
+  },
+  {
+    "cycle": 345,
+    "capacity_Ah": 2.4125,
+    "capacity_fade_pct": 51.74999999999999,
+    "sei_thickness_um": 2.725,
+    "li_plating_um": 3.45,
+    "ohmic_resistance_mOhm": 44.50000000000001,
+    "ct_resistance_mOhm": 153.5
+  },
+  {
+    "cycle": 346,
+    "capacity_Ah": 2.405,
+    "capacity_fade_pct": 51.9,
+    "sei_thickness_um": 2.73,
+    "li_plating_um": 3.46,
+    "ohmic_resistance_mOhm": 44.6,
+    "ct_resistance_mOhm": 153.79999999999998
+  },
+  {
+    "cycle": 347,
+    "capacity_Ah": 2.3975,
+    "capacity_fade_pct": 52.05,
+    "sei_thickness_um": 2.735,
+    "li_plating_um": 3.47,
+    "ohmic_resistance_mOhm": 44.7,
+    "ct_resistance_mOhm": 154.1
+  },
+  {
+    "cycle": 348,
+    "capacity_Ah": 2.3899999999999997,
+    "capacity_fade_pct": 52.2,
+    "sei_thickness_um": 2.74,
+    "li_plating_um": 3.48,
+    "ohmic_resistance_mOhm": 44.800000000000004,
+    "ct_resistance_mOhm": 154.39999999999998
+  },
+  {
+    "cycle": 349,
+    "capacity_Ah": 2.3825000000000003,
+    "capacity_fade_pct": 52.349999999999994,
+    "sei_thickness_um": 2.745,
+    "li_plating_um": 3.49,
+    "ohmic_resistance_mOhm": 44.900000000000006,
+    "ct_resistance_mOhm": 154.70000000000002
+  },
+  {
+    "cycle": 350,
+    "capacity_Ah": 2.375,
+    "capacity_fade_pct": 52.5,
+    "sei_thickness_um": 2.75,
+    "li_plating_um": 3.5,
+    "ohmic_resistance_mOhm": 45.00000000000001,
+    "ct_resistance_mOhm": 155.0
+  },
+  {
+    "cycle": 351,
+    "capacity_Ah": 2.3675,
+    "capacity_fade_pct": 52.65,
+    "sei_thickness_um": 2.755,
+    "li_plating_um": 3.5100000000000002,
+    "ohmic_resistance_mOhm": 45.1,
+    "ct_resistance_mOhm": 155.29999999999998
+  },
+  {
+    "cycle": 352,
+    "capacity_Ah": 2.36,
+    "capacity_fade_pct": 52.800000000000004,
+    "sei_thickness_um": 2.76,
+    "li_plating_um": 3.52,
+    "ohmic_resistance_mOhm": 45.2,
+    "ct_resistance_mOhm": 155.6
+  },
+  {
+    "cycle": 353,
+    "capacity_Ah": 2.3525,
+    "capacity_fade_pct": 52.949999999999996,
+    "sei_thickness_um": 2.7649999999999997,
+    "li_plating_um": 3.5300000000000002,
+    "ohmic_resistance_mOhm": 45.300000000000004,
+    "ct_resistance_mOhm": 155.89999999999998
+  },
+  {
+    "cycle": 354,
+    "capacity_Ah": 2.3449999999999998,
+    "capacity_fade_pct": 53.1,
+    "sei_thickness_um": 2.7699999999999996,
+    "li_plating_um": 3.54,
+    "ohmic_resistance_mOhm": 45.400000000000006,
+    "ct_resistance_mOhm": 156.20000000000002
+  },
+  {
+    "cycle": 355,
+    "capacity_Ah": 2.3375000000000004,
+    "capacity_fade_pct": 53.25,
+    "sei_thickness_um": 2.7749999999999995,
+    "li_plating_um": 3.55,
+    "ohmic_resistance_mOhm": 45.50000000000001,
+    "ct_resistance_mOhm": 156.5
+  },
+  {
+    "cycle": 356,
+    "capacity_Ah": 2.33,
+    "capacity_fade_pct": 53.400000000000006,
+    "sei_thickness_um": 2.7800000000000002,
+    "li_plating_um": 3.56,
+    "ohmic_resistance_mOhm": 45.6,
+    "ct_resistance_mOhm": 156.79999999999998
+  },
+  {
+    "cycle": 357,
+    "capacity_Ah": 2.3225000000000002,
+    "capacity_fade_pct": 53.55,
+    "sei_thickness_um": 2.785,
+    "li_plating_um": 3.5700000000000003,
+    "ohmic_resistance_mOhm": 45.7,
+    "ct_resistance_mOhm": 157.1
+  },
+  {
+    "cycle": 358,
+    "capacity_Ah": 2.315,
+    "capacity_fade_pct": 53.7,
+    "sei_thickness_um": 2.79,
+    "li_plating_um": 3.58,
+    "ohmic_resistance_mOhm": 45.8,
+    "ct_resistance_mOhm": 157.39999999999998
+  },
+  {
+    "cycle": 359,
+    "capacity_Ah": 2.3075,
+    "capacity_fade_pct": 53.849999999999994,
+    "sei_thickness_um": 2.795,
+    "li_plating_um": 3.59,
+    "ohmic_resistance_mOhm": 45.900000000000006,
+    "ct_resistance_mOhm": 157.70000000000002
+  },
+  {
+    "cycle": 360,
+    "capacity_Ah": 2.3,
+    "capacity_fade_pct": 54.0,
+    "sei_thickness_um": 2.8000000000000003,
+    "li_plating_um": 3.6,
+    "ohmic_resistance_mOhm": 46.00000000000001,
+    "ct_resistance_mOhm": 157.99999999999997
+  },
+  {
+    "cycle": 361,
+    "capacity_Ah": 2.2925,
+    "capacity_fade_pct": 54.15,
+    "sei_thickness_um": 2.805,
+    "li_plating_um": 3.6100000000000003,
+    "ohmic_resistance_mOhm": 46.1,
+    "ct_resistance_mOhm": 158.29999999999998
+  },
+  {
+    "cycle": 362,
+    "capacity_Ah": 2.2849999999999997,
+    "capacity_fade_pct": 54.300000000000004,
+    "sei_thickness_um": 2.81,
+    "li_plating_um": 3.62,
+    "ohmic_resistance_mOhm": 46.2,
+    "ct_resistance_mOhm": 158.6
+  },
+  {
+    "cycle": 363,
+    "capacity_Ah": 2.2775,
+    "capacity_fade_pct": 54.449999999999996,
+    "sei_thickness_um": 2.815,
+    "li_plating_um": 3.63,
+    "ohmic_resistance_mOhm": 46.300000000000004,
+    "ct_resistance_mOhm": 158.89999999999998
+  },
+  {
+    "cycle": 364,
+    "capacity_Ah": 2.2699999999999996,
+    "capacity_fade_pct": 54.6,
+    "sei_thickness_um": 2.8200000000000003,
+    "li_plating_um": 3.6399999999999997,
+    "ohmic_resistance_mOhm": 46.400000000000006,
+    "ct_resistance_mOhm": 159.20000000000002
+  },
+  {
+    "cycle": 365,
+    "capacity_Ah": 2.2625,
+    "capacity_fade_pct": 54.75,
+    "sei_thickness_um": 2.825,
+    "li_plating_um": 3.6500000000000004,
+    "ohmic_resistance_mOhm": 46.50000000000001,
+    "ct_resistance_mOhm": 159.49999999999997
+  },
+  {
+    "cycle": 366,
+    "capacity_Ah": 2.255,
+    "capacity_fade_pct": 54.900000000000006,
+    "sei_thickness_um": 2.83,
+    "li_plating_um": 3.66,
+    "ohmic_resistance_mOhm": 46.6,
+    "ct_resistance_mOhm": 159.8
+  },
+  {
+    "cycle": 367,
+    "capacity_Ah": 2.2475,
+    "capacity_fade_pct": 55.05,
+    "sei_thickness_um": 2.835,
+    "li_plating_um": 3.67,
+    "ohmic_resistance_mOhm": 46.7,
+    "ct_resistance_mOhm": 160.1
+  },
+  {
+    "cycle": 368,
+    "capacity_Ah": 2.2399999999999998,
+    "capacity_fade_pct": 55.2,
+    "sei_thickness_um": 2.84,
+    "li_plating_um": 3.6799999999999997,
+    "ohmic_resistance_mOhm": 46.800000000000004,
+    "ct_resistance_mOhm": 160.39999999999998
+  },
+  {
+    "cycle": 369,
+    "capacity_Ah": 2.2325,
+    "capacity_fade_pct": 55.35,
+    "sei_thickness_um": 2.8449999999999998,
+    "li_plating_um": 3.6900000000000004,
+    "ohmic_resistance_mOhm": 46.900000000000006,
+    "ct_resistance_mOhm": 160.70000000000002
+  },
+  {
+    "cycle": 370,
+    "capacity_Ah": 2.2249999999999996,
+    "capacity_fade_pct": 55.50000000000001,
+    "sei_thickness_um": 2.8499999999999996,
+    "li_plating_um": 3.7,
+    "ohmic_resistance_mOhm": 47.00000000000001,
+    "ct_resistance_mOhm": 160.99999999999997
+  },
+  {
+    "cycle": 371,
+    "capacity_Ah": 2.2175000000000002,
+    "capacity_fade_pct": 55.65,
+    "sei_thickness_um": 2.855,
+    "li_plating_um": 3.71,
+    "ohmic_resistance_mOhm": 47.1,
+    "ct_resistance_mOhm": 161.3
+  },
+  {
+    "cycle": 372,
+    "capacity_Ah": 2.21,
+    "capacity_fade_pct": 55.800000000000004,
+    "sei_thickness_um": 2.86,
+    "li_plating_um": 3.7199999999999998,
+    "ohmic_resistance_mOhm": 47.2,
+    "ct_resistance_mOhm": 161.6
+  },
+  {
+    "cycle": 373,
+    "capacity_Ah": 2.2025,
+    "capacity_fade_pct": 55.95,
+    "sei_thickness_um": 2.865,
+    "li_plating_um": 3.7300000000000004,
+    "ohmic_resistance_mOhm": 47.300000000000004,
+    "ct_resistance_mOhm": 161.89999999999998
+  },
+  {
+    "cycle": 374,
+    "capacity_Ah": 2.195,
+    "capacity_fade_pct": 56.10000000000001,
+    "sei_thickness_um": 2.87,
+    "li_plating_um": 3.74,
+    "ohmic_resistance_mOhm": 47.400000000000006,
+    "ct_resistance_mOhm": 162.20000000000002
+  },
+  {
+    "cycle": 375,
+    "capacity_Ah": 2.1875,
+    "capacity_fade_pct": 56.25,
+    "sei_thickness_um": 2.875,
+    "li_plating_um": 3.75,
+    "ohmic_resistance_mOhm": 47.5,
+    "ct_resistance_mOhm": 162.49999999999997
+  },
+  {
+    "cycle": 376,
+    "capacity_Ah": 2.1799999999999997,
+    "capacity_fade_pct": 56.400000000000006,
+    "sei_thickness_um": 2.88,
+    "li_plating_um": 3.76,
+    "ohmic_resistance_mOhm": 47.6,
+    "ct_resistance_mOhm": 162.8
+  },
+  {
+    "cycle": 377,
+    "capacity_Ah": 2.1725,
+    "capacity_fade_pct": 56.55,
+    "sei_thickness_um": 2.885,
+    "li_plating_um": 3.77,
+    "ohmic_resistance_mOhm": 47.7,
+    "ct_resistance_mOhm": 163.1
+  },
+  {
+    "cycle": 378,
+    "capacity_Ah": 2.1649999999999996,
+    "capacity_fade_pct": 56.7,
+    "sei_thickness_um": 2.89,
+    "li_plating_um": 3.7800000000000002,
+    "ohmic_resistance_mOhm": 47.800000000000004,
+    "ct_resistance_mOhm": 163.39999999999998
+  },
+  {
+    "cycle": 379,
+    "capacity_Ah": 2.1574999999999998,
+    "capacity_fade_pct": 56.85,
+    "sei_thickness_um": 2.895,
+    "li_plating_um": 3.79,
+    "ohmic_resistance_mOhm": 47.900000000000006,
+    "ct_resistance_mOhm": 163.70000000000002
+  },
+  {
+    "cycle": 380,
+    "capacity_Ah": 2.1499999999999995,
+    "capacity_fade_pct": 57.00000000000001,
+    "sei_thickness_um": 2.9000000000000004,
+    "li_plating_um": 3.8,
+    "ohmic_resistance_mOhm": 48.0,
+    "ct_resistance_mOhm": 163.99999999999997
+  },
+  {
+    "cycle": 381,
+    "capacity_Ah": 2.1425,
+    "capacity_fade_pct": 57.15,
+    "sei_thickness_um": 2.9050000000000002,
+    "li_plating_um": 3.81,
+    "ohmic_resistance_mOhm": 48.1,
+    "ct_resistance_mOhm": 164.3
+  },
+  {
+    "cycle": 382,
+    "capacity_Ah": 2.135,
+    "capacity_fade_pct": 57.300000000000004,
+    "sei_thickness_um": 2.91,
+    "li_plating_um": 3.82,
+    "ohmic_resistance_mOhm": 48.20000000000001,
+    "ct_resistance_mOhm": 164.6
+  },
+  {
+    "cycle": 383,
+    "capacity_Ah": 2.1275,
+    "capacity_fade_pct": 57.45,
+    "sei_thickness_um": 2.915,
+    "li_plating_um": 3.8299999999999996,
+    "ohmic_resistance_mOhm": 48.300000000000004,
+    "ct_resistance_mOhm": 164.89999999999998
+  },
+  {
+    "cycle": 384,
+    "capacity_Ah": 2.1199999999999997,
+    "capacity_fade_pct": 57.60000000000001,
+    "sei_thickness_um": 2.92,
+    "li_plating_um": 3.8400000000000003,
+    "ohmic_resistance_mOhm": 48.400000000000006,
+    "ct_resistance_mOhm": 165.20000000000002
+  },
+  {
+    "cycle": 385,
+    "capacity_Ah": 2.1125,
+    "capacity_fade_pct": 57.75,
+    "sei_thickness_um": 2.925,
+    "li_plating_um": 3.8500000000000005,
+    "ohmic_resistance_mOhm": 48.5,
+    "ct_resistance_mOhm": 165.49999999999997
+  },
+  {
+    "cycle": 386,
+    "capacity_Ah": 2.1050000000000004,
+    "capacity_fade_pct": 57.9,
+    "sei_thickness_um": 2.9299999999999997,
+    "li_plating_um": 3.8600000000000003,
+    "ohmic_resistance_mOhm": 48.6,
+    "ct_resistance_mOhm": 165.8
+  },
+  {
+    "cycle": 387,
+    "capacity_Ah": 2.0975,
+    "capacity_fade_pct": 58.050000000000004,
+    "sei_thickness_um": 2.935,
+    "li_plating_um": 3.87,
+    "ohmic_resistance_mOhm": 48.70000000000001,
+    "ct_resistance_mOhm": 166.1
+  },
+  {
+    "cycle": 388,
+    "capacity_Ah": 2.0900000000000003,
+    "capacity_fade_pct": 58.199999999999996,
+    "sei_thickness_um": 2.94,
+    "li_plating_um": 3.8800000000000003,
+    "ohmic_resistance_mOhm": 48.800000000000004,
+    "ct_resistance_mOhm": 166.4
+  },
+  {
+    "cycle": 389,
+    "capacity_Ah": 2.0825,
+    "capacity_fade_pct": 58.35,
+    "sei_thickness_um": 2.945,
+    "li_plating_um": 3.89,
+    "ohmic_resistance_mOhm": 48.900000000000006,
+    "ct_resistance_mOhm": 166.7
+  },
+  {
+    "cycle": 390,
+    "capacity_Ah": 2.075,
+    "capacity_fade_pct": 58.5,
+    "sei_thickness_um": 2.9499999999999997,
+    "li_plating_um": 3.9,
+    "ohmic_resistance_mOhm": 49.0,
+    "ct_resistance_mOhm": 166.99999999999997
+  },
+  {
+    "cycle": 391,
+    "capacity_Ah": 2.0675,
+    "capacity_fade_pct": 58.650000000000006,
+    "sei_thickness_um": 2.9549999999999996,
+    "li_plating_um": 3.9099999999999997,
+    "ohmic_resistance_mOhm": 49.1,
+    "ct_resistance_mOhm": 167.3
+  },
+  {
+    "cycle": 392,
+    "capacity_Ah": 2.06,
+    "capacity_fade_pct": 58.8,
+    "sei_thickness_um": 2.9599999999999995,
+    "li_plating_um": 3.92,
+    "ohmic_resistance_mOhm": 49.2,
+    "ct_resistance_mOhm": 167.6
+  },
+  {
+    "cycle": 393,
+    "capacity_Ah": 2.0524999999999998,
+    "capacity_fade_pct": 58.95,
+    "sei_thickness_um": 2.9650000000000003,
+    "li_plating_um": 3.9300000000000006,
+    "ohmic_resistance_mOhm": 49.300000000000004,
+    "ct_resistance_mOhm": 167.9
+  },
+  {
+    "cycle": 394,
+    "capacity_Ah": 2.045,
+    "capacity_fade_pct": 59.099999999999994,
+    "sei_thickness_um": 2.97,
+    "li_plating_um": 3.9400000000000004,
+    "ohmic_resistance_mOhm": 49.400000000000006,
+    "ct_resistance_mOhm": 168.2
+  },
+  {
+    "cycle": 395,
+    "capacity_Ah": 2.0374999999999996,
+    "capacity_fade_pct": 59.25,
+    "sei_thickness_um": 2.9750000000000005,
+    "li_plating_um": 3.95,
+    "ohmic_resistance_mOhm": 49.5,
+    "ct_resistance_mOhm": 168.49999999999997
+  },
+  {
+    "cycle": 396,
+    "capacity_Ah": 2.0300000000000002,
+    "capacity_fade_pct": 59.4,
+    "sei_thickness_um": 2.9800000000000004,
+    "li_plating_um": 3.9600000000000004,
+    "ohmic_resistance_mOhm": 49.60000000000001,
+    "ct_resistance_mOhm": 168.8
+  },
+  {
+    "cycle": 397,
+    "capacity_Ah": 2.0225,
+    "capacity_fade_pct": 59.550000000000004,
+    "sei_thickness_um": 2.9850000000000003,
+    "li_plating_um": 3.97,
+    "ohmic_resistance_mOhm": 49.7,
+    "ct_resistance_mOhm": 169.09999999999997
+  },
+  {
+    "cycle": 398,
+    "capacity_Ah": 2.015,
+    "capacity_fade_pct": 59.699999999999996,
+    "sei_thickness_um": 2.99,
+    "li_plating_um": 3.98,
+    "ohmic_resistance_mOhm": 49.800000000000004,
+    "ct_resistance_mOhm": 169.4
+  },
+  {
+    "cycle": 399,
+    "capacity_Ah": 2.0075,
+    "capacity_fade_pct": 59.85,
+    "sei_thickness_um": 2.995,
+    "li_plating_um": 3.9899999999999998,
+    "ohmic_resistance_mOhm": 49.900000000000006,
+    "ct_resistance_mOhm": 169.7
+  },
+  {
+    "cycle": 400,
+    "capacity_Ah": 2.0,
+    "capacity_fade_pct": 60.0,
+    "sei_thickness_um": 3.0,
+    "li_plating_um": 4.0,
+    "ohmic_resistance_mOhm": 50.0,
+    "ct_resistance_mOhm": 169.99999999999997
+  },
+  {
+    "cycle": 401,
+    "capacity_Ah": 1.9924999999999997,
+    "capacity_fade_pct": 60.150000000000006,
+    "sei_thickness_um": 3.005,
+    "li_plating_um": 4.01,
+    "ohmic_resistance_mOhm": 50.10000000000001,
+    "ct_resistance_mOhm": 170.3
+  },
+  {
+    "cycle": 402,
+    "capacity_Ah": 1.985,
+    "capacity_fade_pct": 60.3,
+    "sei_thickness_um": 3.01,
+    "li_plating_um": 4.0200000000000005,
+    "ohmic_resistance_mOhm": 50.2,
+    "ct_resistance_mOhm": 170.59999999999997
+  },
+  {
+    "cycle": 403,
+    "capacity_Ah": 1.9774999999999998,
+    "capacity_fade_pct": 60.45,
+    "sei_thickness_um": 3.015,
+    "li_plating_um": 4.03,
+    "ohmic_resistance_mOhm": 50.300000000000004,
+    "ct_resistance_mOhm": 170.9
+  },
+  {
+    "cycle": 404,
+    "capacity_Ah": 1.9700000000000002,
+    "capacity_fade_pct": 60.6,
+    "sei_thickness_um": 3.02,
+    "li_plating_um": 4.04,
+    "ohmic_resistance_mOhm": 50.400000000000006,
+    "ct_resistance_mOhm": 171.2
+  },
+  {
+    "cycle": 405,
+    "capacity_Ah": 1.9625,
+    "capacity_fade_pct": 60.75000000000001,
+    "sei_thickness_um": 3.025,
+    "li_plating_um": 4.05,
+    "ohmic_resistance_mOhm": 50.5,
+    "ct_resistance_mOhm": 171.5
+  },
+  {
+    "cycle": 406,
+    "capacity_Ah": 1.955,
+    "capacity_fade_pct": 60.9,
+    "sei_thickness_um": 3.03,
+    "li_plating_um": 4.0600000000000005,
+    "ohmic_resistance_mOhm": 50.60000000000001,
+    "ct_resistance_mOhm": 171.8
+  },
+  {
+    "cycle": 407,
+    "capacity_Ah": 1.9474999999999998,
+    "capacity_fade_pct": 61.050000000000004,
+    "sei_thickness_um": 3.0349999999999997,
+    "li_plating_um": 4.07,
+    "ohmic_resistance_mOhm": 50.7,
+    "ct_resistance_mOhm": 172.09999999999997
+  },
+  {
+    "cycle": 408,
+    "capacity_Ah": 1.94,
+    "capacity_fade_pct": 61.199999999999996,
+    "sei_thickness_um": 3.0399999999999996,
+    "li_plating_um": 4.08,
+    "ohmic_resistance_mOhm": 50.800000000000004,
+    "ct_resistance_mOhm": 172.4
+  },
+  {
+    "cycle": 409,
+    "capacity_Ah": 1.9324999999999997,
+    "capacity_fade_pct": 61.35,
+    "sei_thickness_um": 3.0449999999999995,
+    "li_plating_um": 4.09,
+    "ohmic_resistance_mOhm": 50.9,
+    "ct_resistance_mOhm": 172.7
+  },
+  {
+    "cycle": 410,
+    "capacity_Ah": 1.925,
+    "capacity_fade_pct": 61.5,
+    "sei_thickness_um": 3.0499999999999994,
+    "li_plating_um": 4.1,
+    "ohmic_resistance_mOhm": 51.00000000000001,
+    "ct_resistance_mOhm": 173.0
+  },
+  {
+    "cycle": 411,
+    "capacity_Ah": 1.9174999999999998,
+    "capacity_fade_pct": 61.650000000000006,
+    "sei_thickness_um": 3.0550000000000006,
+    "li_plating_um": 4.11,
+    "ohmic_resistance_mOhm": 51.10000000000001,
+    "ct_resistance_mOhm": 173.3
+  },
+  {
+    "cycle": 412,
+    "capacity_Ah": 1.9100000000000001,
+    "capacity_fade_pct": 61.8,
+    "sei_thickness_um": 3.0600000000000005,
+    "li_plating_um": 4.12,
+    "ohmic_resistance_mOhm": 51.2,
+    "ct_resistance_mOhm": 173.59999999999997
+  },
+  {
+    "cycle": 413,
+    "capacity_Ah": 1.9024999999999999,
+    "capacity_fade_pct": 61.95,
+    "sei_thickness_um": 3.0650000000000004,
+    "li_plating_um": 4.13,
+    "ohmic_resistance_mOhm": 51.300000000000004,
+    "ct_resistance_mOhm": 173.9
+  },
+  {
+    "cycle": 414,
+    "capacity_Ah": 1.895,
+    "capacity_fade_pct": 62.1,
+    "sei_thickness_um": 3.0700000000000003,
+    "li_plating_um": 4.140000000000001,
+    "ohmic_resistance_mOhm": 51.4,
+    "ct_resistance_mOhm": 174.2
+  },
+  {
+    "cycle": 415,
+    "capacity_Ah": 1.8874999999999997,
+    "capacity_fade_pct": 62.25000000000001,
+    "sei_thickness_um": 3.075,
+    "li_plating_um": 4.15,
+    "ohmic_resistance_mOhm": 51.50000000000001,
+    "ct_resistance_mOhm": 174.5
+  },
+  {
+    "cycle": 416,
+    "capacity_Ah": 1.88,
+    "capacity_fade_pct": 62.4,
+    "sei_thickness_um": 3.08,
+    "li_plating_um": 4.16,
+    "ohmic_resistance_mOhm": 51.60000000000001,
+    "ct_resistance_mOhm": 174.8
+  },
+  {
+    "cycle": 417,
+    "capacity_Ah": 1.8724999999999996,
+    "capacity_fade_pct": 62.550000000000004,
+    "sei_thickness_um": 3.085,
+    "li_plating_um": 4.17,
+    "ohmic_resistance_mOhm": 51.7,
+    "ct_resistance_mOhm": 175.09999999999997
+  },
+  {
+    "cycle": 418,
+    "capacity_Ah": 1.865,
+    "capacity_fade_pct": 62.7,
+    "sei_thickness_um": 3.09,
+    "li_plating_um": 4.18,
+    "ohmic_resistance_mOhm": 51.800000000000004,
+    "ct_resistance_mOhm": 175.4
+  },
+  {
+    "cycle": 419,
+    "capacity_Ah": 1.8574999999999997,
+    "capacity_fade_pct": 62.85000000000001,
+    "sei_thickness_um": 3.095,
+    "li_plating_um": 4.1899999999999995,
+    "ohmic_resistance_mOhm": 51.9,
+    "ct_resistance_mOhm": 175.69999999999996
+  },
+  {
+    "cycle": 420,
+    "capacity_Ah": 1.85,
+    "capacity_fade_pct": 63.0,
+    "sei_thickness_um": 3.1,
+    "li_plating_um": 4.2,
+    "ohmic_resistance_mOhm": 52.00000000000001,
+    "ct_resistance_mOhm": 176.0
+  },
+  {
+    "cycle": 421,
+    "capacity_Ah": 1.8424999999999998,
+    "capacity_fade_pct": 63.150000000000006,
+    "sei_thickness_um": 3.105,
+    "li_plating_um": 4.21,
+    "ohmic_resistance_mOhm": 52.10000000000001,
+    "ct_resistance_mOhm": 176.3
+  },
+  {
+    "cycle": 422,
+    "capacity_Ah": 1.835,
+    "capacity_fade_pct": 63.3,
+    "sei_thickness_um": 3.11,
+    "li_plating_um": 4.220000000000001,
+    "ohmic_resistance_mOhm": 52.2,
+    "ct_resistance_mOhm": 176.59999999999997
+  },
+  {
+    "cycle": 423,
+    "capacity_Ah": 1.8274999999999997,
+    "capacity_fade_pct": 63.45,
+    "sei_thickness_um": 3.1149999999999998,
+    "li_plating_um": 4.23,
+    "ohmic_resistance_mOhm": 52.300000000000004,
+    "ct_resistance_mOhm": 176.9
+  },
+  {
+    "cycle": 424,
+    "capacity_Ah": 1.8199999999999998,
+    "capacity_fade_pct": 63.6,
+    "sei_thickness_um": 3.1199999999999997,
+    "li_plating_um": 4.24,
+    "ohmic_resistance_mOhm": 52.400000000000006,
+    "ct_resistance_mOhm": 177.19999999999996
+  },
+  {
+    "cycle": 425,
+    "capacity_Ah": 1.8124999999999996,
+    "capacity_fade_pct": 63.75000000000001,
+    "sei_thickness_um": 3.1249999999999996,
+    "li_plating_um": 4.25,
+    "ohmic_resistance_mOhm": 52.50000000000001,
+    "ct_resistance_mOhm": 177.5
+  },
+  {
+    "cycle": 426,
+    "capacity_Ah": 1.805,
+    "capacity_fade_pct": 63.9,
+    "sei_thickness_um": 3.13,
+    "li_plating_um": 4.26,
+    "ohmic_resistance_mOhm": 52.6,
+    "ct_resistance_mOhm": 177.8
+  },
+  {
+    "cycle": 427,
+    "capacity_Ah": 1.7975000000000003,
+    "capacity_fade_pct": 64.05,
+    "sei_thickness_um": 3.135,
+    "li_plating_um": 4.27,
+    "ohmic_resistance_mOhm": 52.7,
+    "ct_resistance_mOhm": 178.1
+  },
+  {
+    "cycle": 428,
+    "capacity_Ah": 1.79,
+    "capacity_fade_pct": 64.2,
+    "sei_thickness_um": 3.1399999999999997,
+    "li_plating_um": 4.279999999999999,
+    "ohmic_resistance_mOhm": 52.800000000000004,
+    "ct_resistance_mOhm": 178.4
+  },
+  {
+    "cycle": 429,
+    "capacity_Ah": 1.7825000000000002,
+    "capacity_fade_pct": 64.35,
+    "sei_thickness_um": 3.1450000000000005,
+    "li_plating_um": 4.29,
+    "ohmic_resistance_mOhm": 52.900000000000006,
+    "ct_resistance_mOhm": 178.69999999999996
+  },
+  {
+    "cycle": 430,
+    "capacity_Ah": 1.775,
+    "capacity_fade_pct": 64.5,
+    "sei_thickness_um": 3.1500000000000004,
+    "li_plating_um": 4.300000000000001,
+    "ohmic_resistance_mOhm": 53.00000000000001,
+    "ct_resistance_mOhm": 179.0
+  },
+  {
+    "cycle": 431,
+    "capacity_Ah": 1.7675,
+    "capacity_fade_pct": 64.64999999999999,
+    "sei_thickness_um": 3.1550000000000002,
+    "li_plating_um": 4.3100000000000005,
+    "ohmic_resistance_mOhm": 53.1,
+    "ct_resistance_mOhm": 179.3
+  },
+  {
+    "cycle": 432,
+    "capacity_Ah": 1.7599999999999998,
+    "capacity_fade_pct": 64.8,
+    "sei_thickness_um": 3.16,
+    "li_plating_um": 4.32,
+    "ohmic_resistance_mOhm": 53.2,
+    "ct_resistance_mOhm": 179.6
+  },
+  {
+    "cycle": 433,
+    "capacity_Ah": 1.7525000000000002,
+    "capacity_fade_pct": 64.95,
+    "sei_thickness_um": 3.165,
+    "li_plating_um": 4.33,
+    "ohmic_resistance_mOhm": 53.300000000000004,
+    "ct_resistance_mOhm": 179.9
+  },
+  {
+    "cycle": 434,
+    "capacity_Ah": 1.7449999999999999,
+    "capacity_fade_pct": 65.10000000000001,
+    "sei_thickness_um": 3.17,
+    "li_plating_um": 4.34,
+    "ohmic_resistance_mOhm": 53.400000000000006,
+    "ct_resistance_mOhm": 180.19999999999996
+  },
+  {
+    "cycle": 435,
+    "capacity_Ah": 1.7375000000000003,
+    "capacity_fade_pct": 65.25,
+    "sei_thickness_um": 3.1750000000000003,
+    "li_plating_um": 4.35,
+    "ohmic_resistance_mOhm": 53.50000000000001,
+    "ct_resistance_mOhm": 180.5
+  },
+  {
+    "cycle": 436,
+    "capacity_Ah": 1.73,
+    "capacity_fade_pct": 65.4,
+    "sei_thickness_um": 3.18,
+    "li_plating_um": 4.359999999999999,
+    "ohmic_resistance_mOhm": 53.6,
+    "ct_resistance_mOhm": 180.8
+  },
+  {
+    "cycle": 437,
+    "capacity_Ah": 1.7225000000000001,
+    "capacity_fade_pct": 65.55,
+    "sei_thickness_um": 3.185,
+    "li_plating_um": 4.37,
+    "ohmic_resistance_mOhm": 53.7,
+    "ct_resistance_mOhm": 181.1
+  },
+  {
+    "cycle": 438,
+    "capacity_Ah": 1.7149999999999999,
+    "capacity_fade_pct": 65.7,
+    "sei_thickness_um": 3.19,
+    "li_plating_um": 4.380000000000001,
+    "ohmic_resistance_mOhm": 53.8,
+    "ct_resistance_mOhm": 181.4
+  },
+  {
+    "cycle": 439,
+    "capacity_Ah": 1.7075,
+    "capacity_fade_pct": 65.85,
+    "sei_thickness_um": 3.195,
+    "li_plating_um": 4.390000000000001,
+    "ohmic_resistance_mOhm": 53.900000000000006,
+    "ct_resistance_mOhm": 181.69999999999996
+  },
+  {
+    "cycle": 440,
+    "capacity_Ah": 1.6999999999999997,
+    "capacity_fade_pct": 66.0,
+    "sei_thickness_um": 3.1999999999999997,
+    "li_plating_um": 4.4,
+    "ohmic_resistance_mOhm": 54.00000000000001,
+    "ct_resistance_mOhm": 182.0
+  },
+  {
+    "cycle": 441,
+    "capacity_Ah": 1.6925000000000001,
+    "capacity_fade_pct": 66.14999999999999,
+    "sei_thickness_um": 3.2049999999999996,
+    "li_plating_um": 4.41,
+    "ohmic_resistance_mOhm": 54.1,
+    "ct_resistance_mOhm": 182.3
+  },
+  {
+    "cycle": 442,
+    "capacity_Ah": 1.6849999999999998,
+    "capacity_fade_pct": 66.3,
+    "sei_thickness_um": 3.21,
+    "li_plating_um": 4.42,
+    "ohmic_resistance_mOhm": 54.2,
+    "ct_resistance_mOhm": 182.6
+  },
+  {
+    "cycle": 443,
+    "capacity_Ah": 1.6775000000000002,
+    "capacity_fade_pct": 66.45,
+    "sei_thickness_um": 3.215,
+    "li_plating_um": 4.43,
+    "ohmic_resistance_mOhm": 54.300000000000004,
+    "ct_resistance_mOhm": 182.9
+  },
+  {
+    "cycle": 444,
+    "capacity_Ah": 1.67,
+    "capacity_fade_pct": 66.60000000000001,
+    "sei_thickness_um": 3.2199999999999998,
+    "li_plating_um": 4.4399999999999995,
+    "ohmic_resistance_mOhm": 54.400000000000006,
+    "ct_resistance_mOhm": 183.19999999999996
+  },
+  {
+    "cycle": 445,
+    "capacity_Ah": 1.6625,
+    "capacity_fade_pct": 66.75,
+    "sei_thickness_um": 3.2249999999999996,
+    "li_plating_um": 4.45,
+    "ohmic_resistance_mOhm": 54.50000000000001,
+    "ct_resistance_mOhm": 183.5
+  },
+  {
+    "cycle": 446,
+    "capacity_Ah": 1.6549999999999998,
+    "capacity_fade_pct": 66.9,
+    "sei_thickness_um": 3.2300000000000004,
+    "li_plating_um": 4.460000000000001,
+    "ohmic_resistance_mOhm": 54.6,
+    "ct_resistance_mOhm": 183.79999999999995
+  },
+  {
+    "cycle": 447,
+    "capacity_Ah": 1.6475,
+    "capacity_fade_pct": 67.05,
+    "sei_thickness_um": 3.2350000000000003,
+    "li_plating_um": 4.470000000000001,
+    "ohmic_resistance_mOhm": 54.7,
+    "ct_resistance_mOhm": 184.1
+  },
+  {
+    "cycle": 448,
+    "capacity_Ah": 1.6399999999999997,
+    "capacity_fade_pct": 67.2,
+    "sei_thickness_um": 3.24,
+    "li_plating_um": 4.48,
+    "ohmic_resistance_mOhm": 54.800000000000004,
+    "ct_resistance_mOhm": 184.4
+  },
+  {
+    "cycle": 449,
+    "capacity_Ah": 1.6325,
+    "capacity_fade_pct": 67.35,
+    "sei_thickness_um": 3.245,
+    "li_plating_um": 4.49,
+    "ohmic_resistance_mOhm": 54.900000000000006,
+    "ct_resistance_mOhm": 184.7
+  },
+  {
+    "cycle": 450,
+    "capacity_Ah": 1.6249999999999998,
+    "capacity_fade_pct": 67.5,
+    "sei_thickness_um": 3.2500000000000004,
+    "li_plating_um": 4.5,
+    "ohmic_resistance_mOhm": 55.00000000000001,
+    "ct_resistance_mOhm": 185.0
+  },
+  {
+    "cycle": 451,
+    "capacity_Ah": 1.6175000000000002,
+    "capacity_fade_pct": 67.65,
+    "sei_thickness_um": 3.2550000000000003,
+    "li_plating_um": 4.51,
+    "ohmic_resistance_mOhm": 55.1,
+    "ct_resistance_mOhm": 185.29999999999995
+  },
+  {
+    "cycle": 452,
+    "capacity_Ah": 1.6099999999999999,
+    "capacity_fade_pct": 67.80000000000001,
+    "sei_thickness_um": 3.2600000000000002,
+    "li_plating_um": 4.52,
+    "ohmic_resistance_mOhm": 55.2,
+    "ct_resistance_mOhm": 185.6
+  },
+  {
+    "cycle": 453,
+    "capacity_Ah": 1.6025,
+    "capacity_fade_pct": 67.95,
+    "sei_thickness_um": 3.265,
+    "li_plating_um": 4.53,
+    "ohmic_resistance_mOhm": 55.300000000000004,
+    "ct_resistance_mOhm": 185.9
+  },
+  {
+    "cycle": 454,
+    "capacity_Ah": 1.5949999999999998,
+    "capacity_fade_pct": 68.10000000000001,
+    "sei_thickness_um": 3.27,
+    "li_plating_um": 4.54,
+    "ohmic_resistance_mOhm": 55.400000000000006,
+    "ct_resistance_mOhm": 186.2
+  },
+  {
+    "cycle": 455,
+    "capacity_Ah": 1.5875,
+    "capacity_fade_pct": 68.25,
+    "sei_thickness_um": 3.275,
+    "li_plating_um": 4.550000000000001,
+    "ohmic_resistance_mOhm": 55.5,
+    "ct_resistance_mOhm": 186.5
+  },
+  {
+    "cycle": 456,
+    "capacity_Ah": 1.5799999999999996,
+    "capacity_fade_pct": 68.4,
+    "sei_thickness_um": 3.28,
+    "li_plating_um": 4.5600000000000005,
+    "ohmic_resistance_mOhm": 55.6,
+    "ct_resistance_mOhm": 186.79999999999995
+  },
+  {
+    "cycle": 457,
+    "capacity_Ah": 1.5725,
+    "capacity_fade_pct": 68.55,
+    "sei_thickness_um": 3.2849999999999997,
+    "li_plating_um": 4.57,
+    "ohmic_resistance_mOhm": 55.70000000000001,
+    "ct_resistance_mOhm": 187.1
+  },
+  {
+    "cycle": 458,
+    "capacity_Ah": 1.5649999999999997,
+    "capacity_fade_pct": 68.7,
+    "sei_thickness_um": 3.29,
+    "li_plating_um": 4.58,
+    "ohmic_resistance_mOhm": 55.800000000000004,
+    "ct_resistance_mOhm": 187.4
+  },
+  {
+    "cycle": 459,
+    "capacity_Ah": 1.5575,
+    "capacity_fade_pct": 68.85,
+    "sei_thickness_um": 3.295,
+    "li_plating_um": 4.59,
+    "ohmic_resistance_mOhm": 55.900000000000006,
+    "ct_resistance_mOhm": 187.7
+  },
+  {
+    "cycle": 460,
+    "capacity_Ah": 1.5499999999999998,
+    "capacity_fade_pct": 69.0,
+    "sei_thickness_um": 3.3,
+    "li_plating_um": 4.6,
+    "ohmic_resistance_mOhm": 56.0,
+    "ct_resistance_mOhm": 188.0
+  },
+  {
+    "cycle": 461,
+    "capacity_Ah": 1.5425,
+    "capacity_fade_pct": 69.15,
+    "sei_thickness_um": 3.3049999999999997,
+    "li_plating_um": 4.61,
+    "ohmic_resistance_mOhm": 56.1,
+    "ct_resistance_mOhm": 188.29999999999995
+  },
+  {
+    "cycle": 462,
+    "capacity_Ah": 1.5349999999999997,
+    "capacity_fade_pct": 69.30000000000001,
+    "sei_thickness_um": 3.3099999999999996,
+    "li_plating_um": 4.62,
+    "ohmic_resistance_mOhm": 56.20000000000001,
+    "ct_resistance_mOhm": 188.6
+  },
+  {
+    "cycle": 463,
+    "capacity_Ah": 1.5274999999999999,
+    "capacity_fade_pct": 69.45,
+    "sei_thickness_um": 3.3149999999999995,
+    "li_plating_um": 4.63,
+    "ohmic_resistance_mOhm": 56.300000000000004,
+    "ct_resistance_mOhm": 188.9
+  },
+  {
+    "cycle": 464,
+    "capacity_Ah": 1.5199999999999996,
+    "capacity_fade_pct": 69.60000000000001,
+    "sei_thickness_um": 3.3200000000000003,
+    "li_plating_um": 4.640000000000001,
+    "ohmic_resistance_mOhm": 56.400000000000006,
+    "ct_resistance_mOhm": 189.2
+  },
+  {
+    "cycle": 465,
+    "capacity_Ah": 1.5125,
+    "capacity_fade_pct": 69.75,
+    "sei_thickness_um": 3.325,
+    "li_plating_um": 4.65,
+    "ohmic_resistance_mOhm": 56.5,
+    "ct_resistance_mOhm": 189.5
+  },
+  {
+    "cycle": 466,
+    "capacity_Ah": 1.5049999999999997,
+    "capacity_fade_pct": 69.9,
+    "sei_thickness_um": 3.3300000000000005,
+    "li_plating_um": 4.66,
+    "ohmic_resistance_mOhm": 56.6,
+    "ct_resistance_mOhm": 189.79999999999995
+  },
+  {
+    "cycle": 467,
+    "capacity_Ah": 1.4975,
+    "capacity_fade_pct": 70.05,
+    "sei_thickness_um": 3.3350000000000004,
+    "li_plating_um": 4.67,
+    "ohmic_resistance_mOhm": 56.70000000000001,
+    "ct_resistance_mOhm": 190.1
+  },
+  {
+    "cycle": 468,
+    "capacity_Ah": 1.4899999999999998,
+    "capacity_fade_pct": 70.2,
+    "sei_thickness_um": 3.3400000000000003,
+    "li_plating_um": 4.68,
+    "ohmic_resistance_mOhm": 56.800000000000004,
+    "ct_resistance_mOhm": 190.4
+  },
+  {
+    "cycle": 469,
+    "capacity_Ah": 1.4825,
+    "capacity_fade_pct": 70.35,
+    "sei_thickness_um": 3.345,
+    "li_plating_um": 4.69,
+    "ohmic_resistance_mOhm": 56.900000000000006,
+    "ct_resistance_mOhm": 190.7
+  },
+  {
+    "cycle": 470,
+    "capacity_Ah": 1.475,
+    "capacity_fade_pct": 70.5,
+    "sei_thickness_um": 3.35,
+    "li_plating_um": 4.7,
+    "ohmic_resistance_mOhm": 57.0,
+    "ct_resistance_mOhm": 191.0
+  },
+  {
+    "cycle": 471,
+    "capacity_Ah": 1.4674999999999998,
+    "capacity_fade_pct": 70.65,
+    "sei_thickness_um": 3.355,
+    "li_plating_um": 4.71,
+    "ohmic_resistance_mOhm": 57.1,
+    "ct_resistance_mOhm": 191.29999999999998
+  },
+  {
+    "cycle": 472,
+    "capacity_Ah": 1.4600000000000002,
+    "capacity_fade_pct": 70.8,
+    "sei_thickness_um": 3.36,
+    "li_plating_um": 4.72,
+    "ohmic_resistance_mOhm": 57.2,
+    "ct_resistance_mOhm": 191.6
+  },
+  {
+    "cycle": 473,
+    "capacity_Ah": 1.4525,
+    "capacity_fade_pct": 70.95,
+    "sei_thickness_um": 3.3649999999999998,
+    "li_plating_um": 4.73,
+    "ohmic_resistance_mOhm": 57.300000000000004,
+    "ct_resistance_mOhm": 191.9
+  },
+  {
+    "cycle": 474,
+    "capacity_Ah": 1.4450000000000003,
+    "capacity_fade_pct": 71.1,
+    "sei_thickness_um": 3.37,
+    "li_plating_um": 4.74,
+    "ohmic_resistance_mOhm": 57.400000000000006,
+    "ct_resistance_mOhm": 192.2
+  },
+  {
+    "cycle": 475,
+    "capacity_Ah": 1.4375,
+    "capacity_fade_pct": 71.25,
+    "sei_thickness_um": 3.375,
+    "li_plating_um": 4.75,
+    "ohmic_resistance_mOhm": 57.5,
+    "ct_resistance_mOhm": 192.5
+  },
+  {
+    "cycle": 476,
+    "capacity_Ah": 1.4300000000000002,
+    "capacity_fade_pct": 71.39999999999999,
+    "sei_thickness_um": 3.38,
+    "li_plating_um": 4.76,
+    "ohmic_resistance_mOhm": 57.60000000000001,
+    "ct_resistance_mOhm": 192.79999999999998
+  },
+  {
+    "cycle": 477,
+    "capacity_Ah": 1.4224999999999999,
+    "capacity_fade_pct": 71.55,
+    "sei_thickness_um": 3.385,
+    "li_plating_um": 4.7700000000000005,
+    "ohmic_resistance_mOhm": 57.7,
+    "ct_resistance_mOhm": 193.1
+  },
+  {
+    "cycle": 478,
+    "capacity_Ah": 1.415,
+    "capacity_fade_pct": 71.7,
+    "sei_thickness_um": 3.3899999999999997,
+    "li_plating_um": 4.78,
+    "ohmic_resistance_mOhm": 57.800000000000004,
+    "ct_resistance_mOhm": 193.4
+  },
+  {
+    "cycle": 479,
+    "capacity_Ah": 1.4074999999999998,
+    "capacity_fade_pct": 71.85000000000001,
+    "sei_thickness_um": 3.3949999999999996,
+    "li_plating_um": 4.79,
+    "ohmic_resistance_mOhm": 57.900000000000006,
+    "ct_resistance_mOhm": 193.7
+  },
+  {
+    "cycle": 480,
+    "capacity_Ah": 1.4000000000000001,
+    "capacity_fade_pct": 72.0,
+    "sei_thickness_um": 3.3999999999999995,
+    "li_plating_um": 4.8,
+    "ohmic_resistance_mOhm": 58.0,
+    "ct_resistance_mOhm": 194.0
+  },
+  {
+    "cycle": 481,
+    "capacity_Ah": 1.3924999999999998,
+    "capacity_fade_pct": 72.15,
+    "sei_thickness_um": 3.405,
+    "li_plating_um": 4.81,
+    "ohmic_resistance_mOhm": 58.10000000000001,
+    "ct_resistance_mOhm": 194.29999999999998
+  },
+  {
+    "cycle": 482,
+    "capacity_Ah": 1.3850000000000002,
+    "capacity_fade_pct": 72.3,
+    "sei_thickness_um": 3.4100000000000006,
+    "li_plating_um": 4.82,
+    "ohmic_resistance_mOhm": 58.2,
+    "ct_resistance_mOhm": 194.6
+  },
+  {
+    "cycle": 483,
+    "capacity_Ah": 1.3775,
+    "capacity_fade_pct": 72.45,
+    "sei_thickness_um": 3.4150000000000005,
+    "li_plating_um": 4.83,
+    "ohmic_resistance_mOhm": 58.300000000000004,
+    "ct_resistance_mOhm": 194.9
+  },
+  {
+    "cycle": 484,
+    "capacity_Ah": 1.37,
+    "capacity_fade_pct": 72.6,
+    "sei_thickness_um": 3.4200000000000004,
+    "li_plating_um": 4.84,
+    "ohmic_resistance_mOhm": 58.400000000000006,
+    "ct_resistance_mOhm": 195.2
+  },
+  {
+    "cycle": 485,
+    "capacity_Ah": 1.3624999999999998,
+    "capacity_fade_pct": 72.75,
+    "sei_thickness_um": 3.4250000000000003,
+    "li_plating_um": 4.8500000000000005,
+    "ohmic_resistance_mOhm": 58.5,
+    "ct_resistance_mOhm": 195.5
+  },
+  {
+    "cycle": 486,
+    "capacity_Ah": 1.355,
+    "capacity_fade_pct": 72.89999999999999,
+    "sei_thickness_um": 3.43,
+    "li_plating_um": 4.86,
+    "ohmic_resistance_mOhm": 58.60000000000001,
+    "ct_resistance_mOhm": 195.79999999999998
+  },
+  {
+    "cycle": 487,
+    "capacity_Ah": 1.3474999999999997,
+    "capacity_fade_pct": 73.05,
+    "sei_thickness_um": 3.435,
+    "li_plating_um": 4.87,
+    "ohmic_resistance_mOhm": 58.7,
+    "ct_resistance_mOhm": 196.1
+  },
+  {
+    "cycle": 488,
+    "capacity_Ah": 1.34,
+    "capacity_fade_pct": 73.2,
+    "sei_thickness_um": 3.44,
+    "li_plating_um": 4.88,
+    "ohmic_resistance_mOhm": 58.800000000000004,
+    "ct_resistance_mOhm": 196.39999999999998
+  },
+  {
+    "cycle": 489,
+    "capacity_Ah": 1.3324999999999998,
+    "capacity_fade_pct": 73.35000000000001,
+    "sei_thickness_um": 3.445,
+    "li_plating_um": 4.89,
+    "ohmic_resistance_mOhm": 58.9,
+    "ct_resistance_mOhm": 196.7
+  },
+  {
+    "cycle": 490,
+    "capacity_Ah": 1.3250000000000002,
+    "capacity_fade_pct": 73.5,
+    "sei_thickness_um": 3.45,
+    "li_plating_um": 4.9,
+    "ohmic_resistance_mOhm": 59.00000000000001,
+    "ct_resistance_mOhm": 197.0
+  },
+  {
+    "cycle": 491,
+    "capacity_Ah": 1.3175,
+    "capacity_fade_pct": 73.65,
+    "sei_thickness_um": 3.455,
+    "li_plating_um": 4.91,
+    "ohmic_resistance_mOhm": 59.10000000000001,
+    "ct_resistance_mOhm": 197.29999999999998
+  },
+  {
+    "cycle": 492,
+    "capacity_Ah": 1.31,
+    "capacity_fade_pct": 73.8,
+    "sei_thickness_um": 3.46,
+    "li_plating_um": 4.92,
+    "ohmic_resistance_mOhm": 59.2,
+    "ct_resistance_mOhm": 197.6
+  },
+  {
+    "cycle": 493,
+    "capacity_Ah": 1.3024999999999998,
+    "capacity_fade_pct": 73.95,
+    "sei_thickness_um": 3.465,
+    "li_plating_um": 4.930000000000001,
+    "ohmic_resistance_mOhm": 59.300000000000004,
+    "ct_resistance_mOhm": 197.89999999999998
+  },
+  {
+    "cycle": 494,
+    "capacity_Ah": 1.295,
+    "capacity_fade_pct": 74.1,
+    "sei_thickness_um": 3.4699999999999998,
+    "li_plating_um": 4.94,
+    "ohmic_resistance_mOhm": 59.4,
+    "ct_resistance_mOhm": 198.2
+  },
+  {
+    "cycle": 495,
+    "capacity_Ah": 1.2874999999999996,
+    "capacity_fade_pct": 74.25,
+    "sei_thickness_um": 3.4749999999999996,
+    "li_plating_um": 4.95,
+    "ohmic_resistance_mOhm": 59.50000000000001,
+    "ct_resistance_mOhm": 198.5
+  },
+  {
+    "cycle": 496,
+    "capacity_Ah": 1.28,
+    "capacity_fade_pct": 74.4,
+    "sei_thickness_um": 3.4799999999999995,
+    "li_plating_um": 4.96,
+    "ohmic_resistance_mOhm": 59.60000000000001,
+    "ct_resistance_mOhm": 198.79999999999998
+  },
+  {
+    "cycle": 497,
+    "capacity_Ah": 1.2724999999999997,
+    "capacity_fade_pct": 74.55000000000001,
+    "sei_thickness_um": 3.485,
+    "li_plating_um": 4.97,
+    "ohmic_resistance_mOhm": 59.7,
+    "ct_resistance_mOhm": 199.1
+  },
+  {
+    "cycle": 498,
+    "capacity_Ah": 1.2650000000000001,
+    "capacity_fade_pct": 74.7,
+    "sei_thickness_um": 3.4899999999999998,
+    "li_plating_um": 4.9799999999999995,
+    "ohmic_resistance_mOhm": 59.800000000000004,
+    "ct_resistance_mOhm": 199.39999999999998
+  },
+  {
+    "cycle": 499,
+    "capacity_Ah": 1.2574999999999998,
+    "capacity_fade_pct": 74.85000000000001,
+    "sei_thickness_um": 3.4950000000000006,
+    "li_plating_um": 4.99,
+    "ohmic_resistance_mOhm": 59.9,
+    "ct_resistance_mOhm": 199.7
+  }
+]
